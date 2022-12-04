@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/workouts_page', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
-    siteTitle: 'Yao\'s workout records',
+    siteTitle: 'Yao \'s workout records',
     siteUrl: 'https://nightwishhy.github.io/workouts_page/',
     logo: 'https://avatars.githubusercontent.com/u/8764980?s=400&u=c502479764893c7637be70128fa6ba0fc13adfbb',
     description: 'Personal Workouts Page',
@@ -9,11 +9,11 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://ben29.xyz',
+        url: 'https://www.baidu.com',
       },
       {
         name: 'About',
-        url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+        url: 'https://www.baidu.com',
       },
     ],
   },
