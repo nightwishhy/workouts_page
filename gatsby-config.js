@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Yao\'s workout records',
     siteUrl: 'https://nightwishhy.github.io/workouts_page/',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+    logo: 'https://avatars.githubusercontent.com/u/8764980?s=400&u=c502479764893c7637be70128fa6ba0fc13adfbb',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
