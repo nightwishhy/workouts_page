@@ -7633,5 +7633,20 @@
 "average_speed": 7.423,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8210610663,
+"name": "Zwift - Group Ride: USMES Back to Work Ride on Island Outskirts in Makuri Islands",
+"distance": 25317.2,
+"moving_time": "0:49:18",
+"type": "VirtualRide",
+"start_date": "2022-12-05 13:55:46+00:00",
+"start_date_local": "2022-12-05 21:55:46",
+"location_country": "Nea, Temotu, Solomon Islands",
+"summary_polyline": "bh_aAa|~r^t@?r@}@Fs@eBwB`@gArAkAnAOdDpDdAi@Gs@iD{Fu@e@cDj@qAuAq@mBc@W{Ef@iASWm@JgDw@s@aCRgF~BoAKq@sAWqBeAsABe@jA{A{A_Dw@cIPmBmA}@WwDgBqBp@aDQMiBr@yA_AqAgCV_Du@e@gAb@qA`Fe@DW[^gDxAyEbAuA@{BYqBtAcCq@oAmCf@u@lAMlC}FrC}Dh@cGi@_Fd@}HlDsEh@gDvB}GfAWxAaAhA^xEkDfDK~AnAhBtB]zAp@lA|AQvCtEpAd@l@Br@_AnBgBx@q@Q]kCY[qB^{Ak@_BfAq@bBj@x@LfApCzAXj@_@x@uCdAC`BfAvAhBSpBr@x@e@lBeDn@[rCd@pGuBpAL`A`AjBTXdAPzFaDtCQpBj@`AvDhBn@z@~C|MB`Bk@jDjCzACvBf@fAxCf@`C_@j@uAWcCw@aAmAa@o@R]|@?r@z@xBa@pEnAjAhF{AjFo@n@c@jAcCdFk@fA}Dt@eAzJ}J|FeCbAgEt@y@`CSjC`@rD|Cz@a@^_A_BqBCs@zBcChAErChDdAQFaAiE}GwDd@oAoA}@}Ba@OaFh@eAYSeANgC_@o@qCFqFbCeAEc@c@q@iDeAwApAaC{AuCu@yHN{BqAeAMcDkBqBn@mD{Bd@cBkAiA{BX{Co@e@mAd@oAxE_@Ja@c@HaBlByGbAmADiC[kBrAoCc@{@cAEmA`@y@tAQlCcGpC}Df@sFk@mE^oIpD_Fn@cDpBuGdA_@`B_AbA^xEkDjDM|AlAhB|BYzAt@fAzAWjC~ExA`@j@?|@}@hBqBv@i@[i@wCc@MgAd@kBk@iBpAi@pAfA~CfChAVh@]t@yCjADnBv@`A`BQrAp@~@?nDyEr@IrBf@vFuBzADlAbApBXV~@PdGyChCYpBp@lAnD`Bt@~@zCnMFfBk@fCBv@fCnAExBf@dAdCd@nBI`As@NcBg@oBaCiAc@R]z@?p@z@|Ba@tE|@`AbA?nDsA`Gw@lB_DfFo@`AsDx@mA`KaK|FgC~@eEd@m@xB]lCZ|@`@xAlBbAPp@k@T_AuAsAMeA`BoBzA]lDtDdAu@uEaIwDd@mAmAsAkCeFd@_AMa@{@LeDa@g@aCBcGhCuAYcAaEaAqApAkC{AeCw@cIP}BoAy@OgDu@w@",
+"average_heartrate": 163.9,
+"average_speed": 8.559,
+"source": "strava",
+"streak": 1
 }
 ]
