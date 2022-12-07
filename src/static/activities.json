@@ -7648,5 +7648,20 @@
 "average_speed": 8.559,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8215017945,
+"name": "Zwift - Pace Partner Ride: Big Foot Hills in Watopia with Miguel",
+"distance": 26783.6,
+"moving_time": "0:50:05",
+"type": "VirtualRide",
+"start_date": "2022-12-06 14:10:31+00:00",
+"start_date_local": "2022-12-06 22:10:31",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "ds`fA}`dz^VmC_AeEcBuCkEeDMiAhAwE`EcBbA{ALaBUgB_EgF|BiCScBLcAlI_Tb@eEKkAm@}@aFaBgAw@y@}AQmB`G{MrAqE~Cs@zBt@`AEt@e@bB_DxCGvBgAd@eBGeB}CeFh@iAvAq@dBb@fFpIlAr@hBaApAoEl@GnA`@|@nA?zD|CzBM`BaC|@e@|@EfLsAtRh@pAzCjDRtAZR`Gj@nLyCt@@v@n@|@|GXvIMlCoBlBQp@HbFr@lDfB`AhCIzAn@lDd@hBxAj@|CnAp@|@w@dDyJzA_@zBxAXfCbENbAb@jArB\\~BC|Bg@jAgLnGk@~@UbCoBv@gAlAIpBx@tBtAh@?~BeEbD_@G}@sAcBGQn@n@x@YnC{@\\mCIy@Rk@`C_Bz@_A~B}@?Uu@hAwB_@oBlAu@[uA{BoAaBVy@p@NpCk@`@w@m@eAuCdAeEk@yDLsBpB`@tAGvAiBUuAy@wAuAOgCxAcBPQk@^oFa@c@cBQiAR_CnCqCv@}BJcEcAwBpCyC`@yCrAYn@tCl@jDrAfDwAfCh@Dr@w@f@wAB_DbAeEc@i@RK`@\\`@nCPdAlAlBQdC`@hCe@jBfAlCbG[zAeAbAuArDeC`AoDPmAgBwAo@yAyDm@Io@p@i@AqAkD_@Yi@L]bBwA[kAl@iAs@aAHAv@dCvCg@j@sB]w@u@_@s@TiAUe@iCk@iDN}@h@Vp@fD]N`@_EdBEh@fDhAXxAc@nABl@tChAXbAyBzBiBf@e@nCu@Jw@eB^qAOqBy@y@mAIwAd@w@vBAz@|@dAElAz@pA}AzAi@vCc@C}@gBlA_CA_@eAE}AxAY]NaB_@i@qB~@aAjBgBWqA^wCc@g@\\k@|AQtAVvBfA`BDfAnBbCv@jG@dD_@zDuDvIc@~C\\fCzBzCa@`GtAtLtFRFl@]jAw@BUo@FaHv@iAf@v@tBfIp@f@n@KN{AyBoII{A~GkAzGsFpB_A|G@hEf@|ApAr@`CK~AiCxCi@pAFpIQdAaFu@iFhE}MhBcFrAk@f@WtB?hC\\bAnADzLqCrGe@vYjGbA_ArAoFj@aA~CE~D_@xEn@h@|DzB~CC|AcCv@Gh@|@pCrB^Ll@WXgCL@`@bAn@Yd@uCm@oCj@iGzF_AdDy@dHl@`O]bFc@~Ag@XsCeB",
+"average_heartrate": 157.9,
+"average_speed": 8.913,
+"source": "strava",
+"streak": 2
 }
 ]
