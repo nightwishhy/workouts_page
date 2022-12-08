@@ -7663,5 +7663,20 @@
 "average_speed": 8.913,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 8219131919,
+"name": "Zwift - Pace Partner Ride: Neokyo All-Nighter in Makuri Islands with Taylor",
+"distance": 13022.5,
+"moving_time": "0:28:19",
+"type": "VirtualRide",
+"start_date": "2022-12-07 13:06:42+00:00",
+"start_date_local": "2022-12-07 21:06:42",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "d~x`Aklfs^~uBzIPfA?VIV_@ZGJ@Nh@f@DXGZIJMDM@OC[Si@OIGEK?MFoA?k@Iy@k@wDA[BMJIt@GJEHIBM?KYgBGIIGKAWFk@Xs@HIFCL^hB@NALGJWHyCX]RQ^e@nFOh@W^e@Ng@B{BMuAO[BIFGJQ`BOVYJ{ARy@R_AASB]JQNO\\WrCKbDCVIV]f@eBjBsDxE[ZWNe@Rm@J]@q@CcE{@gAg@OCi@CeADoBG{@Kk@UUQU_@EY@MPc@z@iBtAuDTa@\\_@^S|BgAZa@F[RsCJmCA[Qg@?MDwCLmDRaAAKGKIGYGi@EMBWNGHAL@X^vB@\\Ef@GZINMJg@VIJEN?ZJTbAx@p@lAPLJ@JCNSRgA@s@AwBD{@?_@G_@K[aAcCKu@RcJEu@Qm@OQQO_@IcFQe@D_@RKVCtA@xAGn@QXYN_@DaEO]BYLGLEZGfEGx@MX_@`@e@\\sAz@SZQp@M\\KJaAp@SVEPC|A@z@Jf@PVTLd@Lt@B`KBdCHt@PtG|Bh@JLAXMR[BQFmALkAh@mDA{CDgA?SGc@Ma@w@kBK_@E_@P_JAq@G]KYOWc@UYEiEO[KSUO[CM@}AD}AOy@D]TcADaAA[CIOKIAI@MPI^KTSPK@{BCMGMKEGAUFUFITInBBRCPOFM@q@FQRKx@@HCFIBWEKGGKEa@CcCAQCQMGSBUDIVGn@AHGBK@KIYEISOa@EiB@SDUNIX?lA@d@JVFFTD`@?VHLV@^GTGFUFg@@SLENETC~@?XHXNH|@JNDPRBXEZILUJo@JIHIRE^AlADbBCz@GZe@bACTAZF\\JHLDj@DjB?RFDH?JGHGDWB_AAMBGHCJBLr@|@JVDX?\\MTUPYBMAWM][c@y@OWKG[GO@OFIN?b@CRMLQFUASEOMIQAUBi@CSOKS?KLCx@INOHc@By@EQEOMGQCU@g@@SHSLKRG`AATCPIHUEgAFUJSROVIfAGTGPQDW?WMOUCo@ASIIWCWBUHSPI`AENODUBo@JQTGTBJNDh@@rBFRRJV@TGNMFU@UAcABUFSRKVATFNPFV?VIjADVPPbAHPHHPDj@AbB@z@Ev@EPKNOJc@JwEO_@FKHELG^ElDCx@GXOX_@^uBtAS\\[hAUV}@l@QVE\\CvA@h@BXPb@RPVJh@H~JDhDHx@P|G`CTDX@LERQN[NmCQo@]y@k@cA_Au@KMEQAQ",
+"average_heartrate": 136.6,
+"average_speed": 7.665,
+"source": "strava",
+"streak": 3
 }
 ]
