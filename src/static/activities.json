@@ -7723,5 +7723,20 @@
 "average_speed": 8.291,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8247734175,
+"name": "Zwift - Lady Liberty in New York",
+"distance": 15757.8,
+"moving_time": "0:38:03",
+"type": "VirtualRide",
+"start_date": "2022-12-14 14:03:33+00:00",
+"start_date_local": "2022-12-14 22:03:33",
+"location_country": "Alexander Hamilton, East Drive, Manhattan, New York County, City of New York, New York, 10021, United States",
+"summary_polyline": "a}{wFdembMlEfDtG~F|@j@vCx@vBd@rBEj@Hb@f@hAvCZl@`AfAbAr@n@Lt@At@ObBm@d@Eh@HhBv@b@Z\\`@xAhDt@jApD`Cl@p@r@jAN~@KbA_AvCOx@?~@N~@hAlB`A`A|BzAbFlCb@z@Ft@Ex@Mt@gAzDi@hAURWF[GYS}BoCkAiAkCkBeByAi@o@Wg@[aAIc@@k@Ja@f@K|Cf@p@Cj@[zBmB^I|@@VIVYd@y@PMT@RLbA`ALZF^KdA]bAuBpEY|@Mn@?hAf@tC?j@S^{@d@_@b@cAvCQv@Iz@F~@f@~@jA`AhBdAhBn@p@Bb@E`@Q\\[vA{B^w@f@{AxFuSj@_BdCsFZ}@R_ABaAG_@[s@gAgAcDqBm@Us@My@F[Vw@`B]DY[}@gB[]a@K_@D}@j@k@dA}AbE]p@SRWFqADs@`@{AtAs@X]?{Cg@]BWRK`@Ab@J`Ah@rAd@l@~@|@vEnDbAbAtBlCLt@Gn@Wb@[Xk@X_@FmA_@_BkA_B}AmDeF}AmBcAaAcAm@yGgCiBiA}@aBgAgD_@c@e@U{@IkCBuCTg@Co@WgCkCsCkF_AsAeJqK_Au@s@WmDN{@S[a@[qA]q@qCcD{AmAeA]s@?s@JsC~@qALoAQgBw@{AmA}AaCg@uAa@{BUw@]w@g@o@c@Sg@IyE]]a@aAeCo@w@gAy@qIwE]g@Ys@eA_Eo@iBE]H[nAeCRk@TcAFuAI{@Su@k@uA{@{AUm@SsADs@T]h@OfCTfDMj@Jf@\\x@|@jChD|@~@zB`BnBv@`AItBmAfAW~FX|Af@tYjRxB`BVx@J`ACp@QtBAhAZlBl@jB~@~@hInGfGrFpAp@zEjAv@HvAIl@Lb@h@~@hC\\p@hAnAjAt@t@Jh@EpC{@j@Ed@HlAf@hAr@\\f@jAtCj@bAh@f@vChB~@jAd@~@Ft@Cb@gArDM|@?`ATbAlAlBdA`AnCdB`EtB\\l@Nv@Af@K|@u@xC{@zBe@^_@?]SkE{Eo@e@[IAB~@h@zAzAnB~BP`@Fn@O|@m@p@q@\\]Do@M{A}@iCcCaB_C",
+"average_heartrate": 139.4,
+"average_speed": 6.902,
+"source": "strava",
+"streak": 2
 }
 ]
