@@ -7738,5 +7738,20 @@
 "average_speed": 6.902,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 8266648998,
+"name": "Zwift - The London Pretzel in London",
+"distance": 30040.9,
+"moving_time": "1:01:02",
+"type": "VirtualRide",
+"start_date": "2022-12-19 13:08:24+00:00",
+"start_date_local": "2022-12-19 21:08:24",
+"location_country": "All Hallows-by-the-Tower, Byward Street, Aldgate, London Borough of Tower Hamlets, City of London, Greater London, England, EC3R 5BJ, United Kingdom",
+"summary_polyline": "qjkyHv{NHxACtBwArUs@rJS`BsAfIgBhPo@dIW`GWrXFjBf@bGJtCEhQHnHI`_@VjIr@~IbB|Jv@vDh@jB|AzDbCpEt@p@jCfBxC|Ad@f@Jh@A|@YdBoBzQ_@hC@^`@bADp@e@zCq@rL?pAJt@h@xBjHzXfCpIBh@Wp@aNbMC\\Ll@pDxJlGlOrBnFpAvCbB~CzAfEv@rCV`BPdCLvJt@vG|@~Kb@dLr@|F|@nEZ|@l@dApF`HzBrEJN\\DZSVc@`AcEt@wGB[C{@Jy@Zc@fAc@NQFY?_@MyCD[LSxTeE`Fq@TU@SEkBBUJMZOf@PHPRrAXNpBi@fBS|Bi@zHmNvFoKvHiORaAL_BAwMb@sLh@oHtAeNJ}A@_BEmCM}Ae@uD{CoZc@}Ci@}Bs@uA{AmA{C_B_BsAg@m@eAoBsBeGk@qAc@s@wJeIyAw@}B[oIFiDRoKxAiENuEjA{GGIJKb@AlDg@lOAzAhD|s@Ej@S^_DhD[R{AA_@n@El@@hDG~Fi@~^AbIEj@INM@Qe@AuCr@gh@DwIReBAs@{Uuv@{DuMS_@c@c@u@MYUOe@OcASa@_@AyA^[KIQEiA@mDGo@oEeL{BuGeAaECWDWLKLDJPt@|C|BxGjJrUJR|@^t@l@rAYnIcDlDu@pCYfLEzIJjFoApDIzKyAfDSlJCvATbAb@fJnHv@v@jAdClBzFj@hAn@bAzBlBtCxA|@n@j@n@Th@l@tBj@pDr@|HzC`YJpCArBU~CqAjMe@bGe@`M@fMQ`COn@gCtEkExI{FtK{GxL_Cl@sBTgBf@[OU{AKQm@KYZB|BEV[VoFp@cI`B{IzAMLEl@JjCAj@Q`@oAf@UXMz@@rAy@nH{@rDYh@a@VY?SU_C{EyFmHa@s@[}@{@{Dy@mGWaIKoBaAoLo@_GIgBCqEI_CMuAYiBq@aC_BmEiBiDyAgDgBwEwB_FaEaKcCwGMi@?_@NWvMaMNW@]iCeJcHaXk@cCQeABkBn@kLb@eCCk@[w@Go@jD_Z@g@Ic@c@k@oDkB}B}As@q@sBuDoAsCsAqEiAcG{@eF[qCm@}IO_HJk^GoHDmPGmBk@aHGwBX{YXcGl@uHbByOtAcIPuA`A}MhA}QD{AC}AWeCgAqDKi@HeEXwCD}EWoDk@wDCg@Fg@h@{A`@q@\\Un@CfH`A",
+"average_heartrate": 142.8,
+"average_speed": 8.203,
+"source": "strava",
+"streak": 1
 }
 ]
