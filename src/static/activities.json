@@ -7753,5 +7753,20 @@
 "average_speed": 8.203,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8270416843,
+"name": "Zwift - The McCarthy Special in Paris",
+"distance": 12274.4,
+"moving_time": "0:27:09",
+"type": "VirtualRide",
+"start_date": "2022-12-20 12:53:51+00:00",
+"start_date_local": "2022-12-20 20:53:51",
+"location_country": "Avenue des Champs-\u00c9lys\u00e9es, Quartier des Champs-\u00c9lys\u00e9es, Paris 8e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75008, France",
+"summary_polyline": "imgiHe`cM{XxoAeDdOuD~OGd@Ad@Fd@ThADf@Cf@If@O^ILYT[F[AMGWUIOMe@EUAi@?UHg@Na@T[XSh@WJKHQNe@fE_R`H}ZnLwi@nR_|@Jq@@[C[GYUm@w@gAg@w@IUEY?u@VmE?oAJq@\\aBdJ{a@xAcHRs@POPGP@d@VlE|CvEvCb@\\LJBRCV}Odt@u@|COPQDg@EkCe@i@Ek@@SHORUr@e`@lgBcGdX}EzSG`@?d@D`@TbADb@At@Id@Wj@STWJMBWAUISSQ[GOGc@Ce@Fw@Ja@P]`@_@f@ULIHONe@zEuSdHo[|Kwg@lRy{@Hq@BYC[EWIUUe@s@aAa@q@IQGUAU?m@VcE@wA`@{BxJ}c@fAkFV}@RWJEJAL@XL`FlDvEtCf@`@FL@NG`@mBzI",
+"average_heartrate": 144.4,
+"average_speed": 7.535,
+"source": "strava",
+"streak": 2
 }
 ]
