@@ -7768,5 +7768,20 @@
 "average_speed": 7.535,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 8388722209,
+"name": "Zwift - Beach Island Loop in Watopia",
+"distance": 14976.5,
+"moving_time": "0:33:02",
+"type": "VirtualRide",
+"start_date": "2023-01-14 08:58:51+00:00",
+"start_date_local": "2023-01-14 16:58:51",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "vt_fAum~y^h@h@t@n@xCdBxAh@jElA|@`@\\V^b@f@~@|AvEp@rAFRATEFKDKAmAqAUOc@Qk@Em@H]N_@`@O\\CNBl@VxAlBjG`CpGNp@GX}@`AM~@GVOTq@h@Y\\i@fAUt@A\\FZr@rAf@jBRf@HJXJZBh@IXOFK\\aAPWx@CLC|@g@Z@XLRTRd@\\tC@ZM`A@`BGJKDu@@WLKXE^El@@b@DVNRfCtBl@V^FNCfE_B\\IL@LDRXDLCNcAPy@Fg@LQJKPBTNLR@f@ORAdCTt@@r@KjAc@dAi@p@i@RYL[Nm@R{AJ]RWjAw@b@q@vB_E|AmC\\_AVcALu@JkAD_CIoBa@uFAs@@uALcB^sCX_B\\mAXi@`@e@~B}AZ]b@s@v@c@r@Ur@E`@Fl@\\`@J\\@ZINW@MCOWUk@QCO@EPGh@Gx@FLAVSL]AOKQKKMEY?mAPW@y@Qu@i@wAcBo@k@[Q]C[NSZUl@}@xCU^QBOGY[wAmCU]MKOGS?QF}@n@QFOG_@eAQ]gAg@SWI]@m@DMJKNAp@Pd@@PEZ[Xq@ZmA\\_B\\mCLUHElAUtLgAl@QLIFOAOMKOEe@AgAJaFt@uALa@?OEMIGOAOLa@VW\\OrAWbH_A^K^OJKFMAQEMo@gAcFqKSq@Iu@Be@DQXo@j@e@`@Od@?^N\\Td@h@P^hCdJZt@NTRNTF`@@dGIlAMPITUNe@FcABgIJa@f@cAL[xAeGTeBHoABcD@mIEi@W_@a@Oe@As@FcTbGoFtA_C`@{C^w@BiAI[Kg@WaAeAkCyD]_@o@a@s@Yw@QgACw@Fw@Pu@Xo@b@m@h@i@~@aAlC_@x@]`@o@b@k@P}@RkBX{I~@wATyA\\kA^cBx@u@n@o@x@g@`AWv@StACx@FlBb@bDd@tEAJKBu@Fg@LQTCNF^PXzA`Ab@`@NZ@^OZa@b@qEzCkAdAWb@Oh@Gj@@x@NpA`@|Al@xAt@dAj@h@|@n@~BrAzAh@fEjAv@\\b@ZX\\j@bAzApEx@dBDRAJSNKCyA{Ag@Uo@Gq@H]Pc@d@K\\C^D`@ZxA`BnFvA|Dl@zAPv@AZHCDICGS\\s@r@KTIt@KXoAlAg@~@Yx@",
+"average_heartrate": 148.5,
+"average_speed": 7.556,
+"source": "strava",
+"streak": 1
 }
 ]
