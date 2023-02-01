@@ -7798,5 +7798,20 @@
 "average_speed": 7.537,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8482029396,
+"name": "Zwift - Pace Partner Ride: Turf N Surf in Makuri Islands with Taylor",
+"distance": 17542.6,
+"moving_time": "0:41:26",
+"type": "VirtualRide",
+"start_date": "2023-01-31 13:32:06+00:00",
+"start_date_local": "2023-01-31 21:32:06",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "xp{`Am{fs^WbA@r@v@~AtBnCRr@A`AWxAk@r@yEQoAa@eBcCuB}BqA}Bo@e@sAQ}@Bw@`@m@t@Yp@[nHUpASzHRjAIfBSNWEyFgEuEeEgA{Ae@UiDGsA`Ag@HkLUQ`ANVh@J@z@eAFm@b@WQ@O\\_@@_@c@YG_Ao@Q}BHOj@AnDw@r@MtC_AjACn@d@n@`GnBJj@SxCm@b@yEFuD`C]hA@`DcAjBUlBD\\x@fAHl@Kl@i@j@uA^gC~EgAz@_Bp@_CXy@l@}@dBu@~CAv@bEfEx@DnAf@jANbAbA~CDTb@u@~AB\\xBfAlBEz@\\FvDdA`Av@Xj@A|AcAr@OpA\\x@nEzBvBF~@Vp@SnC\\x@ArA\\^pAF\\w@IgCu@}DX_GdCg@b@BdCzBv@\\z@zBBp@u@lCBxBwBjCGdAVz@`AHb@]l@gClAkBVwBp@_@b@VlAfBKh@mApBPv@t@b@nDT~DqArBr@~@FpEw@`CPvAz@VjAoAtCG|@\\XnCPRd@LtAxA~@hC^^h@MfAaAfAb@tCClAYd@cBfAw@dAKf@N~@^t@j@b@pB]vAj@pA`B@p@[~@@Zt@b@dDr@\\ZJb@Ct@c@`A{@x@y@Va@?WUUcCg@c@iBb@_Am@e@@mB~A[j@A`@h@r@V|AlCpATb@Wp@{ClAKr@NdAt@~@^DjAUnAp@h@Bx@a@`AkAp@_Bh@Wl@@|@d@f@AhEgBtAMfAL|@|@jBTT~@R`GQ\\wAv@u@x@Wp@@bAr@jAbDxAz@~@bC`J\\xBD~Ai@`C@r@TZpBx@Fb@KxA^z@j@`@bBNtACx@Ub@_@Pu@CkAS}@u@eAmAc@s@J_@x@Ez@z@~B_@nENf@d@`@lABrDsAnFq@p@a@p@iB^_@jDUr@S`@q@f@kCx@kArJuJhEaB~@q@Xu@`@iCp@u@|BUpC`@r@b@pAbB|@Rp@e@X{@Qi@gA{@GcAtBwBj@Sj@PnBlCf@Xj@M\\_@YkA{DaGcA@oAh@g@EmAsAo@mBe@WeA?aDf@}@QYy@L}CK_@[Q}@EkAPsFbCoAQk@kA]{B_AcADo@hA}AGa@qAiB]oE",
+"average_heartrate": 146.5,
+"average_speed": 7.057,
+"source": "strava",
+"streak": 1
 }
 ]
