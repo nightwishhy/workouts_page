@@ -7800,6 +7800,21 @@
 "streak": 1
 },
 {
+"run_id": 8485435858,
+"name": "Afternoon Ride",
+"distance": 41298.1,
+"moving_time": "1:44:38",
+"type": "Ride",
+"start_date": "2023-01-26 06:49:01+00:00",
+"start_date_local": "2023-01-26 14:49:01",
+"location_country": "\u7075\u77f3\u8def, \u5927\u5b81\u8def\u8857\u9053, \u9759\u5b89\u533a, \u4e0a\u6d77\u5e02, 200072, \u4e2d\u56fd",
+"summary_polyline": "kl}}DibhdVFvACnHBhAEbDMrBEhCM\\YP_G\\eGJwGl@}BJ}A^{Gn@uEz@aDd@mAD_B\\q@HcBAwAPgBd@y@ByNbB_Gh@ig@fAaAHUT[hB?hAVnFP~@ZzD@vCPrBB`Cr@pRb@~GtCbXBhAn@vIPlA?dAN|BRxA`@bITnCTfG^lWp@v[BnG\\lNEvBg@`@_@n@[RyFPoBT}Dx@q@^}Bp@qAh@qRzJeLfF}G|BeHjBmDt@aIlAwJz@eKb@aGBmFPmLt@aRxCqTrEyCz@eC`AeFpCgAx@iEdCoTpLqA|@mCvBmBnBmFxH}B|Fq@bAk@Zo@HcBSe@XeAhAqAx@IfDFvBCvCWvGg@~EsAjHkFpQyArD{AtC{AzBaBvBmChCeBpAmEjCiVpLaGlCcJzEgJfHyP|LsFdDmHfDyLfEcDxAmC|AsBxA{BrBwDvEeGrIyExEgErCcOpIoD|B{BhAwEnCkIfFuFzBsBj@aKlBeFt@qCp@{Et@aLtCsLlEmGpBgBr@i@\\cJbDoErAsEbCyDpCuE`FuDzE}BbEyCpGwBhGcCbG{DrKiCxF{DpJiBrCeC~CoBbBiC~AeCfAoDdAoCb@uBJ{DLuFSQL`E|@xALvFIzDe@zD_AzCkAxDkCzAqAxAcBrCaEbB}C`F_MTYZeBnAuChDcJ~AmDtCcIb@aApCeF~JoLZg@l@e@`IgEjFgBbFsBfJgDnL{D|A_@tEaBtD{@bD_@`BYfWeFVDpGmCfGqD`T}LdOaJbFkDlCcCrAcBtCoE~EgGhEgEvAaAhEyB|MsEfAk@|F_CrCyAbBeAlKoHtFiE`FkDnEiCjHqDjA}@jFsCjDiBfEkBtHaElEqCfEwD|@eAlC}D~BwErAaE~EsPh@yAn@q@b@Qp@QhABjAk@x@{@l@gBfAs@Hc@W_CMuDFgGr@kFl@sCf@eBnC{GpAqBrB_CzBqBxBeB`CyAjKgGnLgGfFcCrGmBpBw@tLaChBWhH_BfFw@|Fi@pDK~D]lEAxESv@Jn@Y~EKlF_@xDa@zI{AhE{@`G}A|JuDrC{@xJoFtDcB^Ib@_@t@[r@i@tB_At@g@rCy@rEaAtCUdEIr@f@^Jr@Ib@WJQi@_FEkCOeCMaLLcAMo@YyGKgNYqDWcMBmAS_NUeFqA_RIcD]oGc@kEcBgMy@aImAc\\]qF]iOHM|Sq@pD]rDEvAU~COx@ZrQsA`Hu@~Ew@xHuAfD_@dFkAzAGvBg@\\AJHT@bKgAxDKjHe@|BuFHuBG}@DwCZmADeBKmIe@mDMoBk@kDmAyD",
+"average_heartrate": 149.6,
+"average_speed": 6.578,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 8482029396,
 "name": "Zwift - Pace Partner Ride: Turf N Surf in Makuri Islands with Taylor",
 "distance": 17542.6,
