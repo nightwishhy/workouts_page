@@ -7888,5 +7888,20 @@
 "average_speed": 7.945,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8592655719,
+"name": "Zwift - Mountain Route in Watopia",
+"distance": 26283.9,
+"moving_time": "1:11:28",
+"type": "VirtualRide",
+"start_date": "2023-02-20 13:06:24+00:00",
+"start_date_local": "2023-02-20 21:06:24",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "~d`fAwd~y^}FeByEyC}@eAm@oA}@eEB}Ad@iAfHkFj@_AUeA_CcBUq@ZYbBa@gAsKEaCj@{CfBqCxA}@vDmA|McBlE}@lAeAfBoEl@_A`BiA`Bc@bC@jBr@~@|@pD~Ex@j@dATdBAzEm@pL{CLc@oByGJg@rAq@hWgHt`@iJjFuBlBoBf@JzB|BnAEVq@C_AkBmBCqCkAeBH}@d@g@rC?tBgAzE{A~KwAhG?lHdAlE`BlFnDlBlBrDfGtB|@Pj@HxAI|En@`Bj@NbAKvAk@z@s@x@oB[qCJcAn@_AbAEn@f@^hKl@~B^r@f@\\xBTr@g@fAuDcAwFTsGiAwOBq@\\_AxAc@jLCnBNx@v@BhDTz@xAz@jBL~BoAvB[l@_@Vy@\\eEv@{Bv@kAhGiC`AMdBp@dHfG|DrBTh@C`BPb@zCl@f@\\rCfE@l@WxBL|@tCtD`@fADfB[tBqBhDUv@x@~IsAvA}DzBy@E_CmB{@L{@x@i@tCcBrAQh@f@bBdChCHx@KtAa@lBm@pAaA|@_Bt@uATsEk@kGNqAKm@a@}@kCe@o@u@MgEPoBg@yA}@o@gAc@gBOcABoBgAoAmAUuDHwDu@_AR}@n@aFvGgAjCuA~E@Vl@x@cAfHJnBd@tCjAdD~ArBtAfARf@{@vDUxAy@`AsHxDmDDuCa@sB|@i@p@GrB~@t@|ATdBgAnBqDjCYdIoET]jAyEFoAmBqBeB}BmAaEa@kE`AeHWi@WC_@\\eBrIIt@NrD}CjBkBhIgCvFs@n@yAl@i@q@Ey@l@}BRaBEs@g@a@s@Eq@T_Av@q@fAo@rDMjFaAjFErDs@f@y@?e@[q@yCD}CQgE`AqH@}@g@uAcA}@_@@o@h@mAlDE~@RbGGdEa@bCaAnBk@d@WEi@_AeBuA_@o@C{AR{AtBaEb@_CK_AWUaAE}@Tm@n@mB`E]bBOtDc@tCa@zA_@ZkA}@[gAToB~AaFD_AK][O}ALiA|Aw@FaQqDwEqAu@k@YeAp@uGMu@i@e@q@Tq@fAi@dBMlCOV[Di@g@EcEK_@w@_@y^eGkMT}@iAwCcK}@kA}@_@aAL}@v@]hAB|@VdA|GpNsAp@{JxAs@h@Kr@T^p@LbKoAt@?NN_Af@qLhAUZ",
+"average_heartrate": 149.8,
+"average_speed": 6.13,
+"source": "strava",
+"streak": 1
 }
 ]
