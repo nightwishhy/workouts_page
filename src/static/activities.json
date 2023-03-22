@@ -8098,5 +8098,20 @@
 "average_speed": 3.298,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8752479303,
+"name": "Zwift - Zone Benchmarking in Watopia",
+"distance": 12693.2,
+"moving_time": "0:33:43",
+"type": "VirtualRide",
+"start_date": "2023-03-21 14:20:34+00:00",
+"start_date_local": "2023-03-21 22:20:34",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "np_fAsx~y^FhAJp@Pn@Xx@\\z@T`@X^p@p@j@b@x@h@rAt@xAj@tEnA|@b@^VZ`@h@dA|ArEt@~A@TCHIFM@SOy@_AWQi@SOCa@A_@FOD]TUZGLI`@@`@F`@XlAv@jC`AvCnBjFLl@ANGLm@l@QXK~@ENUVo@h@SXk@dAM^I`@?NF`@l@hAv@nCTXLH`@D`@E\\MLKN_@Po@HMNEp@ANEv@c@NA\\JXTPZH^TnBDn@MnAB`AAPELMDu@@KBONMl@Er@@h@HXzCdCb@RRDP?PCfDsAn@QPANFJJHLDPGLcBNUDg@PSLGTJRTDj@OT?bDVd@Ab@IbA]|@c@h@]d@e@P]J_@ZqBL]TY`Ao@^e@fC}EjAkBTi@X{@RaANcAHwA@gAGkBc@kGAaABoANqBd@cDZ}AZy@T_@`@a@hBkAXSz@oAZSXMv@Sl@C\\Bh@\\b@L\\@\\IJIDM@OEOQSk@OEEAG@ILGh@Ev@DXAROFODOEYIOMKQCi@DI?UIIGMUSe@c@wA?QFMZMlAURMFGJUBe@E[Qg@OWeAkAWc@Kg@ImBESKQYS_@Oq@KcAG{ACs@FmARk@B}@GOKCSDQREbHk@tBUx@QNKHQESOKi@CqALqFx@qAJSASGOMGS@SFSLO`@Wd@Oh@IdFo@tAU^KZQJKBOCOu@mAcFuKKYMu@Ai@F[HYVe@TSd@UZGN@LBXJVP\\^^n@hBrGl@nBXf@TTZFj@@vFIlBSl@BpBX`[hFh@PJHDHD^@zCB^JVJHNFN@NALGFIJa@HyBBUL_@`@aA`@q@VSHCN@PLJNHRBTA^QbAWlBEz@@ZNp@JRPPf@Xn@T~@V`Cj@pLbClBd@X@\\CNGRUnAyCj@w@h@c@rAm@ZQHMN_@Hs@Ja@R[ZU~Ao@ZSLKHMNa@TuAJ_@R[v@_AN]d@oC@QAwAFiAMsACk@Bg@HU^q@NOPKREt@CVCVGJI`@g@b@]HKHSF[@q@CWGOKMQMo@OSKg@kAK[EY@SF_@Pe@PUp@_@f@g@`@YPMf@ORUDY?SESOe@G_@Gy@@m@Hk@Vu@JO^_@DIBKBc@?IIS]i@CI@SFQFEPEH?XLZ\\R@NIf@o@TKt@MVOHOBQ@SCOUe@a@YIKCM?QBYHQr@w@",
+"average_heartrate": null,
+"average_speed": 6.274,
+"source": "strava",
+"streak": 2
 }
 ]
