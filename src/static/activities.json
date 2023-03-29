@@ -8188,5 +8188,20 @@
 "average_speed": 4.33,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 8790891784,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 14011.7,
+"moving_time": "0:50:59",
+"type": "Ride",
+"start_date": "2023-03-28 10:40:07+00:00",
+"start_date_local": "2023-03-28 18:40:07",
+"location_country": "DoubleTree by Hilton Hotel Shanghai - Pudong, \u6768\u9ad8\u5357\u8def, \u82b1\u6728\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200122, \u4e2d\u56fd",
+"summary_polyline": "slo}Do~vdV?pBD|@A~AMpBIlJGhAC|@@RMhABv@?tECj@ArCDd@ElAGZ@hAGh@C`DDj@Cv@o@PeAKk@?EC_BKoDMgBCc@GoDO_EK}@@s@IaABg@Jg@?eCj@i@NCJo@l@l@jDf@`CLlARbAJrAJTLzCj@lCRlADDJhAf@bC@f@^vA|@zFJZHr@DHI^ED@JHP\\@JRj@~C?`@H|@CPqHbBiD|@aBx@iA`@YR}EfBk@E[F}E`CwAx@WFaD|ASVM`@OVHZBECAn@fAKMHPK@DIE??P@BDKPp@D`@?FM?Gz@D?AFGNEf@EDIt@?b@GZMHF?KDCXDHA\\F\\RPARP`AFND?BFC@h@bAVZBLRJ@FCEJHHB@BRBBDADHBDANNJ@@HJ@VZLXLL@REREBBDC@IZWXENM@sBz@Wb@YT}@fAeA`Ae@|@UJk@h@k@z@WPqAzASZIZBTPX?Dz@|An@xBPNAr@Hj@?VD?JrBDHEh@@ZAFELSFIJQ`@FREXDDL~@@j@AXUhACd@?~@Ix@E\\m@zAEZ?\\Jt@z@nELlA@b@HZ?bARnB?XCHg@TeBJkB\\aAHcAT{BVwHQgAi@W?MOg@Q_BT]RsBb@QOAMGIQd@wAj@y@l@SKc@Vm@j@g@Xc@HILy@FWL_ANm@ZaBh@o@J{@\\_AHKHeB`@{@b@a@JU@]VUA{@LOJeAJy@n@?LEDqAVo@ACNOJSB_@Ji@XeAZkAp@q@Le@@w@Xq@ImGlBuAXo@FqAd@yBBiIr@]EqABuC`@o@R_CPeDb@m@?iAPw@@[Pq@@qCh@}@VyBP}BFuCn@gA@_Dt@yBx@mBf@mCBsCj@yANcAZc@Ha@f@CCKHIAC^]hAC`@WbAwAlE[`C]n@s@hAsAnAQXc@NMAGBoApAy@lB}BnCaB~BaA~AOLm@xAMj@WFURoBbCc@p@_AfAa@n@wCvCo@z@G@wAzAaBvAg@Tk@|@{BpCqCnCmE|CuChB{Az@cBjAa@H_BnAcC`BaAbA_@Vk@\\GGc@PiAn@kA`AUVUb@g@`@i@Vg@b@kArAc@p@[`AGf@a@bASz@O\\oA`@eHvCe@Fi@G{CFc@Nq@l@WFmBIq@]a@FyAM_AB}FfBcAEgDm@",
+"average_heartrate": null,
+"average_speed": 4.58,
+"source": "strava",
+"streak": 3
 }
 ]
