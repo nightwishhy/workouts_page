@@ -8203,5 +8203,20 @@
 "average_speed": 4.58,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 8859340809,
+"name": "Zwift - Big Loop in Watopia",
+"distance": 24476.1,
+"moving_time": "1:04:57",
+"type": "VirtualRide",
+"start_date": "2023-04-09 10:25:32+00:00",
+"start_date_local": "2023-04-09 18:25:32",
+"location_country": null,
+"summary_polyline": "x}_fAog~y^}CaBcCwB}AuD]oCFeAb@gAfHiFj@_AUeA_CeBUe@DSXS~A_@kAuMDiB`@kBl@oAfAoAjCuAdEaAbN_BrCy@v@y@fCaGpB{AzBc@tABpA\\fBnA|DrFb@Z`B\\tBIvEo@nKqCRg@oBuGB_@\\]tDuArKwCnh@_MpF{BlBmBr@VnBtB|@?f@i@By@Yw@{AwA?eCmAoBDi@Ve@XQlCDdCsAxEwAbMwA|FF|HvAnEpBpE`DjAlApDhG~BlAV`CKxEZfAl@f@tBSlBmAh@y@Tw@[_DVoAh@q@XEhATNh@ZzJl@xB|@nAdAVbA?n@i@x@{BJ{@cAwFRwGeAkOBq@\\aAjAc@~LEjBRt@x@@zCLx@`Ax@jC\\dCsAtBYf@YXs@d@}En@kBx@oAfHuCbADxClB`EvDrEbCNp@CvAN^`Dn@n@h@fC|DU|CH|@dDlEZzA?tA]pBkBrCYv@x@jIC`@mAnA}DzB}@GsBiBmAN}@~@c@nCmBfBCb@ZbA~BzBVp@?`AQbBc@xAq@jAiBnAqBd@cEi@}HNoAQe@m@y@gCk@e@u@I_CTyAKeBi@iAy@o@oAe@yBCwCy@cAgA]yDJkDw@gADwA~@mC`DgCvEmBxGuBrKGhARhCc@l@sAd@m@j@cBbIcCrFeCdBq@a@Oy@r@qCPsBSk@i@Ws@?aAh@sAjBm@lDQ`Gy@dEOrE{@\\u@Ei@k@YoAOuAJyBSaE`AkJQ}@a@s@m@k@_@AcA`A}@rCG~@TbGGfEa@bCwAfCm@Ly@uAgBqAUw@?{ATyAvB_EZ}AAcAU[]KaADy@\\UZoB`E[pAUpEg@bD[hA_@Zk@Yo@y@MoARqAtAaEN}AK_@}@Q_@Bq@d@iCfHKr@@fEcA`CShA?bBVzA~BbEzCvCvD`A~D~FrBrA~G~@xFDfE}@~GcC|BYdC`@zC`AxFDTf@KzA^\\RDnBi@tCv@L\\[h@}CN]b@Cl@Vf@hDtBlAbBn@hBDp@g@bGP^jBtAd@jBi@jBNlA_@j@{@NwCaAe@?gBjBHfATb@fBnAFx@Zv@SV{@a@}@`@@h@j@pAQZgAj@B|Ab@h@~Bx@Jr@ChB`@zB`@j@`B`Ad@n@f@`A\\vAb@j@pC~@jA`BvC^rAh@b@?fBw@tADh@O",
+"average_heartrate": 153.2,
+"average_speed": 6.281,
+"source": "strava",
+"streak": 1
 }
 ]
