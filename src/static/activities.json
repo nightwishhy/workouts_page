@@ -8218,5 +8218,20 @@
 "average_speed": 6.281,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8866351876,
+"name": "Zwift - Triple Flat Loops in Watopia",
+"distance": 35069.2,
+"moving_time": "1:16:31",
+"type": "VirtualRide",
+"start_date": "2023-04-10 13:24:46+00:00",
+"start_date_local": "2023-04-10 21:24:46",
+"location_country": null,
+"summary_polyline": "dr`fAscez^XiBKiBiEwF|BmCGiDhIoSh@{EWyAg@i@}GmCeAqBIsBxI}ShCq@nCv@dAIjC_EjDOlBgA`@wDcDyFfA}A~A[lAx@`E~GvAlApBw@vAwExBV`AxABbExCnBKvAcC~@i@jAE|KuA~Qb@`BbDnDXzAxG|@|L{CbAPh@x@n@nGVnKW`BmBdBMlBX~Ep@vB`Br@zBMzGzAdBvA`@pCrAx@|@s@|CiJn@o@`A?nBpA`@pCzFf@zAtCT~B[vC{LbHc@p@_@tCyB~@mArBh@tClBlAPvBx@vA]pBqBb@Gr@fBFd@b@gBjBcEnAm@dJnBnHtE`F@bMae@~K_OnEi@tApBtG_Bn@aKfC{Gb@sBy@oGsHcCm@yBJyDxB{BpFuArAiW`EaEzBeBvCa@hFnAtLqB`@Of@rClCX|@m@`AuH|F]|ALbCvAlEbBjBpDzBjKxDlFhLvAXnB_@V[Mw@~@y@Qe@cBs@AkB{A_Ah@iBvAKbBlDv@JdAfA~CoBNw@uBoAm@mBJgAdAYlBGvAd@bEnIr@h@`MkIhDzEl@DvB{Ff@YpFrEnDGf@\\[v@iCNfAfAOl@cDm@qAPaIvGy@nCy@`Hf@~Ow@jH}FzKyBtB}@~D{B`BeCp@wGM`@s@zCc@[gAyGjBsEeDDwCpASXg@BoE[aCm@w@u@OaCn@{AzBcA?i@s@aBaG|@wBnBmDfAeBcGaROaCn@_Ax@U`ANxCxBnFcAIcA~@cA{BuA?kBwAy@Dw@b@q@jAQbAbAd@hBxCtAxCgCKi@mBiAg@wAHqAjA]`BG`Bh@dFpJjMeIf@N~CtEf@YbC_GrAl@pCvC|@CTq@e@gCxBq@`@aAWmAoBkCc@sDeCw@_IXcAc@JYjMoAl@i@cA_@}JpAiAW?o@l@k@|KeB|@o@cHiOO_Cf@iAjAk@lBz@`EdMr@v@`La@b@eBFyIlDyMP{Qi@qAkBCc]jJ}Ht@aCu@cGmHyAm@mCI}Bl@eBtA}BrFiAlAmVvDsDzAyB~B}@KmA_B_@kBJyBxDaJt@qGMmFi@}CsBqCIuA}@{@]{BVwBjCmIb@gEqAgDsDaA}@wAkByHv@qGuBgFx@_AtCBf@kFjBi@jEzAf@p@?dB~B~@aApCd@rAfBVbFa@nC_CPy@eA_CEmArCkCXoAGsB{BgGaF_EWgAbA}EjEiB`AyAL{BY{A{DsEzBmCK}CnCcH",
+"average_heartrate": 146.1,
+"average_speed": 7.639,
+"source": "strava",
+"streak": 2
 }
 ]
