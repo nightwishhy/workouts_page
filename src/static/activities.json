@@ -8263,5 +8263,20 @@
 "average_speed": 8.136,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9015204204,
+"name": "Zwift - Triple Flat Loops in Watopia",
+"distance": 21730.3,
+"moving_time": "0:47:18",
+"type": "VirtualRide",
+"start_date": "2023-05-05 12:55:01+00:00",
+"start_date_local": "2023-05-05 20:55:01",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "hr`fAwcez^TeBUaCg@y@cC{BSo@|BgC@_@W}@Fy@tIoTVoAJaCSmAk@s@qFgB{@w@}@{BCsAvAsDfDsGh@wAV}AT_@pCs@n@FxAn@|@Ez@m@x@oBd@g@tCEbA[l@c@l@iB?_B[y@{BwCKi@d@_Ah@_@rAUh@Pd@b@nErHb@h@j@Vn@Gx@q@j@{Bj@{Ar@GjA`@h@b@Pd@E~CPp@xBfAV\\Ht@Un@cC|@e@bAGlLsA|Ql@dBxC`DXzATR|BBpA`@z@B`M}CdA^Vh@j@lE`@~KE~AOn@gBxAUfAJrETnB^~@\\\\hAb@tBMdBp@zBLlAb@vAlA^pCl@p@r@Hx@}@`DmJ`@a@z@C`A^r@n@TbCTTpC?`ANf@Zx@tA`@jAP~CMfAo@`AaLdGc@x@MhBOb@iBp@}@|@[x@DbAb@tAb@n@hA\\NtBz@xA]pBoB^Kt@XT|AGVZId@{AfAuCn@m@`@Mf@CzB]zDh@|C`ApCzDzD`@v@QtGRzCki@vM{J~Ca@^El@nB`HwC~@uHjBiEh@eB?eAYw@k@yDmFcAw@eCo@_CJyAh@cBtA{BrFoAjA_Bd@sN`BwDx@oDjB_AhAu@`B_@lBC`BpAjMkB^Ub@Lh@rBxA`@h@H^K^o@r@{E~CiAlA_@bBNhCxAhEpBtBpEdC`GbB`BdA|@|A`BbFfA~ApAVvBc@PYKw@|@{@Qa@cBs@?cB_BiAJ}@b@i@l@Qr@Pn@|@\\|At@HlAlApAe@rAmAJk@{B}Ai@kB@k@LUbBa@hA?zAd@pApBlBtEn@p@f@SVi@|JkGx@\\dBbD\\\\\\D^]rAmEj@m@x@VzCdDh@VhAJ~AUd@b@Wj@qAE{@XFb@x@\\DVMTu@BcBo@sBXq@ZcBrBuBrAm@~@cAhEg@|E?fDh@~IYfF{@vCaF~IiBxAeAlEy@x@sBbA_BZwD[o@R]C?Yp@[hC]Ao@c@_@}@JgE`Bq@OiDmCK]NyBb@Sp@AP[JeE]uCUk@c@]k@ImAn@cAFk@zAc@Vu@Di@c@y@oCk@gAEm@dAmCnAiAXaB`AcABa@eE_MoA{EA}@Xi@p@e@l@E",
+"average_heartrate": 135.0,
+"average_speed": 7.657,
+"source": "strava",
+"streak": 1
 }
 ]
