@@ -8368,5 +8368,20 @@
 "average_speed": 7.087,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9318351168,
+"name": "Zwift - Big Loop in Watopia",
+"distance": 20077.6,
+"moving_time": "1:01:44",
+"type": "VirtualRide",
+"start_date": "2023-06-23 08:14:38+00:00",
+"start_date_local": "2023-06-23 16:14:38",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "v}_fAog~y^qCwAiAy@mAuAuAmD[iCL}Al@cArGqE`@a@Na@Aa@Ue@aCcBSq@LUrBe@CgAgAsICsBLsA\\oAp@oAp@{@~AaArDkAxBc@xI}@lEy@r@a@^c@lB}Ep@aA`BeAnBc@nA?p@J|Ap@z@r@bExFdAd@f@H`ABtGy@rKqCTQ@YqBuGB[PUx@c@rIiCpNsD|^oI`Cy@zBgAxAcBTMh@TdAtAt@f@r@BVOVs@Cw@Uc@yAoAIc@HkAC_@kAeBDy@f@o@tCDdCsA~DoAnF{@dEa@bECjBHnC\\rCp@xD|AvF|D|AbBjD`GpBx@N\\JvA@nBK`CV~@n@h@v@?~@SdAk@l@i@f@y@Nq@Cy@WcBRmA`@k@\\Md@?j@RPh@VpJP~@bAbCf@XfAPt@A`@W`AeCNy@GaA}@oDTgHo@gHYgFR_BX]\\MxMO`CVj@v@?|CR~@z@p@`@NdBLb@K`BgAhC_@`@]Ry@ZcEv@}Br@gAn@a@|Bo@lB}@|@G`A\\|@j@tG~F~CxA^l@CfBJ\\VRxBVh@TrCzDPx@Y`CDt@`@z@jC|CX~AEtAWbB]r@mA~A]bAx@`J[j@q@h@gE|By@IyA_Bc@OcAT{@~@[fC[b@oAx@M`@TjA`@j@hBbBTz@ExA]dBi@tAg@p@gBfA}A^}@AqDi@cGRqAGYKe@m@k@qBa@q@u@S}CTwAKiBo@}@q@m@iAg@aCGq@F}ASg@i@c@c@Us@KoDNyDy@eAPwAfAeCzCy@pAgAfCsBnHkBpJGjATnCi@j@uAb@k@l@uAbHgA~Cs@vAeAhAwAp@[KSYK[@y@l@sBR}AEq@c@a@s@Io@PoAdA_@n@a@pAQvAOdGaAhFEpDQZ{@Rs@Gc@q@WiAMuAJcCU{D`@gE\\kBB_ASy@c@s@o@i@]Bo@f@a@v@c@tAO~@T`IC`CMhBs@zBe@v@i@d@Y?y@uAiBsAMYKw@X{CfBaDf@yAHeAC_@S[}@MaALq@j@u@tAy@jB]tAUpEm@xDa@jASHk@Wa@c@Yk@Ew@\\oBvAaEF_AGc@YO_ACu@`@m@nAm@~Bw@rBGt@H|BEt@cA`CSx@AtAPbB\\~@z@xA",
+"average_heartrate": 142.5,
+"average_speed": 5.421,
+"source": "strava",
+"streak": 1
 }
 ]
