@@ -8383,5 +8383,20 @@
 "average_speed": 5.421,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9331881404,
+"name": "Zwift - Group Ride: Long Steady Distance: Petit Boucle on Petit Boucle in France",
+"distance": 23687.1,
+"moving_time": "0:48:11",
+"type": "VirtualRide",
+"start_date": "2023-06-25 12:16:10+00:00",
+"start_date_local": "2023-06-25 20:16:10",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "brtcCizgu^dCjHvCdMk@tA{DpEOnA~G`Mr@vCRpD?hG_@lByA|D{BhB]x@EpN`@`A|FhFnD|EvCbBl@~ATrCf@nAjJnM|CtBRh@AnAQh@oCf@URNzBcAfBkAjAW|BLhAl@h@vAEdDiAr@Vl@z@XjA?z@iBlAQZBp@h@dBE`Ao@tAk@j@{@Gs@a@kBGqA|AwAH}ArAk@ImAyBkBMaCw@_Aq@I]Do@hBwABsBg@m@gCKY}BgA}@_GiBsOcCwCp@oJG{G{DyCy@mBZs@hAs@RcCGeDcAaBp@sFtDuBr@}Dr@aE|A{B^wCMiD`@iC~@wAQsDgDgAoBgB_BmAyCoA}@iA]mBA}FnAmA_@qAcAUo@?iAdB}EJkD_AiB}Ak@kDkIgBUuNDg@SAaC~@k@j@iAf@aCTsB?uCpFwFN_AMqBu@WuREa@o@PsBK_A{BkCiAw@_J_@wJ}A{Bq@{CqCaPsCo@{@L}CMk@aFwCi@_AOiAF_Ah@_Ab@[zCu@|@k@D_Fl@c@fBUPY@_APWhBw@fAMnByBzBy@vIHr@Un@o@NaAQk@_C_AYi@Ng@xAw@\\s@Om@kB}@Uc@Bi@t@_BEkA_@e@aEmBUg@Nq@`JmNf@@nDzCfA?l@w@LmB`@q@r@@xBdAlA[Vs@FuEj@q@lA?fDlAlAW`@y@@cAwB}FQcBL_@hBmAt@aFtAwA@o@iA{BAa@hAiEtA{CVoAj@m@dBJ~FaBpCsAl@oBr@Wd@VRv@q@tACl@v@~BjAp@zIyAhBeCzAq@|@\\dAvB\\vAt@p@BfBx@jDMlCkBzCkDzAsA`As@`A]vC@tATnAxBpFz@`Ap@TnBEfDkBjA[zB?lAZj@j@vApC`@nBB`AStAcAjB{Cf@qEUq@Rq@~@g@~BHvAf@`AnDfD`@lAAlAu@vCoArBaF`DwBnCg@rB[|C@dAZx@jD|DpFpC~APdHuAnBiB|@cCLcCw@gF?eAlAkDtByDvBeCfCkAvCGjDZz@\\lCnCDbBQ|A~AxB{@~@Ab@ZTvBPJXa@zBuAO[TCdCa@H{AY[TEf@PVdAZn@h@G^m@ZGb@h@Xx@Wf@DF`@_@j@F^ZPnA@B^Wx@FX~BRDp@Qp@H\\d@?dAe@n@y@d@Q\\TfBpD`@FhA{@TFXjB\\`@",
+"average_heartrate": 160.2,
+"average_speed": 8.193,
+"source": "strava",
+"streak": 1
 }
 ]
