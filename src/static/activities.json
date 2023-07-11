@@ -8398,5 +8398,20 @@
 "average_speed": 8.193,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9424403820,
+"name": "Zwift - Flat Route in Watopia",
+"distance": 10577.3,
+"moving_time": "0:22:34",
+"type": "VirtualRide",
+"start_date": "2023-07-10 13:33:11+00:00",
+"start_date_local": "2023-07-10 21:33:11",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "`s_fAeq~y^MYY_AYcBC}@Bg@Hc@Pa@j@q@FC\\[r@c@HKHCJIlAu@`As@Z_@LU@[AMKWOSe@c@SIII]Q[UMQCW?GLSd@ObAKFG@KAe@Gs@_@}Ca@yCEgA@q@NuANm@Ri@Vi@Zc@p@u@VQhAm@r@YlA_@t@MXKr@IXKj@CnBS`@KxD_@|B]|@[r@c@\\c@h@oA|@gCTc@RU`Aw@JCJIr@WbAQZAv@@v@Jp@VVNJBj@d@d@h@pBxC~@hAh@XZJ~@L^?NCl@EnBS^Kn@G|@QxBi@l@SNAz@YLAhBi@LAxC}@LAjAa@jAWtEyAdAOP?^HXVJ`@?d@EhMGdBGl@Oz@mA|ESr@Qb@U\\KVI`@AdIEv@GVKR_@T}@J}A@MD_DBi@AYMGGYc@s@uBkB}Ga@s@SSYU[O_@E]Di@VUT[b@Oj@E^B^Jl@J\\fFzKr@hADJCNa@Zg@L[B[J[DgAL[BkC\\u@LYJ_@^MVCNBZPVLD\\DL?vBU`Ca@nC]h@@JDDLEJWP_ARg@Bi@HkBNaAJe@@WDwAHKDGFAL?TBLPLXFX@t@?x@ORAj@K\\AfA@HBdABn@Lb@RHFLZBNFhBJd@FPV\\~@dAJNN^Fb@C`@GLKNc@LQ@}@TORARDT`@nA?TOb@QFQ?SEi@c@{AkBWUg@]_@E[NSXWl@w@tCUb@QJSE]a@eBaDOOUKU?SJc@^cFxC[RYNq@b@a@t@MBMAKE[g@i@mAi@yAq@yA]k@_@a@MGm@Si@CKCW?MBgAHm@TMJGNAf@Fh@Jf@Rb@^Z`Af@XPDNCLELc@b@k@d@e@TWRK@SOc@i@UQ[EM?KEKWKy@M[]g@YUOEQA]@k@XONUh@ET@XDHRNx@ZJNBLIjAHRPNnA^NLBJITm@\\GFAF@LJ\\?JGFa@RYFw@L]?k@Oe@i@Wc@[u@}@qC_@cA]o@c@m@]Ya@Sa@QyAc@kBc@eA]_Ae@uAy@s@g@c@a@",
+"average_heartrate": 142.7,
+"average_speed": 7.812,
+"source": "strava",
+"streak": 1
 }
 ]
