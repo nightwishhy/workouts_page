@@ -8413,5 +8413,20 @@
 "average_speed": 7.812,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9462122989,
+"name": "Zwift - Makuri 40 in Makuri Islands",
+"distance": 25801.0,
+"moving_time": "0:53:30",
+"type": "VirtualRide",
+"start_date": "2023-07-16 12:35:28+00:00",
+"start_date_local": "2023-07-16 20:35:28",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "dtu`Aqmfs^q@eAqBOkCeAaDcFJ_Ab@a@zDzAhBc@n@eAs@mB{CZoCa@wCbA}DBqGdDgDuBKc@LqBkEuCiARwB~BgBmA{@Z}C{AuGcAoDsBu@iB_Ay@mAk@_BDaAc@aAeC{AiAu@qAEsCfAoAi@_A_Ec@yF~Bw@nAcBQAuCsAyBfAoJIiBwDgBoBaCcAKwEb@uAxAaDxAf@lDF|Gb@l@tCbAZr@@x@q@pCt@bE~@`B]tB|@fBSxA`AtBRbDz@`EIzItCjJn@H|Cy@tDhKbDjG\\XjBBfCxBjDArAnDxA~AlAHlB{BzAi@tCK|@f@Zr@NdDfBbAT|@UlBqBjAa@vA?fBz@rAjHfCbE_@~AHhAt@t@|BpD|@hC|AbC_@`E@xAw@bAsB`EcBjAh@LtCbAlA`ALpEyAz@b@`@xAdBx@`CuAr@EbCdBpE`CxCy@nAZ`CtBd@xB`AXjIu@tDt@tAInBn@`CG`Ds@pBqB~@iD~@qAn@a@jDg@xB}ArBiE_AiBBgAj@{@|Ac@^_C|@kBCyCXgAjEqCtE?d@k@AkDiGmB_@w@Bo@bAsAJiCt@o@DcEPg@vDDBx@h@b@c@fAZTzAYPSCo@{@_@TmAxLR`BkA|DDlEnE|JvHXuBUuARkHr@aK~@cB`Bs@`CTnI|KfAb@bFLz@uBAyAiD_F]oA~@uDp@aHr@sB|AsA|BW`DTvBx@xFp@`HdNjIvE~@bGmB~Al@dF}@~@bBxAJf@e@z@qC^M}@`Au@YgBiC?a@}Ac@MY^XtBs@rAn@n@En@m@RyAq@?cDw@{FL]jAQH_@[kBg@OyBx@`@vBMh@oD`@a@Zo@rGRbArAnAdDt@l@|Bb@V~IwBrCv@xApBhCzKrFrEjBfCfC|HJlCr@@z@_AbADnAbCeAhCDb@t@R|Dc@`Ab@Jx@_BhCNzC|@jCi@p@oCr@HvAf@R`AOFo@_AsEXk@zAa@fCJzCbElCa@rAdBa@|AiA^Ub@LhEo@zBk@LiBk@yDJ]|@p@|CGl@}@T}AwA}@LkAhFaAfGoDvCc@r@VdCCzBkA~AwBpIPp@f@MhA}E`@a@x@Av@p@Y~CrAdCvAt@tAs@^Lo@fDnB~BHdDvAbAQ`Cx@`IxA~BQr@}@`A?d@|@x@b@jCn@hAjA@pB_A",
+"average_heartrate": 142.5,
+"average_speed": 8.038,
+"source": "strava",
+"streak": 1
 }
 ]
