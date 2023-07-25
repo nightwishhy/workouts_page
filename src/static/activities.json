@@ -8443,5 +8443,20 @@
 "average_speed": 6.626,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9512041493,
+"name": "Zwift - Lutece Express in Paris",
+"distance": 17013.6,
+"moving_time": "0:36:16",
+"type": "VirtualRide",
+"start_date": "2023-07-24 12:36:15+00:00",
+"start_date_local": "2023-07-24 20:36:15",
+"location_country": "Carr\u00e9 des Ambassadeurs, Avenue des Champs-\u00c9lys\u00e9es, Quartier des Champs-\u00c9lys\u00e9es, Paris 8e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75008, France",
+"summary_polyline": "wogiHqxbM{EnT}CdN}Kvg@wHv\\Cb@?RFb@TfADd@?RKx@M`@UXKFYJY?MCKGUUS]My@?g@De@Tq@T[VSh@UJKPa@Ng@~EeTlGaYlKmf@jBkI~Oqt@Ho@Cq@GU_@w@qAkBQc@CS@aAV{D?_ABg@`@uB|Jed@dAiFNi@JMLINEL@NF^TzEfDbEjCd@^HHDPIb@aHx[kEpRs@dDYnAWz@KLODMAmDm@a@E_@AQBOFMNYv@{Oht@kLph@uC|MsGrYuC`MIx@Bh@Z|A@T?f@Gh@EPS`@WTYJO@[GYSS_@GQIg@?k@Di@Nc@P_@XUt@_@JKRe@rNwn@rLej@fRm{@Jm@@YKo@[y@y@iAi@}@Ig@@_AVsD@cBl@wCrEaTzB{JjBwINi@JOLIPCNBLFxF|D~E`DTT?RCRiHj\\{BzJiCpLc@dBKPMHM?_Eq@q@EQ@OFMLUd@_Qtw@oKze@{AhHsHv\\sD`PEd@?RFf@TlADf@G~@Yr@WV[J]?MEYSS_@GQIg@?i@@UHe@Na@TYTSh@SJIHMVw@tNao@tR}|@",
+"average_heartrate": 147.6,
+"average_speed": 7.819,
+"source": "strava",
+"streak": 1
 }
 ]
