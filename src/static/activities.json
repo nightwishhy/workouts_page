@@ -8488,5 +8488,20 @@
 "average_speed": 9.014,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 9556064334,
+"name": "Zwift - Watopia's Waistband in Watopia",
+"distance": 33435.0,
+"moving_time": "1:00:19",
+"type": "VirtualRide",
+"start_date": "2023-07-31 13:38:10+00:00",
+"start_date_local": "2023-07-31 21:38:10",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "jr_fA_zbz^{CyJv@{GwBeFt@eA`DAZyEXe@fBOzExBDxBbCbAeAxCNp@t@b@zH[pC_DmAyE|C}CTcBMeBkBgFqFqEUyArA{E`E{A~@}AG}DqDcEQq@|BeCK}ClI{Sj@iEO{Ak@y@{FiB_A_Aq@cBG{AtFyL~AkFdCs@rEp@`Aq@lAkCzDUxAq@l@oBAgBaDiF\\_AnAy@hACr@b@bFpI~@r@z@Ix@w@tAsExAHtAdAHzEpCdBRbAa@z@eBb@u@hAEbLqAhS|DdF\\bBZR`Gh@rL{CfBp@p@`F`@`LWpC_BlAYbANbGv@tCfBx@dCMtG|A~A|A\\hCxA|@|@w@dD}JrAc@~BrAb@rCzFh@dBzDLzCi@hBuLvGc@x@WhCcCdAgApBt@~CdB|@NtBz@vAe@~B}APYn@X\\`BGV\\Md@cBlA}DnAk@xIhBhHdFxFUzGPvCej@`NqH|BwAfARzArBdFlOgEpA?f@`@CxQmBlJeAlCKpKYp@o@TkJL{@oAqCuJcAwAaB[gBbBMfATtAdHbOmAn@}JvAy@l@Ix@^`@|@@`KuAp@XwAp@wK|@Sz@`BXvF]bDh@l@bEnBfCVhAUr@cCr@Ch@bArClBTRl@U^kCHC`@dAj@Mj@}Co@aBRyHrGw@fC}@lHj@dPq@lGkG|LsBjBw@xDqAjAmCdAwHEn@s@lC]Ao@c@_@{GhBgE_DFyCpAMT]FuE]kCe@u@w@WuCv@gArBeBOoBuGr@qB~A_B`BiEuEeNeAkFl@cAlA[tAb@vAzABCb@MAq@}E{KcKoDiDsBsB_CuAsEGiB^}A|H_G`@y@O}@{CsCb@g@tAUF]oAqLb@uF{B{C_@cC`@{CnD{Hl@sHu@kIk@sAmAeAAcAaAmA_@yBNaBzC}JVkE{AuCmDy@e@o@yBoIr@aHiBoDIw@x@_AxC@`@aFfBs@bEpAv@x@AjBzBp@Dp@aAxBp@nAhCJdEa@lC}CEu@eAeDzC{CV}AMkBeB_F{F_FUoAxAgF`EyA~@cBIyDcEmFzBcCGgDpIaTb@cEm@cCsH_D{@}AQoBfGgNhAaEnCw@`Ev@dAk@xA{CxCIzB_Af@wADaBaDkFXyApB_AfAZpFxInAx@d@ChAcAlAkEpA@vA|@VbAG|CrCfBT|@a@fAgC~@[bA?hKuAjSdElFr@pB|Fl@jGcB",
+"average_heartrate": 151.3,
+"average_speed": 9.239,
+"source": "strava",
+"streak": 3
 }
 ]
