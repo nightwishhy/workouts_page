@@ -8518,5 +8518,20 @@
 "average_speed": 7.788,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9679049087,
+"name": "Zwift - Tire-Bouchon in France",
+"distance": 31519.2,
+"moving_time": "1:06:23",
+"type": "VirtualRide",
+"start_date": "2023-08-19 12:55:02+00:00",
+"start_date_local": "2023-08-19 20:55:02",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "tltcCkihu^mHqY@gAdAcDBuC{Em[kA_VeAU{E`A_Bg@mJcKkG_MuHqGuToF{@LoAvADh@`A~@?d@_ESBh@|GbDLl@{@`@iI\\m@JQd@nNtD^b@sHdFmChAY|@n@l@vOxBWh@kG|BjD`GXfBChBk@|AsB~BuEfBoBU}GmFyFx@e@h@UrB}AzBeFhC{ApBWnCL|BxAlEzAxBnC\\pEwBxDUvAb@p@v@xAfDTjBe@zCiAnAaCX{EUm@Tu@lA_@`CJlAzEnFZjAErAe@nB_BjC{FxDsAlBy@tDGxDnEtFnFfCpALbGeAtBoArAyCTkCw@_IlEoJhCkC`C}@bIb@vDpDOvD`BvB{@z@Cf@~Cz@e@bCiB?EfC{CDBz@jBp@Rb@_AvA^VhBSHb@[bAtBf@S`BfC`@IvBj@?vBcBj@EdChErBs@\\rB~A^Gx@R\\vAyAl@z@`@KTy@n@t@b@Br@sDpA@n@eA~@x@nAmBhC`Br@F@mCbAe@VoBnA^^On@aLjFgF`A@zBxIcF|GUdApHrNp@`EHvH[nCoArDiDrDKpNf@pAhGrFpCbE`DjBr@jBNzBb@tAxJ`NhDbCIhCgDx@FlCkChDU|ANpBh@`@nGmA~AtBFjByBbBn@~CEv@}A`CmEs@yA~AqADsAlAk@HuAyBaDg@}C_BFsAbByAAmBa@c@gCM[yBaA}@kIcC{MmBaCp@qJEeGmD_EiAqARmAxAo@JcCGoD_A_I`FqN`EcC`@}AQmEb@}CdAmAKkEuDy@cBmBcBaAkCiBqAeDYyFnAeD_BW}BbByENgDq@cB{BiA}C{HeBUyNDe@SAaCdAs@hAsD^gHpFqFDeCSk@{SOe@q@NsBSoA}DwD}I_@}IuA{C{@eDuCePwC_@gAFkDwFuDg@wAHaBbAqA|EcBPoFhCk@b@iBtDmArB{BxC{@tHLbBeAF_BiCmAYk@Ha@`B}@Xo@Oo@aCcB|@oCCw@k@w@{DkBM_AhJaOf@?nDzCfA?f@e@TcC`@m@r@@vBdAlAYZaAB}D^w@~AExDnAdAm@ViBwBwFSeBVo@|A}@t@cFzAcBkAcE~DgMp@a@rARfGeBnCuAb@eBf@[x@TPn@s@~A@p@p@tBlAt@zIyAfBcCtBq@z@`AnAjDn@d@H|BjAhCrAZxDo@tGjF`CTlFcC~B_EFmBe@gCcD}EzGeCLa@a@a@kC]",
+"average_heartrate": 151.1,
+"average_speed": 7.913,
+"source": "strava",
+"streak": 1
 }
 ]
