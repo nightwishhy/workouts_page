@@ -8548,5 +8548,20 @@
 "average_speed": 9.169,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9749549885,
+"name": "Zwift - Greater London 8 in London",
+"distance": 24185.4,
+"moving_time": "0:51:24",
+"type": "VirtualRide",
+"start_date": "2023-08-30 13:23:39+00:00",
+"start_date_local": "2023-08-30 21:23:39",
+"location_country": "KFC, 2, Tower Hill Terrace, Tower Liberty, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4EE, United Kingdom",
+"summary_polyline": "elkyH|uNb@hBP~AFhBGtBmC`a@QxAmAzGiBvPo@zH[tHKbPIjFHzCh@bGHdDGvMHhIGnMAnSPbFr@lJxAbJ`A~Er@dC|AzD|BbE|@z@|BzA`D`B^ZPn@@XEr@YlBkBfQa@nCDd@PZVRd@AjJwDdE}@hCYrLEbJPdFoAbEKhKwAnDSpIEfALdAZ`Al@vJhInAfCnBbGj@jAp@`ApBbBxCzAz@j@h@j@Td@l@nBt@|Ex@fJpC`WH`CAbCUxCwArN_@`F_@dJE`CDzKS|BW`AuBnDmGnM}MtVgA\\kDf@gBh@[KIOU{AKM]G]PGTFzBIR]T_Gv@_L|ByEr@[PGT?VLbDCVS^oAf@SXMz@Bh@Ah@y@lHu@fDYp@c@^[@YUyB{E}B}CcCuCk@gAY_Ay@}Ds@uFMaCSmHcA{Lo@uFMaK]_Ew@yCcB_F_@y@sA}BgB}DwA_EwB}E{DwJuCeIAq@PWvEcEzFsFPUF]Ow@{BoHsIo\\Mm@Cs@LaDn@yJRaAZs@~@y@hIiD`E}@nEa@bK?|INxEmAzEOlJqA|AGLGJQLiA~AsYKUyB_@MOAu@x@aNPSn@FTGPkBZmGVq@nAkAd@_ANmAAu@Mo@[_@kFsCGSBUb@mD@WGOiEq@mAR_@MGS?WBUZ{@@UQc@WQkB?m@HiE|BqBt@{BAWMIUUuDHaAPgAd@cBlBeGhBmDbEcKl@mArAcBrA{@bBy@Lc@C_@e@Ua@CiDpAaAn@qAnAqF~GSJMCK]AYLi@|BgDdD_Hr@iAbA}@nDyDnGuDrFeEdGsF\\@Rf@@v@I`C?dBJ|CFj@d@fBP^ZLl@E|Ay@hCTNKHUfAmDHyBGmDKu@gBaIMgDAeEFsIEmIb@oJd@oFLwDAmF[wKK{Am@iF_@uAWa@]S_@CoEt@[CYUOe@Gk@GkGQqAgAaCi@q@o@a@s@IWJWVw@|AuBtFg@x@YL[AYOUYa@cASqAAyAPsPCqB]gDi@yCe@}Ai@qAmAyAu@a@[EY@s@b@g@t@s@~AUhAE~BU|Ba@fAYV[?k@y@c@cAe@wBIuAV}C?e@O[UKiB]SBM~@e@nJJr@bApA^~@TdADlAGhA]zAg@h@{@Vo@Ck@QyBiAGOCSN_BCSIMgHmDKAIJu@rESZMAkHyEkM_ImLgBm@B[Tg@~@_@dAGf@Bh@\\dBRxAR~CCzF[nCKlD",
+"average_heartrate": 148.7,
+"average_speed": 7.842,
+"source": "strava",
+"streak": 1
 }
 ]
