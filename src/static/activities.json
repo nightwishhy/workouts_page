@@ -8563,5 +8563,20 @@
 "average_speed": 7.842,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9755837074,
+"name": "Zwift - Mighty Metropolitan in New York",
+"distance": 20185.1,
+"moving_time": "0:45:12",
+"type": "VirtualRide",
+"start_date": "2023-08-31 12:58:16+00:00",
+"start_date_local": "2023-08-31 20:58:16",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10021, United States",
+"summary_polyline": "un{wFhqmbM}GiGuG_Fy@{@u@aCQoA?i@XmEKaAYy@iCoBeY}QcBm@yFWwAXaBdAg@Ni@?e@MwDaCaAcA}CcEqAiAm@KgELcCa@k@WqAmAYc@aAqCi@WeAZ]x@C^@d@P`A`AtBDd@Cb@]t@o@TWGg@]mC{CgE{BYu@?gBzAgGVo@b@m@xAq@dBa@r@AxANhAId@k@bA}DXq@n@[v@NvCpBdCvBvJnGbA~@V^X~@Ap@aAdDGv@@ZZl@~B|AZZRd@@d@m@~BEdAPl@v@|@dHtFtJdGtClAbOzE~Az@v@|@\\z@FvAMtBa@zC]j@g@PoCa@k@Hm@jAQxAB^Zp@dC`BbBfCZhA@|BNh@RPpAd@|Dh@~AG~Bq@\\s@dCuKd@sAl@q@jAm@~@Wl@?zAXnBp@vE~B~L`I~J|H|@~@p@bARl@Hx@E\\[n@yBnCMp@d@|Bz@dCHx@G|@m@lDSxCHf@h@\\z@PdBVj@Ah@WjCyBhBKXSl@eATIhAp@^d@L`@@v@Ot@kCzFg@`BCvAh@fDCd@S\\_Ah@[^cAtCW~A?~@^~@bAdAhBfArBx@vAB`Ai@jA_Bl@kAt@}BfG{TxC_Hn@sBD}@E]g@iAeAaAaDkBaA]wABWVy@dB]@Y[wAcC_@Oa@F}@j@k@bA{AdEq@dAWHqA@s@`@{AtAu@ZyDg@]KO]Ae@XkDf@kCDkAOeAqAaEEg@Tw@hB_CZo@F[Cu@[gAk@{@qAsAiG_FgIuF}IiFwD{A}Bc@uAPuAn@m@l@e@`A{CnMWZi@RcBXmA@wIyAyC}@}FsC{[qUsFaF}BaBiAUeCF_Jv@aCUkGaD_NqIQWW}@@_Ar@aEXg@TOtF{@f@@nAl@d@d@j@jAbAjEZr@f@b@fBv@Z^p@hBlAtEd@bAr@l@xGlD~AfAb@h@fApC^`@nF`@~@^b@n@b@fAd@lCb@vAxB`DjC`BrBb@`BM`DcAl@Iv@H`A`@`BzAvBhCVf@`@|A\\`@`ARpDMj@RlAdAlJbL`EhHzA`Br@f@lAPvCSlCErCf@pAq@vAaBR]^sAFeAQqB?q@^yCp@kDByAMeAc@c@aBGcAg@}AcBgBqEc@]g@E",
+"average_heartrate": 144.1,
+"average_speed": 7.443,
+"source": "strava",
+"streak": 2
 }
 ]
