@@ -8593,5 +8593,20 @@
 "average_speed": 9.602,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9781356974,
+"name": "Zwift - Volcano Climb in Watopia",
+"distance": 24141.7,
+"moving_time": "0:47:48",
+"type": "VirtualRide",
+"start_date": "2023-09-04 12:55:05+00:00",
+"start_date_local": "2023-09-04 20:55:05",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "r~_fAcg~y^}EiC_B}AwAcDa@cDJqAj@eAfGkE~@gA@c@Ui@cCeBUq@X[zAWJUgAgKEwBh@aDlBuCjBeA`Cy@pQ}BpCy@dAsAvBiFhBsAzAc@nBEdCt@hAbArDfFf@^nB\\xJoA|ZuIpAEp@j@EjQUvBw@`DgBlFCjI]jBSRoAL}H@k@s@}CmKm@cAaAm@}@?_Al@g@hAE|@VnAbHtN[b@m@TsK|Ak@l@Gp@RZl@LvKuAl@@FZaBh@kK|@WP@\\PX`AJjG]`CTh@ZL\\V~CrBnCNx@Eb@YZsBh@A|@bAhC`BNZd@[f@eBCg@TD\\`Af@Mj@m@DwAo@q@E_Cp@mA`BqChBw@rAu@nDi@|EAdDl@|JQ~Cu@~Cu@RqA{@uA}Am@oC_Bq@y@VaArCoB~B]BuBk@gBvAkAWo@mAWcBJq@p@wAn@o@xBs@|BRvBgCQq@_AwAaAYcBX_CtAaC?qCo@gEn@iDtBc@hBcBfBs@bBBrAl@bAz@xCd@XzAO~@oB~@CdAk@pAn@f@`EKrDEL}ATS~@AfAZp@lCtBtAXdFoBtBt@fDiA~@}@f@oBlDgD\\{@FcASqCsAuBkA}Dm@w@eAg@{FaAwJr@cCdAo@zAqAnASl@lBdKt@fA~AXl@UNy@Xa@hIcBb@TLv@`@d@nB`@vAKh@yA@gCiCsFeAq@oBq@_DGoCp@_CxBUd@MjAFtAxAdEl@j@tB|@~BLbAUn@c@vAgCH_Bw@sCaBmAoBIyAZw@bAWzADfAp@vAlA|@tA?dAc@j@eAJqBs@cAkBi@gAJ{@jA[HGa@d@sAxAk@dBAzAj@z@pA\\xBOfAgBpC_A^eAFoDaAgA_AqAiEHiCtC{CjBk@zBE~ATtC~A|B`F?~Be@vAm@NgAIwAa@a@uAe@WeI`Bg@b@UbA_@FqAM{@gAy@yFm@iB@u@~AeBbAiBpDaA`I_@~Cf@vClAr@tAf@xBvA|BVbBChB]fAwDnDk@pBqA`AmAb@mALcBm@}FhB{@]mC{BM}@NyAVSdAINc@EkAHcCY_Ck@{@s@SqAn@w@?YVc@pAm@VaAG[k@m@_Cq@uA@q@`A{BnAgAX{A~@eAFm@_GeQYiC^w@bAa@xATbBbBf@GFe@}CoIy@oAiBiAuH{BiC}AuAoAaBkDg@qCPaC~AkBrE{C",
+"average_heartrate": 146.0,
+"average_speed": 8.418,
+"source": "strava",
+"streak": 2
 }
 ]
