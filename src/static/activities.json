@@ -8623,5 +8623,20 @@
 "average_speed": 8.201,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9827908643,
+"name": "Zwift - Lutscher CCW in Innsbruck",
+"distance": 17141.9,
+"moving_time": "0:47:05",
+"type": "VirtualRide",
+"start_date": "2023-09-11 13:03:11+00:00",
+"start_date_local": "2023-09-11 21:03:11",
+"location_country": "10a, Rennweg, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "cvo_H_updAdPpA`@CJODUCkAaA_Li@}DC[@[JUNKrBk@vAUh@DxA|@h@NZAVWTw@L_Az@yLDUJQLKn@U\\WX_@v@wAvB{EvAwFHOLEtDt@\\IHOFk@?gAOgES}B?YDYJQ^WlHkC~EqC`BmAvCmDn@}@T_ALKNEn@B^KjEmC~@a@`GcBfGwAz@]P@Xz@NPn@PHHR~@j@`HTnAr@~CXdB|@pIz@xGV~A`@`B`@x@d@j@f@^p@`@d@Nf@Bf@It@_@dAeAXe@^qAPYPOnA]~ASfAC~@L`Ab@lBpA|BdA~CbC~CdBvAtA|@rA`@dAH~@E`DHj@DNNRh@P|AG`@JZ\\Vv@Vl@PP`@PxDj@^PXZVF~CA^Nv@f@f@Fd@Od@YhBkAp@m@pA{AtBqCzAeCh@cANUTQr@B`EnA`@Bp@EdB]`A_@j@c@lAuAf@a@r@MdB@~@Ut@[\\[LSXcA`AqIVyANo@b@qApCiGj@}@LI\\CfDl@vBAhCQlAYt@]v@m@n@}@bC_FbDyF~@cAhBiAr@m@pByCd@g@ZQZIxBK^KVe@Z_AT]jCoBhGaGlAcA`As@|As@rBg@vEWzCa@`B]XQh@_AXw@Bk@ESSa@mAwAeCsBaAk@wAe@oBa@oJsAgB_@qAe@oAo@kA{@e@c@w@_As@gA{@iByAiFqAaGUu@mAaD}@mB_BeC}AeBcCwBoAw@uD}AmAUqAGqBJeF~A{@F_@CuBg@kEy@oA]kAm@iC_Cq@_@oDcAsLyDy@QsBM]K[OmBwA]M_@@]LcCpAYCAe@HqAEg@S[{JcI}BqAmK_Ey@o@Ya@m@iAu@_AmCaCsBsA{@]yCaA{@a@[Wo@}@c@eA_BcGcBcIk@{BOg@g@eAm@w@_BqA_Bw@oEeAcAKm@@WDSLQT{AdDm@`BWfAMnAFnAj@rDdA|FL`BZzO?b@Gd@[dASZw@P[NU^e@fA_@nAq@hDk@tDM`B@bBZ|DAl@Od@[N_@IU[Qe@]qA{@mEOaCMe@WS[HId@?j@PvF?rAEf@[hA{@dBQd@WrAMvAGvACrEBxBJxBXjEdBfSv@xGh@tD\\hBv@tCn@zD\\fDBnB_@tGFxAl@xFAf@GPWNS\\Gf@?RLd@HLHHh@NTVRzA",
+"average_heartrate": 149.5,
+"average_speed": 6.068,
+"source": "strava",
+"streak": 1
 }
 ]
