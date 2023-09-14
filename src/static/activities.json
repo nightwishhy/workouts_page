@@ -8638,5 +8638,20 @@
 "average_speed": 6.068,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9841374746,
+"name": "Zwift - Sand And Sequoias in Watopia",
+"distance": 25240.8,
+"moving_time": "0:48:26",
+"type": "VirtualRide",
+"start_date": "2023-09-13 13:24:22+00:00",
+"start_date_local": "2023-09-13 21:24:22",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "ts_fAkybz^iA}@uBwHCmAv@_FyBeFTw@f@U|BL`@Wd@kFf@Y~AD|DhBNbC`C|@cAxCXbAn@X~H_@dCwCAu@y@wAOwAzCuCT}AI}AgBmFaCiC{BwAQsArAyE|D{AdAaBJwASgBsDcEOk@zBaCK}CpIgTf@cEMuAq@aAaF{AcAy@w@yAOyBvFeM~A_FfCq@pCv@jAIp@g@vAwC|CGxBmAd@mBGaB_DyEb@mAdAo@v@IbAd@fFpIhAv@t@It@q@bB_FpAPvApA@dEpCfBVhA_@x@}A^aAhAEdLqApS~D`F\\bB\\R~Fh@|KyCbA?t@j@l@fDh@hMS|CqBjBO`ARtFp@hCpBbAtBOdBp@lDb@hBzA\\nCxA`AnAwAvC_Jv@a@jATpAdA^nCzEP~@x@dArCBlEiA~AiKpFc@p@YnCgBp@qAvAIhBx@tBxAl@?~B}DbDi@Gy@sAsB@Ch@l@v@UhCo@`@iE?k@x@IlAgBdA[vAe@f@y@ESs@fAkB[_CnA}@g@yAcB_AaCZk@v@PfCg@\\k@Ug@_Ao@aCjAoDm@wDHsB|B\\vAGlA_BYiBw@qAy@S}Ad@_Av@gBTSk@\\wFw@a@}BEeCrCuC`AaCNmDgAk@BiBnC{C^}AfA{@LWh@Zb@bCPbDpAl@EtBsAxALt@b@Bh@w@j@{A@}CdAcEe@m@PKf@X\\xCThAnApBUzBb@dCi@rBnAdAvCx@dADj@_@vAgA`Au@fCo@x@eDx@{BBgAcBiB_AyAwDqBx@qAgDe@g@s@VAhAWRqA]wAj@w@m@eA?Gx@hCxCg@n@yBa@u@s@]o@TmA]i@uBg@gDFaA^Ct@v@RtBc@\\\\a@b@sCz@Ov@pDpALrAc@rBn@h@zAVf@pAkCbCuAXm@zCg@D{@{A\\yBOwAy@y@oAKyAh@OfAi@r@FjAx@t@IdA|@vAcBbBc@lCa@C_AsBjAqC_AMqAvAa@?D{B[e@}BdA_AfBcB[kBZsAo@SoAdAyDLmDiAgCyDcAs@gAqBcIt@wGwBgFr@_AbD?`@aFZc@fAOvCv@tAz@RhCzBv@cA|CVz@h@ZxH[hCcCJ_AcAsBGgA|CwCRcBGuAuB}FqFqEQwAnAsErDsAnA}ANoBSyA{DoEGe@zBaCSkBJw@nI{Sd@sESyAe@o@aHmCcAiBOeBfGiNhAaEjCy@|Cv@fAM",
+"average_heartrate": 150.3,
+"average_speed": 8.686,
+"source": "strava",
+"streak": 1
 }
 ]
