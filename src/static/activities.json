@@ -8653,5 +8653,20 @@
 "average_speed": 8.686,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9864221695,
+"name": "Zwift - Volcano Circuit CCW in Watopia",
+"distance": 8126.1,
+"moving_time": "0:20:15",
+"type": "VirtualRide",
+"start_date": "2023-09-17 03:10:52+00:00",
+"start_date_local": "2023-09-17 11:10:52",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "xk`fAob}y^v@lBJb@AVMRk@j@MRM~@GRQTm@b@OPU\\Yh@Od@Kn@Fh@p@hAf@pBPb@NP`@PX?d@KRINUZeANS|@At@a@TKJ?VH\\VLRHTXhCBf@MhABnAGX[Fo@?QNMZGj@A^?^H\\JLVPHHn@h@b@XVXv@ZL@L?ZGvAo@jBs@LEXFRRDLBJCNODsAFs@Pa@TKLDTNJR?b@MPAv@BrAPn@BhAQnAg@l@]^Wd@i@Tk@b@iCPa@XWh@YPMTYtCsFJc@BUCa@EWOa@m@m@k@c@c@k@Ma@S{AW_@WSUGGEQEQC_@BIBMLKPa@~AO\\SZe@f@]f@WTUFI?{Ak@a@@c@Xo@r@SFY?QEYQSS[w@Ok@G_@AYB[FUf@gAR]Z[HEl@U`@Ij@Sb@Ah@N^DNCLGj@q@t@u@DMCa@iAkBUQg@IM?MBY@s@N_@R{@t@c@N[B{@?o@CgBi@WAIC{@BUDc@BWJc@F_@PuAn@y@j@e@j@ELIx@IXkAbA]h@Sd@Up@AP?XFXh@`AJV\\xATj@NP`@PV?VGh@SLUZeAPOx@?r@a@RKVBTJZVJTH`@XnCAb@Kl@BxACNEFUDu@BURIXEb@Aj@Dj@RVl@h@bAr@VXv@ZN@ZEZIfDuAd@KTLNTBJ?NIFcBLs@Ra@VATJLPFRCRIPCx@BvAPp@Bn@IdA]f@YLCnA_AXc@JYf@wCV_@bAo@PQNSlCgFNc@@M?[Ee@Qc@a@g@GCQQg@c@]e@Ka@MiAKYUWGAMMm@Qk@CSLGFQ\\[nAWh@c@p@y@~@a@NK?a@Om@Yc@AI@SL}@`AODc@Ae@UMMOY]iAIo@",
+"average_heartrate": 123.0,
+"average_speed": 6.688,
+"source": "strava",
+"streak": 1
 }
 ]
