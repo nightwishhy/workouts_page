@@ -8668,5 +8668,20 @@
 "average_speed": 6.688,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9873537812,
+"name": "Zwift - Chasing the Sun in Makuri Islands",
+"distance": 35108.4,
+"moving_time": "1:17:26",
+"type": "VirtualRide",
+"start_date": "2023-09-18 12:50:58+00:00",
+"start_date_local": "2023-09-18 20:50:58",
+"location_country": "Bwuang, Temotu, Solomon Islands",
+"summary_polyline": "pf}`Akwes^fBoEoC_@}DsTyH}DkHqN}PyBqBj@mAdBgCxNTzApDtF}@vE{G]qI_LsDg@}BrBa@jGoCp@`@vE{AhClD~FMzCe@r@wA?yIuCwQ]s@iA@sDzCqEbDiC^oHrGIx@aA?iFuB_AAuC}@ISrC{@f@m@[IeD[Ui@dBiBp@Lx@bBVGbAwCr@Q`CqCf@K~AfCb@p@aBbAfCj@Gn@}A`DnC~@k@gAcDxBq@cDGi@w@v@yC@gGhBaB}BeBLsB`Bq@Ao@oBcAAsBx@q@lDd@Bl@}A`@Hb@~Ep@Id@{ALUxAuDn@d@j@~BBt@{Ad@F?fNfH|@x@fAGvL~AlFYtI_ARuCaEzAcCWaFfCKShRg@FyF{DaIaIgDM{BlAsLUQ`Az@b@@|@{Bj@SYb@qAs@{A}CEYdFw@t@GbCiAhCfHpCAhE{@n@uEBuDhCS`F}AhFbA~AK`BgCjA{DlGkGdBcChGeBfByH~@oJcByJn@mA{CqBeBmA_@wCz@wIgFsD|AoBy@i@cBw@[aEtAoAMiA{AGcCqAk@_EjB{@lB{Av@kIZ_IcDu@_CiAm@uHRkH}Cg@oALwBlCkCPiBwBsBw@gFeAa@mCR}D~CiAAyAwA}AaEgDDeCyBeCUwDiHeDqJqEl@sCgJ@}JmAqI{@aBNkB{@}A\\sBwBiHn@uEsE{CGgHk@{C|FcEdGg@vCzCjD`BAfGdEnAtC[^w@EgBuBeBXoBg@oBZw@jD\\`BaBtA|AlEyApED~@uBnA]LiBx@Hv@tA|AAnBz@h@o@eAmBr@cApC@TvEtHqBbE~Bq@pDxBm@dC^l@`EtIjFX`B[^qEAeCcCmAsBk@b@AlB}@dCeBh@oAwAi@oE_AZq@nEk@]k@mDm@@YdDkBMh@dBo@~@Q~Ef@zDrDnDCbDfDrCrExCrAy@zFzDoAhDhBdBhD{AbFKpBy@zC\\fC]bArBs@lAqB^eDyAs@f@?dArChEjG~A|AjBlA_@YoCdBs@jCnB~A`GzA\\vCw@pAX?jEuAjD|@`DC|CvCzChI~AhCpE~DrDRdBwBjCpCvDUnHn@fAlDdBnBfKlAv@zIiAtCmGfAwAtEcAvB{AtBqE}@{A?cAh@eA`Be@|AoFJmEzEeDlGT|CzA~Cy@`Or@|GpFpGJxJlBhB{@dIqJnAsK~GgAt@cCx@SlId@pFtBfB`DtHsBbCN|BxBnDrMnCpAD_C",
+"average_heartrate": 147.0,
+"average_speed": 7.557,
+"source": "strava",
+"streak": 2
 }
 ]
