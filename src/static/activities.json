@@ -8683,5 +8683,20 @@
 "average_speed": 7.557,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 9886530676,
+"name": "Zwift - Everything Bagel in New York",
+"distance": 35065.3,
+"moving_time": "1:15:15",
+"type": "VirtualRide",
+"start_date": "2023-09-20 13:17:57+00:00",
+"start_date_local": "2023-09-20 21:17:57",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10021, United States",
+"summary_polyline": "et{wFplmbM|GrFvFpAlDH`ClF`CtBtAPvEgAfC~@bAz@tC`GrE`D`A`BH~@{AhGNbCbCfDrJvFZt@D~@c@nCkAxDiA|@{@c@iE}EkCkB_DiDc@cBNsAlF^`EuC|AEvAgBhBjAX~@KhAoCjGm@xBf@hGuBrBwAnF@bA`@`AzDrCpBn@tAAfAy@nAsBpI}Y|CaHl@uBA_Bi@gAkFmDcCYmBhC]OuAeC_A[{AdAcDtHcCZkDfCwEm@UY?gAdA}IkBwHTy@hCsDDy@YsAsBkCsDyCySkN_H_DsDc@uBt@iAnAuCvLm@xAgFp@yI}AmEyAoE}Bw\\kVoIcHwCMsMv@cH{CqOyJ_@}Ap@qE~@sAnFw@vBp@dAxA~AfG~DvCzCtJ`LvGtCfFjH|@dAlBrAtFjCtDnBhA|Bf@rH{AxBl@lExEvAjD~@XvDOfBdAvJfLjExHrBtBnAf@zHYzAZbDpHfBhAhJxDlCvCnEpGjDrClBZ~BsB~AiCt@wBv@_DByBy@{A{HeEiCwC_@w@IkAxAeGAgBcBgCiEyCwCcGgEgB{DdAwAAsCcCcCmFmEQqEiA_B}@aSwPcAqEVkFi@iC{]sUyAc@eGSaEjBsAIeEgCmHoIsFBgDs@cBaBuAkDm@QeAf@Y~@RpBdA`CElAi@r@u@DqDyDmE_CYw@@mB`BsGn@eA~DwAzEBb@i@hB}Ft@Ox@XpUvPd@nA?r@}@bDKlAd@`AvBvAn@z@?p@s@vDt@~AlHzFtItFjD`B`PjFnCpBf@hCw@jHeAn@aDa@aAxAO|ARz@jChBlBpCVjA@xB`@x@vGnApEs@`@m@pCwLh@oAfDaB~CZfDpA~LnHjMjJlDvDb@|AIz@oCtDOx@jBlHgArJBz@VV|Et@xDqCjBKt@aAfCoGvAs@d@LvBdDd@QjAsBxBNlFfDp@pA?pAuElL_HtVoAjCoA|Ay@V{@EcCcAyC}Bc@eA?k@tAqFtBwB?cAc@oEd@gBlCcGRkAOiAi@q@{Ak@oA`B{BT}CbCoEc@q@\\ChBjAjChH|FxDvE@pAaAnAaAZ_Bi@yDiD}HkKiJyDoBoAwCaHcBe@aIXkAg@{BeCkDqG_KqLcCwAmDPu@SuAiDwEaFkCk@aH~AeDeA_BmA}A{BgByG_A_BcAa@mF_@}BsEiKaG}@cAqCkJJw@bBmDXgD]cB_C}EKaCfAo@dCVjEGxHtI~EnCdAItDgBtG\\pAf@p]nU\\`CS`Gp@xCl@dAxSzPhHlBrCCd@`@|@|B",
+"average_heartrate": 152.1,
+"average_speed": 7.766,
+"source": "strava",
+"streak": 1
 }
 ]
