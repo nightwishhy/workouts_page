@@ -8728,5 +8728,20 @@
 "average_speed": 8.542,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10363419556,
+"name": "Zwift - Two Bridges Loop in Watopia",
+"distance": 7461.2,
+"moving_time": "0:14:45",
+"type": "VirtualRide",
+"start_date": "2023-12-11 13:55:48+00:00",
+"start_date_local": "2023-12-11 21:55:48",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "ls_fAuo~y^LV^h@n@p@j@b@jC|AdAd@J?VLl@RVBzBl@x@^j@`@^d@`@r@fBjFb@~@b@h@^Pd@Fb@Ab@Gh@O^MDK@I?KM]@MZWTKJW?KGMSO_A[YOGKAOHw@ASIO_@Uk@SIK?MD_@J[RWZQd@IRBPFXZ\\j@H\\Fn@FJLHl@FLHr@|@JBNAZUj@Wn@i@`@g@DO?OIOMKaAe@]SKOO]Oq@E[Bg@DIFGRKRGt@M`@Ax@@l@N`@Pf@l@b@|@zBlFLPRLVBRMVg@`@]|GaEr@i@NIR?NHLJ^j@v@bBR\\XXNFN?ZYVk@h@qB`@iATSNEL@NFVNVTdCrCLF^F\\OHKHc@E_@[_AEa@FOLG\\Kh@Id@MTc@B[C]Ok@SYeAiAYc@Kk@EaBEWKUSQo@UaAOy@AOC}@?eALe@JS@SDi@?{@Ge@?a@PYZQ`@oAtFUb@QNSFS?SCQEOKOCOIm@QqAYOA_@Ko@I_@MMA_B_@OA_@M}@O}Bu@eASs@IcB?_@DO?]D]BiDb@YHuBXa@Pc@HULK?ULi@R{@RQBe@?MCIIKWGc@A]@yAJ_BLc@LMPMbA[JIDK@OKu@A_@?m@Bc@DQHOr@cAJa@ESGOWY]SKKQe@kBuHMYSQ[?STMVKZEx@CzFDVRNTHV?RKLUPk@DS?WGSQIQEi@GcB?}AHu@FQDa@LMLCRHb@X\\|@j@x@n@JPDP?PERILWZuA`A[PqBrAs@l@a@f@Uj@IbABbAJz@",
+"average_heartrate": 142.8,
+"average_speed": 8.431,
+"source": "strava",
+"streak": 1
 }
 ]
