@@ -8743,5 +8743,20 @@
 "average_speed": 8.431,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10379355596,
+"name": "Zwift - Sprinter's Playground in Makuri Islands",
+"distance": 12475.6,
+"moving_time": "0:23:53",
+"type": "VirtualRide",
+"start_date": "2023-12-14 14:32:41+00:00",
+"start_date_local": "2023-12-14 22:32:41",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "bgy`A{hes^LZTPzBpALBN?v@[LIh@Q\\El@?bCRjABNBpA@l@JlBHXHb@XzDvDj@T^FzBLfBIh@HbBr@h@FbB`@z@Ft@El@Of@[|@iAr@cAdBiBJOtAyAV]Jc@BQJsDLwANs@R[ZUNEdA?b@Cr@SxASLMFQJgADOHMNK`@EtAPbAB^D|@A\\MRYPm@F]\\mEJYJKXMNEnCONEHO@MCS]}A?QJKNG^ANEz@a@\\JHLF^PbA?PGLKLQDc@@QFGR@Tr@fFBv@IvABLLJ`@J\\TNDPARYBO?MGOe@]CMDSHKTQJW?[W}A@MHMZGN?JFFLL`AFLNF~@S`@ANDJHFNXtACRMLa@NMJEN?NFR^JfAUt@ST[BUASU]]Ok@a@Q]@SHIj@SFOg@wCGs@?QLa@XUn@SLIFO?Oi@wCQoAISOMw@]a@[k@OQKq@m@qAc@QM{DuH}AgDIKm@SsBU}ACwAo@m@MuBMiA?o@Je@PWRm@n@[n@_@zAMpBUxAEv@Kb@c@pAOv@B`@^z@Zf@jB~BTb@BLFj@C`@_@dBS^MJSBeDKgAMo@Ys@u@k@iAS[sByBc@{@g@w@WWm@Sa@Eq@Ao@L]NYXm@x@GPCPOjEIb@_@NiAAOFMLIL@^`@dCAx@Qf@y@f@KNCL?RBPPPRJx@x@j@lAZdAB\\Q`CCNMP[T_@Dm@Km@Ys@ScC_AiBg@iCIsB?SCaHAu@SYWOc@Gu@D}BL]d@c@h@[JKN]T_ATWjAs@n@c@PSLWF[Bw@FsDD]PUZMv@?LBbDJLAVOLUHo@CaBDuAR_@`@ObAA`BBLBx@@j@Df@VJJNZJ\\Db@?x@QjIHp@|@vBN^F^@`@GlA?|CKx@KXUR[?KGSSg@aAiA_AIOCS?QDQZ[`@ULQJg@@k@c@eC?YFUNMh@Mh@Db@NHR?NCTK`@Gd@O|G@ZPf@@LEbBCNGJKFO?WOy@u@e@Ya@_@KC{@m@e@Wy@y@mAaA{AuA_@k@[i@IIYKoBGKCa@?UDa@Z_@`@k@LgBEKCkACMCq@Ae@Eg@?KEiA?KFKRAZ@ZHHLBX@HJDXEZGHMBu@A[\\MDMEKU@OHIJCHK@]CKYKIICI?o@WMMAyB@ULGXAzDENQRWFGJEtB",
+"average_heartrate": null,
+"average_speed": 8.706,
+"source": "strava",
+"streak": 1
 }
 ]
