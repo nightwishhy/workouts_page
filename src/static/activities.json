@@ -8773,5 +8773,20 @@
 "average_speed": 8.309,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10409936667,
+"name": "Zwift - London Loop in London",
+"distance": 22382.6,
+"moving_time": "0:47:39",
+"type": "VirtualRide",
+"start_date": "2023-12-20 13:29:58+00:00",
+"start_date_local": "2023-12-20 21:29:58",
+"location_country": "Petty Wales, Tower Liberty, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4EE, United Kingdom",
+"summary_polyline": "mlkyHluN^lA\\fCFrAE`CaBhW[bDQdDU`BkAxGqBzQq@fJQlFGlNKhHH|Bh@bGFfCElOHdIItN@jRXzGn@dIf@bDtAjHb@rBj@lBhBlEpBlD~@x@zBzA`D~Af@n@DX?r@YnBuBtR[`CBXPZRVPDfAWxHcD`Cm@pCc@jBO~DCjPT~EoA`FQnJqArAENELSLmA|A{X?[OOiBYOGIUBsAr@iLJ_@dABL[`@{HJ{@Xk@`Ay@d@}@Pq@B[EqAGW[a@gFmCIM@o@b@qDEUyDq@a@?aAPOAKMGm@`@qA?Wa@k@c@GqBHmHnDq@J_BCYKM_@QoC@_ARqAViAbC{HlA{Bn@wAjEqKd@w@v@_AtA}@`Bu@N[BYAKWSq@KuCdA_Af@_BvAqF~G]VOIIc@Be@|BmDlE}I~FgGhAy@`EyBbGsEtFgFVKXNLd@?n@IzB?~BLtCn@nCPZXHh@CbAq@\\KpBV`@EnAsDF[FuAAoBEsAIw@kBoIK}CAcDFsJEmI`@gJXuCRaDF}A?}DQ}IOuDi@eFYyAOi@Wa@[U]EoEt@[AYQSa@Gk@IiGMsAq@eBg@u@k@m@o@]s@Bk@n@e@|@qBrFg@|@UT[D[IWUc@_AMc@Ii@Ck@NoSGoBQmBw@kEw@cCgAaBoAw@w@CWNk@n@g@x@_@`AWjAC|BW|B_@bAWVYDWUw@_Bm@wCEsAXuCCc@QWSGgB]SBWzC[fG@ZNl@bAnARf@XbAHlAMhBWfAg@l@{@X_@?}@U}BoAEQ?SLqAAUIOgHoDMAIJs@lES^M@kVuOk@QoL}A]L_@j@s@fBGd@Bh@h@vCX`D@l@ArEEp@YdCIhC@j@`AvCXxANrAFrBGfBoAhSaAhMqA~Hi@hE}AfOa@lFOfDIjDEtLKnHH~Bh@dGHdDGfPHnHIdMAjPTjHf@~GXbCxAtI|@fEp@zBpA`DfCpExDrC~C|A\\\\Nj@?r@YnBuBxRYnBAZL^Z^d@@z@UfEoBvBy@rCo@`C[`COnF?lMTfFqAdFQlJqAtAELGHODSJyA|AgXCWMIuB]KKCWv@iNDa@TMl@HPIn@}JTk@hAeA`@u@VcA?iAIk@a@k@iFoCGOBe@b@cD@UGQaEq@oAP]AKOCg@`@aBMa@SSsBCk@H{EfC{Ah@aC?[QIi@OwCDu@L_At@yCfBmFVm@fAqB",
+"average_heartrate": 157.7,
+"average_speed": 7.829,
+"source": "strava",
+"streak": 1
 }
 ]
