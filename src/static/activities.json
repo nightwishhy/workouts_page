@@ -8818,5 +8818,20 @@
 "average_speed": 7.372,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10471823499,
+"name": "Zwift - The Big Ring in Watopia",
+"distance": 49111.1,
+"moving_time": "1:42:47",
+"type": "VirtualRide",
+"start_date": "2024-01-01 06:16:54+00:00",
+"start_date_local": "2024-01-01 14:16:54",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "jr`fA_dez^?wEaEuFtBuBKsCvIuTb@_Fw@uB{GiCwAeFpI_TfCw@|El@hC}D|GwAZoE}CgFvCyBzJnLpB{@|A}EbDnANdFdDxCcE`EsAd`@zFxIhFj@hMaDtA^dB`TS`C}BfC`@~IzBzBnCGrHnBjAlA~AbE~@YlF{L~CtAb@tCzEPdChDlAHbDsARuGtFeFrE^nE`C~F[pF`FlEoH|Ec@|D}CjCPlEkAhHjDfDDpBiBbA}JxAiCtFgBfEhCzAA`C}HnHeHjIOfCiDvErA`C_FdAP?fBlCnAvDc@`EsCnFjArCyDhC`@pCaBxATD|CnA^nImGjEvFzGhCgDfFbAxH~It@f@`DvDRzAzBxDkBlEfAfA|EhEjAnIjVxA?h@uAsA}CLwAqBgAAkAbDuBvC\\uAnHExCfMxOTrHv@~AnKVpHxBxH_AhDlEzExCt@bEg@lFlAhAf@jCoBtBeDd@RxOvDt@ZbK|G@VcEj@YhHtG@bBcIxC|HnDE|Ji@pAeFPwFvCw@lFgBbCYvGeD~IkG~A`@nFqAnFvGhBr@zAkChHWrDyEnEeH|@wE}GiExEiIpAJbBrGfAxAfBZhIhAzAiApMBxFvAj@dDeBz@fCbBxA`BAZvAiKzB^jD{C|LoEfB}M~QiBlImDfBeBdEyAp@wJJqDmEqIn@uDiBkEY}BbA{G?yIpGiNLwB`C{FfAsBzCOhFnF~EsAvE}Ax@wEgAYsBiBu@aCnBwCTgBa@mBqD_Fr@}AmEuAi@iJfAmF{@cGyD}AcEyCaCm@_HmDwB@kAxAaAo@_CpCU_@sBsCmDdBsB`Gn@x@sFcDyEj@sFa@iCeHgHb@eAtCKVyAeDaAiC`@g@aD_FB{GgBgT`FyO}AyFsHcH_D}DoGQcEtAwDv@}LuYuHm@cBl@{Gg@cAeBjAcAjGs@Lg@mFcA}@y^gGgMXuEmMeBiBeCj@k@tCtHfQ{LzBqA`BpAr@|Ly@mNfBWp@hOx@f@xDdCdEU`AcCfBbAjC~B|@}Cf@n@zBcDk@aCd@wGfGqB`Mj@tN[jFcGnMiChCkAvEeFhCyGCZy@nC]?w@sAUkFbBeEaDHuCfB}@FeE{@yDiETcAhBuATqCoGvFmLwGaV|AyAhE|Bb@cAyEuKiR}IyCyIv@iDfIyGkDqE`C_BkAkL\\{FwBwC_@sCtE_Nf@oH_AqIiB}BiBmGfDoMZaFuAmCoDaAw@qAiBmHt@sGuBkFt@eA`DA`@gFfBg@pE`Bf@zCxBn@_AbDb@fA|IObBuAj@cBiAgEtCmCT}C_CgHwF}EjAwG",
+"average_heartrate": 150.6,
+"average_speed": 7.964,
+"source": "strava",
+"streak": 2
 }
 ]
