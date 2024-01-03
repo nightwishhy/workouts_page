@@ -8833,5 +8833,20 @@
 "average_speed": 7.964,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10479408396,
+"name": "Zwift - Douce France in France",
+"distance": 24562.5,
+"moving_time": "0:45:28",
+"type": "VirtualRide",
+"start_date": "2024-01-02 13:30:22+00:00",
+"start_date_local": "2024-01-02 21:30:22",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "xotcCg`hu^tEnOWl@kGlGk@rK_@Fw@c@SLUdBgAj@?fCUBeDgBsAnBc@w@SCq@bAsA@u@pDS@m@{@Q@Sv@[H_@q@YEy@lAYD@eA{A_@c@_CUMeBx@_CcEw@Fg@l@gBx@MONgBu@[aABQMT{AKSeBMGU\\o@Cc@YSoAZ]KE]p@]Hk@_@i@}Am@Ce@XSxBNRi@E_BZQnAJd@}BQe@kCc@D_@l@c@Fi@_BkBPgBQoBwCkC{A_@qFQ}A^kBnAqBfCoDhIAlAt@bHm@vCwArB}ClAyEd@iASoDgB_BoAoC{DCwAZyCr@cC~@mAdGeEp@}@|@sB`@mCGu@g@oA_E{DWuAJaAp@yBn@e@`GLhCk@dAiBR}AEcAc@qBkA_CmBoAeDAuFfCwBEy@o@iAgBiAiDUyCb@aDrCgCxCmAnB}CLyCy@kDEiBu@m@cBkEi@a@s@FmAn@iB`CuIpAcAm@m@qB?s@f@s@Ds@c@{@_@Gw@\\s@nBiCnA{F~AaBKq@l@yDhMbAzBHv@M`@eAt@w@dFkBnAOp@LtAzBdG?n@Yv@oA^mDmAkA?q@`AE`EY~@_AT_CgAw@B]^YhCw@n@cBk@wBqBs@?iJbOJ~@|DpBj@t@Bl@}@nC`@r@|At@Rf@Qj@gBfAKd@Rf@fCfALl@W`AkAv@iJCaC|@cBjBsDlAU\\IhAwB`@e@^EzEeAr@aDz@aAtAGlAZtAf@r@xEnCHl@MdCp@pAlPvClD|C~Cv@tIlAfI^pA~@jBzBL`AOrBd@r@tSJVj@?tB{FnG?hC[fCa@pBo@nA{@l@@dCnAXhNClAP`D|HnB~@r@xAG`DgBlF?~@Rt@zChBvAGvDgAdD\\dBpA|@dCrBnBz@`BzDjD`BNpCeAxEc@fBPpCi@jDwA`H}A|HcF`A?zCdAjB@n@Ut@iAtAYzCn@pHbExJD`Bg@x@?tNxBlGpB~@z@ZvBfCL^j@ClBqAz@Yl@J`AnDbB|BVz@bBf@Zl@ItAkAnAGlAyArA?zAl@n@En@k@p@}ABu@o@qCvBmBEiBq@wAu@e@o@@qDlAm@Gk@k@GsAR}ApCsDKaCbD{@PeC[k@iDcCeJmM_@oAQyBi@_BgDyBcDoEmFyEs@_BL{MVq@~BqBtAqDb@cC?eGSmDu@}CcGiK[sA",
+"average_heartrate": 150.1,
+"average_speed": 9.004,
+"source": "strava",
+"streak": 3
 }
 ]
