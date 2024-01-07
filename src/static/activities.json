@@ -8863,5 +8863,20 @@
 "average_speed": 7.212,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10505444810,
+"name": "Zwift - Richmond 2015 Worlds Reverse in Richmond",
+"distance": 17361.0,
+"moving_time": "0:36:14",
+"type": "VirtualRide",
+"start_date": "2024-01-06 14:04:29+00:00",
+"start_date_local": "2024-01-06 22:04:29",
+"location_country": "923, East Broad Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "g~bdFhmrwMb@}@d@w@JMN?NFtAhATJzARdA^vAx@n@RVLh@j@TNXNXFZCTSPWpB_EvAaC~@cBrAmCpCuE\\w@p@kAf@kADM@QAOEMQUw@m@uIeIy@cACOD]Re@z@}AdBkDvFoKv@gB^q@FEFAv@n@hI|Ip@j@VZ\\P\\EXYPYrCgGDWAYKQMOoB_BIQ@Sx@eBxGaMb@_AXcAJKP@d@b@nAzAFPBPGNKHMDO?MGU[[UOEODMNSj@OLg@RIVBZNPV?l@MXDTLEXUPG`@LXZDvEu@rAUZKZC\\?rCN\\?v@MXIhAg@j@a@RQdDyDl@m@PKjGmCvA_@PCNF@RKPMLa@TwAj@eAZgD~@]Vy@v@gCvCw@h@sCvBgJzGe@d@o@v@yBdDoAzBcBnCgAjBw@jAu@tAOh@Kn@IRmBtD}BfEcDnFs@fAQ^y@tBw@|AOv@Gd@@f@JnA?TEh@Mb@iA`CKJMCMGwEeFq@k@WIK@QRiD|FoCnF{@rAeAtB_A~AgBrDoEnIkExIeE`IeCjFo@bBYb@KJKBM?YGUO_BmAkAoA}AuAuB{Be@c@MCO?OHKJS\\gBlDaSv`@a@|@Ib@@PDNR\\fGbEx@t@XNfAF|A?LBHJGxG?tNCrD?fHApECb@UbAmFrSUtBGLIFM@YGa@QcCwA_CiAiIoDgB}@o@i@y@}@e@_@]K]E]HWT[j@wC~FOj@A^?^G^GJUNe@JKFSVmF`KoN~XiAbCQXM@IMBQXk@dE}H`JuQrFsKNm@@aABQFMHILGd@OJGRWzCeGVo@Rs@HMl@QJI^m@hCgFdAkBpBmEpAgCh@{@dHqNvFwKHUBWEWKQOOkD{BcBkAU]CQBe@d@gAbP}[~CiGvDiHbMyV`GcLjB}DzBiEHKLCPB^TdAz@RFbALzAd@tAz@l@PVLf@j@VLp@XXCTUpB}DhBwCpCkFh@}@",
+"average_heartrate": 138.3,
+"average_speed": 7.986,
+"source": "strava",
+"streak": 2
 }
 ]
