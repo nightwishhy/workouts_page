@@ -8878,5 +8878,20 @@
 "average_speed": 7.986,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10517771330,
+"name": "Zwift - Roule Ma Poule in France",
+"distance": 31420.9,
+"moving_time": "1:02:22",
+"type": "VirtualRide",
+"start_date": "2024-01-08 12:34:46+00:00",
+"start_date_local": "2024-01-08 20:34:46",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "pmtcCighu^gIo[?kAhAwD@yBg@}EuDyTeAsUy@a@wE~@wAMyKkLqF_LuGcGuBy@qJmB}DyAiBC_BjBdAxA@b@iDS_@^hHrDNl@e@XsJf@i@PCVx@h@tMdDUl@{KfGg@r@Hj@d@VxO|B_@f@mF`BYd@tCfEj@zBAfC_BxC}CxBaDf@aAWwGgF}Dh@{@Mk@i@c@iAOmCu@s@yA{Ds@q@uBj@cCpCqIhAw@g@q@sBCc@r@mBUs@m@Yq@Tw@rBoCrAmF|AwAMq@TuBlFuAfF?b@fAzBAp@sAtAy@`F_B`AUn@PbBtBpFDt@Wx@qAd@sDmAqADi@x@EhEYx@eATyBgAw@B]^[lC{@j@uAe@}ByBs@CgJ~NGp@P\\`FtCDfAy@hCd@p@zAr@Nh@Sf@gBfAIf@b@p@~BdAIrA}@~@g@HyIGeC`AaBnB_D|@a@b@SrAqBZe@b@G`F{FzBi@bAEnAp@rBjF`DA`Ex@fA~OnCxCpCzAh@`ItApLp@vDlDVnAOtBXn@fTTPl@CxBqFrFc@hHaAdDeA~@?hCn@TxMGvBRdD`IzBnAh@nAK`DcB`FNxB`DjB`AA|DkAhDTjBnAhAzCbBvA`AhBhEpDjBBjBy@~Eg@bBRrB]lEcBtHeBtH}Er@AnFlAdAQtA}AhAMxBb@fInE`KDvCg@dO~BrFfBdA|@TpBvCVTZBpBgB|ABtAbCpAnDl@tA|B~@OjAiApAClAyArA?|Bl@r@i@t@}AFw@o@_DtBcBEkBk@mAeAo@aEjAcA?e@e@KyAVcBlCmDQyBfD_ARmCgEoDaJiM[}@}@iFqDcCuCcEyFgFm@sALoNpCiCxA{Db@{B@cGU_Eq@oCeGmK]yAb@cA`EyENiAyC}L_R_q@?}AhA_ECiCqEqY}@iTW}AcAUoE|@eBa@_JiJ{FqLeGaGeCmAaJiBiFgBiB?{A`BHh@`Az@Eb@gDY]^fHlDNNEp@kKr@s@b@^^lNpDSp@_LjGc@t@Lf@d@TnN`Bf@`@c@d@cGxBtCpEj@tBE|CwAfCaD|BiDh@yAk@{FuEmDf@mAKk@g@i@{AKeCu@m@gBsEk@Y{Bv@{AzBgHtAmAAo@o@q@{Bn@cB?s@[g@m@Oi@Tk@lBmCpAyFdBiBMo@f@{D`M`AvCFn@wA`Bs@xEgBlASl@TjB|AtD",
+"average_heartrate": 148.3,
+"average_speed": 8.397,
+"source": "strava",
+"streak": 1
 }
 ]
