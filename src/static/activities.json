@@ -8893,5 +8893,20 @@
 "average_speed": 8.397,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10524182215,
+"name": "Zwift - Rolling Highlands in Scotland",
+"distance": 32690.1,
+"moving_time": "1:02:11",
+"type": "VirtualRide",
+"start_date": "2024-01-09 12:21:42+00:00",
+"start_date_local": "2024-01-09 20:21:42",
+"location_country": "Portcullis Buttress, North Ayrshire, Alba / Scotland, United Kingdom",
+"summary_polyline": "uirrIbm~^XvBb@TpAyA~FOvAoBLgDnA}C|BkBnDKh@mBOmLq@sCsJy@y@wAAoBz@aE~CaA\\qDxBDl@aD_@{HgC_IeDaGOkIa@{@sOsAcKmBkAoAmA`CaB~@mA`EiCkEeCd@o@zAiAbKqFdF{DxMkAI_DaGsI|EkBuB{CfAgCqCeIzIaC}Em@qEsAy@gAjCfAnD[zCeGdB{DlFl@`D|D|A|EgAnEl@l@bAZvFzBrC~BcGUoCd@oCw@oFt@kCkAcHfByCfAJhB`C|CiA|ApBbJ}EnC|FdARbEkNbFgEtBcNrC{@hCnEjAaE~Aw@lAcCxApA~KpBbOvAf@`KdDbGlCpIZ~Hm@bDkB[w@nEsCr@aAnG~@bB|JdAt@xFI|K_IlCwAvCYjE{BbCaFEsAtAoAeDkDqA}I@_BfFeJvJyGjKqBi@}D{IwF\\_BiBqAaJwDsIgAsFpA{Mz@}@dAd@RxBy@~AoDuCuCpAeBkFsChDcB{AAiBlBoFSyCd@}Bw@kFv@oDiA}DeDjBu@EmB}Ee@yDcBaA}@lCfA|CYfDqFxAaEjEP|DbEjBnFaAjEr@h@dAb@bGnB~B|BmFQeDd@gCw@cFv@kDmA}FjBsDt@?~BnCrCiAvApBfJ_FrC~FbAPbEeNbFiEzBkNnCu@rCjEv@mDjBmAjA_CxAnAxKrBpNdAp@tAPdI~CxFpCrIXpIm@tCuBSi@bEoCf@eAbHz@zAxJjAx@dFInL{HbC_BlDW`E_C|BqEKgBvAgAiD}CgAeJC_BdF{JtKuFlJmCo@cDcIaGPaB_BmAyI}D_JgAoFBgDlA}Hp@{@dAV\\tBaAlBaDqCwCpAqBmFcCdDkBsAAqBjB}ESaDd@cCu@uFv@sCeAkEu@[cDbCsB{Em@oE_Bq@y@bCdAhDU~CgGlBkDrDQ~A`@fBxDdBxF}@dEn@r@`BLdEtBhDhCgGU}Bf@}Cu@kFt@mCmAgHjB}Ct@@`CnCjCkA|ArB`JcFzCbGx@Rt@{@|CwL~EgEpB{MtC}@rChE~@}DfB_AnA{BvArAvJhBfPbBl@zK~CfFnCxIVpIy@pCmBQi@|DqCn@_A|G~@xAvJbAt@|EExLoHvBeBlDi@dFoBjBsEI_BxAmAeDeDmAmJ?qAvEkJ`KiGfKiCm@kDiI}FVaBaBkAwIoEeKw@kErAcNr@y@dA\\XnBaAfBcDqCsCtAmBoFuCjDaB}AAgBlBgFSqCf@mCy@{Fv@aDmAaEsCbB}@FoBqEi@gEcBaA}@lCjApDa@|C}F|A}DnFf@zC~D~ApI_A",
+"average_heartrate": 146.4,
+"average_speed": 8.762,
+"source": "strava",
+"streak": 2
 }
 ]
