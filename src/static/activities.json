@@ -8908,5 +8908,20 @@
 "average_speed": 8.762,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10543590946,
+"name": "Zwift - Eastern Eight in Watopia",
+"distance": 32802.0,
+"moving_time": "1:05:57",
+"type": "VirtualRide",
+"start_date": "2024-01-12 12:32:31+00:00",
+"start_date_local": "2024-01-12 20:32:31",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "br`fAicez^ZkBKqBgE_GvB{BEgDpIgT`@{Eq@qBeHsCiAyBEoBpIwSbCo@`Fh@hC}D|CIxBiAd@gBC_BaDmFr@oAdBk@lAl@`H|Jt@?bAy@vAyEvB\\|@hA@`E~C`CIjAmCjAe@fAAjKuAtRb@zA`DnD`@hBjGr@fM_DdBbAjApRO~BoBlBQz@NpFn@vChBbAzBMtGtAhBvAl@dDpAn@x@k@nDkKfBShBvAb@jCbEH`Aj@lAlCR`DS|A{@|@qK|Fw@zDcBj@{AhBGjAf@`BtB~AIvBgE~CmAyAsBEMh@n@x@[rCuFZu@jC}At@mAhCu@IOg@jA}Ba@gBrAoAa@mAkCmAyAZs@p@NlCg@b@_Ay@}@wChAwDo@uDFeB|EDhAaBQoAkB{B_FpBaACXqG_@g@oBQgAVwBjCuBp@uCTuEeAqBrCmCX{DdCVb@|BPhDpA~CuApCf@Fn@_Aj@cFdAoEc@y@x@d@b@dCJhArA|BSbC`@vBg@pBjAhC|FmBlDuApD}GfAkAaBiB_AyAuDcCh@iAgDm@_@m@^WvAmA]uAj@uAw@w@V?l@hCvCe@l@cDkAe@eARmA_@]wCi@gEh@Ex@`@ThDUUh@gDhAKh@lDpAVrA]hC~Br@j@x@Gj@qBbBiBd@c@tCi@J{@}A^gBUoB{@s@qAIkA\\eAlCJdAt@l@ErAz@hA}A~Aq@|CsA{BhAwCcAGgBxAAyBg@m@qBbAgAlB_D@uD]kAhCJbEfAxADhAlBbCz@tHg@lIaD`Hk@lCJvCtAbCvAVlCiCfE}AbUiDrAsAjCcGlEkBzEp@dFnGnBlAdD?tHmAlIiCmB}GBk@l@c@`u@cSWoCR{G}EsFoBuHl@sIxDiAnBkBc@u@kBCDi@rB_@b@cCy@qAUcCoBqAc@iC~@}AbCiA`AaEzLgH`@uBUcDsBsDkFY_@sCiCwAcBr@_DlJ_Ar@iAaA]mCuAoA{G_ByCDaBgAu@uJ\\eAxAkAXgC[eKy@qGoBy@qLzCqFc@{@mBeEmFrAuS?}J^cAnCgARgA]aAgCwAEoEmB}A_BDiAbEwAfA}A_AwF{IkAQyAh@y@fB~CbFBvAg@jBmB~@cDLyAvC}@h@yDq@}Cr@oAfEyFrLMxB`AhCbItDd@pBg@nEoI`TLvC}B`CNv@rDhE@|Dw@lA_ExAyAtFVpA`GlFvAdEJfCe@|AcClB@vAfAdCaBhCwIx@_Ay@XsA",
+"average_heartrate": 143.8,
+"average_speed": 8.29,
+"source": "strava",
+"streak": 1
 }
 ]
