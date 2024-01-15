@@ -8923,5 +8923,20 @@
 "average_speed": 8.29,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10554908271,
+"name": "Zwift - Greatest London Loop in London",
+"distance": 30316.2,
+"moving_time": "1:06:33",
+"type": "VirtualRide",
+"start_date": "2024-01-14 08:37:42+00:00",
+"start_date_local": "2024-01-14 16:37:42",
+"location_country": "Tower Hill, Tower Liberty, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4AA, United Kingdom",
+"summary_polyline": "ymkyHxrN|@hC\\tBLdBAnCmCfa@iBhLkBlQo@tIQfFUrXt@|JDdCE`QA`g@RlHj@pIdAfHhBfJzArEpD|GvDpC~C~A\\\\Nl@EhAeDvX@l@\\v@H~@e@dCs@`OJ`A~@~D`Lfb@Mn@eNhMGp@dCfHhLnYxAhD`BtCrChIp@|ETzLl@jF~@dLj@|Mt@vF~@jEb@dAnAdBlDjErCzFh@L\\Q^w@|@cEt@yGAyALu@xAw@Ze@KuDLw@tTiE`Fo@^g@AeCd@_@h@PZhBXNvIiBzGsLnQm]b@iC?uNViIl@aJ`BuPHeEScEuEkc@i@uCu@iBuAsAkDiBaCyBsAaCsCcIyAqBqI_H{As@yBYkJDGm@fBwZSg@uB_@KQv@gOPWbA@r@{JXs@`BkB^gBGuAUi@_GmDj@uEp@U~Iv@dKLdAh@tAtC~@t@dCWbCqAb@w@XkANmBCaCu@cJiCwP@sAZcAf@q@ZK\\R`@|AjBpMT`@\\Ld@STk@BkAcBwSBwE`@kFt@}Cx@kAtBw@hCIdA\\t@rA|@xEV~CMlC_@z@gBjC_@hBD`LZhJJP^A`BiAnAj@l@vA|@rEh@hB~@rB~@bAhDdAbFdCvKpCz@p@xAlBz@VT_AHyBJqRPg@^]jEaBz@o@xA_Fj@}Dn@sKR}FBgFYiLp@gKQgJVcD]mCiAeEq@y@_CsAg@}@MeD@iD^yJPkAAeAiAmJuAyS_AcH}@}D[{BEgEFuFQkEg@eGsAuIgIi_@yF}e@g@cCm@cA}ACsBlAs@t@qB`EcAP_Bw@yI{H_Aa@a@Du@dAeA|BMp@Ev@N|EKhBo@nCiAjBy@f@yAVuDM_DmB}AsAiAaB_AGm@d@k@hAg@zCu@tHk@bBm@h@u@Bw@_@{HsIq@UYHi@x@m@nB{@nECxAXdK?hCY|Bo@bBq@h@}BCoAvA_A`CMpDUlB_@~@m@^UOu@wAw@uD?mAVoCE_@c@]aB]SCMTm@xLPj@rAnBZtAFbA]vCSd@i@b@uAHkD}AGg@NmAIe@sHwDSLq@fEO\\WBuVyOmLgBk@Ba@\\u@`BWjAl@jEZjEEbFYdCKtDFp@bAvCXhBJlEuChc@wApIiBpPu@lJYdHU~WHvBj@vGD~B@hXGdb@RjGdApLfCjNbAhDpA~CbChExDrClCrAv@~@BhAiDvYBh@b@fA@f@e@dCs@hOXjBdKf`@",
+"average_heartrate": 143.8,
+"average_speed": 7.592,
+"source": "strava",
+"streak": 1
 }
 ]
