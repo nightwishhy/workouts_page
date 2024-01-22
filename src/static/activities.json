@@ -8983,5 +8983,20 @@
 "average_speed": 8.675,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10598551814,
+"name": "Zwift - Serpentine 8 in Watopia",
+"distance": 26313.1,
+"moving_time": "1:02:10",
+"type": "VirtualRide",
+"start_date": "2024-01-21 04:37:03+00:00",
+"start_date_local": "2024-01-21 12:37:03",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "poffA{||y^fQuEfHfBnFBD`C^\\`Cc@|Cx@_@jA{CPUrA|DpC|A`Ch@|Bi@jGpB`Bn@vBi@dBNvAk@n@{E}@wBhBHtA|BlBb@tB}AMu@b@n@dCoAp@KhA^`ApCjA\\|FtDrDhAfD|DdBx@rAhBFd@cDqCkG`@y@lA\\J~BfArBxBhAlBe@Gi@_Bc@a@w@rAwGi@uA@}AkAm@h@kASy@f@kBr@HRpFpBjEk@hBl@`At@MfAqBhHlDzCgAxB?|@oAMmBv@oAk@{C`Ag@hCRpB|Bx@Sz@}AxCpBnDy@lFlBZz@g@`DwBfAuDd@{B`D[xBNxBdDjBfArBqAbEeBfAwEkAYsBaAg@uAAeBjB}CLuAi@{@eCu@c@sEr@}@}@a@oCwAi@iGT}At@aGgAqAiByCaAiBqEkCqBo@sCAmC_DyASiA|AaBk@gCh@WdBFc@{BiBsAc@}AbBkBrDdAlBaAOqAd@qCm@}AmByAPgB|@m@`DbBdA@z@uAI{AbAs@hC\\bBtAVdC`Bp@nRpGvDQlCb@b@tApAb@d@nCiA|AyBS_@h@?zAqAj@kFFyDkBuCi@u@Vc@bAr@hDYfDtCjCiBpH{@Pa@c@l@qBqBqE[}FgAHKpCi@~@nArAElAh@pAqAfHzBpAFn@gBNsBiAaAwEe@o@w@Ik@r@pClGQ~Cf@p@hBf@hBy@rFWvAb@d@nCz@`AfFk@fBlDzBd@tCWvAiBhAFx@`@RpB~EvAnBiArAuEmAuBcDqBFqE|BkDzDe@tBiAj@gD]aAcFkB{Dt@aDqBkBpBcCgCkCKaAv@l@fCy@dBLdB_AlAgBKyClAiFaCoA_Bt@eDqC_CXsCs@gDL{@~@i@xDx@dCzAfHMp@e@HyB|@UhAb@|@s@R{@Y{BcB{@iAkBuGD_UuHc@a@OsBmB{AoCW}@d@?pBw@jAoEaBuAp@KxBlBvAh@`Bg@|BEpBgAV}DaAkBxBb@zApBxA\\pBiC@d@nCqAx@?dBbDdBj@vGtCbCpBtEtCbA|AjBzABb@yDoCsF~@aAt@j@JdC~@`BzBjAfBUGy@yBoApAwGi@aEkAi@XcCn@mBh@TV|FjBtDm@jBj@|@`AM`AkB`HjDrDkAfBDbAuAQ_B|@iBm@wCtBc@rAVzAvBdAAnAeB`ChBvDu@dG`C@|Bc@jAsBfAuDb@",
+"average_heartrate": 77.5,
+"average_speed": 7.054,
+"source": "strava",
+"streak": 4
 }
 ]
