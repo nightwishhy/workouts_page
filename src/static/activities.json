@@ -9013,5 +9013,20 @@
 "average_speed": 9.587,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10632717191,
+"name": "Zwift - 2015 Worlds Course in Richmond",
+"distance": 18200.2,
+"moving_time": "0:36:39",
+"type": "VirtualRide",
+"start_date": "2024-01-26 12:12:22+00:00",
+"start_date_local": "2024-01-26 20:12:22",
+"location_country": "300, North 10th Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "{icdFv_swM{@~AsLxUiKjSkN~Xs@|AGPCb@@PNb@XXv@h@jC`BnA|@HL@NARkLdUsDbHaAlB_ChFyBbE{AxCILIDe@LKFIJ[fAMZcDlGIJ_A`@UVGb@Av@CNc@nAUZeC|EgKvSi@hAiAxB{BvDGPERBRHLNBNEJK|B}EpKySnBcErD}GVY\\ENGVWLe@?{@Lg@tCcG`@q@LMNGP?`@HNFZTtAzAh@^zAr@\\Nn@XdCdAvEvBv@^fBfAv@XR?NKJQFSRaBLm@zEeRTeABYBgA@sC?uFD{IAqLDyEA[OQk@E{@?kAI_@Wm@i@iGeEKMIQ?SLe@d@aAhVgf@XWNALHd@`@hBpBbD~CjBxA\\PPFN?PENIJMTc@~@}B|B{E~BqEhHsNfHgN~AyCzAiC~CeGfCoERQVHz@v@fErEPLRBPMdAsBRi@DWDm@MuBFm@Ji@Pg@h@iAz@sBTc@fEaH`ByCxC_GZwAv@yAlAoBrFkJrB{Cj@s@n@k@jFuD|EqDhAw@t@u@hBuBfAeAPGrCu@tBq@|@_@f@a@FOBQCSMKMA]B{@P{Aj@gEjB_@Xk@l@eDvDy@n@}@^m@P]Dy@CeCMu@@m@Ra@JwFz@Q?CEAM@K^_@BE?WGOWQ]CM?g@LK@CAEIAUNI\\KJKNWNg@HE\\PZ`@HFVFJAJCJGFKFM?]CMOY{AgBYSMAMBIHILUx@a@`A_A`BoG|LG`@L^TVr@f@n@j@L`@M`@m@xAo@jAi@lAOXQTUHUGmAkA_HsHoAoA_@UWHIHqApCuKtS[v@C^F\\PVb@f@pEhElE|DDTEVi@jAy@|Ai@jAqB`DuArCy@|AgCjEkA~Ba@f@Q@o@SUMg@k@OIcAa@}A{@aA[uAQm@a@u@m@SMSAQHa@l@wFbLiAtBaArBsA`CiA`CkEnIsEhJkDtGmD`HgInPuDjH]x@G^?PBPL^VTf@^hFhDFJFL?NOf@",
+"average_heartrate": 149.6,
+"average_speed": 8.277,
+"source": "strava",
+"streak": 1
 }
 ]
