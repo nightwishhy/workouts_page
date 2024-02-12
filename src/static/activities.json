@@ -9028,5 +9028,20 @@
 "average_speed": 8.277,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10738430120,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 3785.9,
+"moving_time": "0:15:55",
+"type": "Ride",
+"start_date": "2024-02-11 08:38:59+00:00",
+"start_date_local": "2024-02-11 16:38:59",
+"location_country": "Cove Drive, Sentosa Cove, Southern Islands, Singapore, Southwest, 098497, Singapore",
+"summary_polyline": "sirFwaxxR{@\\eA^aAHw@CM@WT[JIFUn@Mr@ARB`@Lf@LRb@ZdBdAvAxARXLZRhDQdAi@bCu@z@wAhAcA`AEFm@rB{@fTCN[bAY^cBtAu@rAIb@VhAMf@{@fAmBhCuC`DUTm@^MKSH{@l@O@mAk@_@_@kBeCiAkAMGQCcARONi@bAMRi@PWRoATc@AgA`AqAdBYRsAjAG@KG?CHEBB@AoA`Ck@IcDEgNGu@CeBTIB",
+"average_heartrate": null,
+"average_speed": 3.964,
+"source": "strava",
+"streak": 1
 }
 ]
