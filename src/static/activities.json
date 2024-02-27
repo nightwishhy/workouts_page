@@ -9043,5 +9043,20 @@
 "average_speed": 3.964,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10840589448,
+"name": "Zwift - Jungle Circuit in Watopia",
+"distance": 13972.1,
+"moving_time": "0:30:49",
+"type": "VirtualRide",
+"start_date": "2024-02-26 13:33:16+00:00",
+"start_date_local": "2024-02-26 21:33:16",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "dnefAqk}y^dDt@bA~@|AlCjAvAdAp@vBb@|Fh@jEEbDs@~HsCbCOpB^vAn@fARfAF`DE\\b@K|A^`@j@?nAg@vBb@b@RR`@Od@u@RqBBYXIv@^l@pAj@dAx@t@|@v@~AXt@DfAIjAc@`D^n@rAz@b@~@Jx@g@`BLvAYb@m@T[?{By@}@EaBjBC^Nl@Zd@`BhAFx@\\x@GPMB_A_@q@HQ`@@Rd@|@Hd@qAt@K|@Nt@ZZlBh@ZV@nCRrA`@fAlCtBj@fAb@~AT`@pC`A\\Xl@bA`@RnBPnBp@xAk@n@MxAB`Aa@v@@rAZXRVbAFdA|@`A`@FhAq@`@GvABh@b@h@lBT\\r@ZhAF`CQ^St@sAjAEhAl@@tA`@b@`C`Al@Hn@GzA{@`@aBn@wAB_@Oo@s@aAc@]iBq@[_@O_BRyBp@}AjAoAp@SrBKfA_@dAo@Zi@Hs@ByASk@_Ci@_CkA_@@gCv@]MsAsAa@Ok@Le@pAk@Pi@Yg@_Ak@k@gAOuAD_@NUj@?Th@`AJh@}@~APrAWv@q@j@eBKsBdAg@Fo@[cA_AcB]kA_AQs@n@gBDm@QUoAg@c@i@M]XaDu@gDLe@b@a@d@InAd@tAFtCbBh@Ax@Y`CXbAMf@[Fa@EiAd@g@f@Cl@\\X@p@_@Xe@Da@_@mCMOoA]c@uA{@[cAMkD^mTkHo@WUUAuAK_@{@_@g@s@cAYiAGu@R[f@HhAIf@_@j@i@P{@UuBsAi@?YLW^S~@Af@P^`BdAd@bAH~@g@dBLjAOZ_@Vk@FsC_Ai@AaB`BI\\Jj@n@~@jAt@LT?b@\\~@CL[Fy@]O@g@\\?`@n@|A{AhACf@Lx@z@p@fBj@Ff@CfB\\xBp@|@rAx@h@n@h@dA`@`Bl@f@rBl@^Tl@fA`@VlBLvBp@j@OpAi@`BB|@a@dBLl@TVVR|@F`Ah@v@\\P^AbAq@`AK`AL`@h@`@xA^j@p@VvAFjBQ^QbA}Av@?jAf@J\\Ep@H\\`Ah@dCt@vA[x@o@\\yAl@oADm@",
+"average_heartrate": 150.9,
+"average_speed": 7.557,
+"source": "strava",
+"streak": 1
 }
 ]
