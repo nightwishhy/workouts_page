@@ -9088,5 +9088,20 @@
 "average_speed": 8.042,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10895705846,
+"name": "Zwift - Legends and Lava in Watopia",
+"distance": 30214.2,
+"moving_time": "1:01:54",
+"type": "VirtualRide",
+"start_date": "2024-03-05 13:34:11+00:00",
+"start_date_local": "2024-03-05 21:34:11",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "tx_fAqvbz^x@xCuAvHZxAjBr@vA_@`B^fAkBlBgAXb@B~BfDyAgA~C|A~B`AeD|AoA_AkBHkAaAqA~@_DtB_@lAr@XbBa@nBtApBj@]f@sCzAY~BwB_@}AmC{@`@gCSmAsDwAlD_BXcAoDT]_@\\e@rC[bDf@^`@StAl@~@dDfAn@aAcCmCCk@~@I`An@pAi@tA^b@kB`@KfB~Dh@NxAy@`B|D`Bv@hAdBtGs@~@}@~BmEd@eBiCqGsBoAaCf@mCa@eBRiAiAmDq@l@k@`Ed@~FkAv@c@A}@}Cs@gDtAiHwB~DcCdC[|AcCj@KpDfAtBIvCw@dDeD|Ch@WvGpB?tDcB~@l@r@jBaAzBkAPwCQG`Bn@`EkAzDhAdDt@n@z@e@QcCh@w@xAa@lCtAVbAqA`A`@dBiAnBRhAn@Nv@e@`@cBjBeAh@aCfEAv@c@TuCm@gATYjAD|A`BjEuCrAp@e@dCeBVOd@V`@fBAHt@aBrA_EhAq@dIjBhIbFvFUjGR~C}i@bNqGjB}BvADjAzBvFxOcErAFb@|AOvPoDxMIzJa@jA{KXmEkMy@iAqB[cBtBNhCbHdOkBv@wIfAaAv@Gx@|@b@pKuA~@TiAh@cLbAWp@lAd@vIUhBp@\\jDfCvEUt@cC|@b@xBOt@_A?kCyCsAi@kDxGsCiEw@WqLjIw@k@uDgIgAk@oC?sAj@CrA`@tA~BpBoCbCyC{AwAeDmA?eArA?l@xA`A@fBvBpA}@|@BbA{E|@gCmByAYmBlAJpCfG~Q}ArD_CxCWnBrClGnAGjAwBfCk@rAn@d@tDKtD_Bb@[lBHv@dAdA~CdBjFkBhCj@dCu@fAw@fAuCjDgDXmCUyBsAsBgAyDuB_BaHaA}Hj@wClAuCfF`BxIxApBdBB~@gBfIcBpArBjD`@b@Ub@aBEiC}CsF_DoAqE?yB~@}BzCB~C|A|D`D`BxBLpBy@`B{CI{By@sBwA}@eBIeCbAi@nBFtA~BnC|Cg@v@uCk@wA{Cs@eBzA_@MpA_CdEAxAvAj@jCsAvDm@p@eC\\wCy@cBaBcAmDNwCvCwC~Ci@jDZtCbBtBdFUnDy@h@kC[eAmBi@MqH|AaAhBaCMy@{AaBoJnCeEvBeAvJw@vF~@rBtAhDlI@hEeEtEaAfCiCvAyGjAk@h@Z\\nGBlEeB`AuAl@cDrBgB|CcGCqBgCiCaAiDsBc@q@jA",
+"average_heartrate": 152.5,
+"average_speed": 8.135,
+"source": "strava",
+"streak": 2
 }
 ]
