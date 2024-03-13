@@ -9118,5 +9118,20 @@
 "average_speed": 9.145,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10943372368,
+"name": "Zwift - Lutscher in Innsbruck",
+"distance": 17944.0,
+"moving_time": "0:47:25",
+"type": "VirtualRide",
+"start_date": "2024-03-12 13:21:08+00:00",
+"start_date_local": "2024-03-12 21:21:08",
+"location_country": "Tiroler Kunst Pavillion, 8a, Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "qpo_HatpdAtJv@XALIFODe@E{@iA_M_@uCCs@FWLKlA_@~Be@f@DvAx@f@PZ?ZQPe@TuAx@sLDWJULMp@Y`@YjAoBvAyCd@kA|A_GXCxCn@Z?LEJMDQBk@?cAOwDS{B?YBYJSj@c@xE_BnAi@vFcDtAiA|CuDTa@VaALIpAIjEgCbAg@hF_BjJ{BRO\\k@RMN[Fc@Ey@g@uEEo@@_BXeE?kACq@QsBo@gE_@mBi@gBm@oDw@aGYqCkBaUQwCI_CAoBDkEJgBViBRu@fA{BVmABw@AwAQqF?SBQHIN?NNHRD`@FjANhAx@~Dj@hBXZZF\\KPUH[@u@[oE?wAF{@ReBd@qCl@qC|@iCT[LIh@IVM\\k@XaADe@EeDQcJImB[}Bq@qDm@yDEkADc@P}@p@oBp@aBn@sAPQTMj@G~@FfCf@dBf@nAj@`BrAr@`Ap@`B~@vDtA`HdA|Dr@lBj@|@`At@lFhBnBlAnB~AfAfA|AfCr@p@zAp@lC|@xD~AdCxAxIbHPTLZ?LInAAd@LVVBVIfCuAl@C`CdBb@R`@JtCVxMhEtCx@~@f@zBrBjAl@xAb@pHxAd@Dv@EhF_BvBMfCV~@XtB~@l@ZjAz@rBlBpAzAxAzBdA|BfAtCt@pCz@zDfAzD|@tBn@bAhAxAp@j@xA`AxAn@jA^vAX~Ft@rCf@lAXnAb@pAx@pB`BhAxAJRDXMp@a@z@W`@]PyEr@{F^_B`@_Br@mAx@cDtCyDrDyB`Ba@f@a@lAMRi@LiABu@Js@`@q@t@wAzBYZuBvA{@v@mAfB}FxKy@~@_@Xc@RiAXkANoBHqBCmCc@a@D]Zo@jA_CpFe@lA[rAQpAy@jHU~@MXURk@ZaAVwBDq@Nm@b@y@`Ai@d@eAf@kB^wABgEqAa@C_@LY\\_BtC_B`CsCfDmA`AeB`Ak@PUCmAo@[IaCDa@C{@o@eEs@]OU_@c@oAY_@_@OmBBc@OWk@Cy@BoBCw@Qs@Uk@qAiB{AsAgCsAaDcC}BgAoBqAy@_@y@Q_B?eBTcA\\]\\Uf@Oj@Sb@YZiAbAu@Vs@?gAe@aAw@g@u@O_@[iA_@yBmAsJg@iFUyAy@qDW_Bc@cF[_D?mAUeBy@iI?u@RyDFiBCkAIeASeBk@wDiAqEq@_E}@}Hy@uJ",
+"average_heartrate": 153.6,
+"average_speed": 6.307,
+"source": "strava",
+"streak": 1
 }
 ]
