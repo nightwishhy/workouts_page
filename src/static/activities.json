@@ -9148,5 +9148,20 @@
 "average_speed": 8.162,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10993203534,
+"name": "Zwift - Country to Coastal in Makuri Islands",
+"distance": 33510.1,
+"moving_time": "1:06:41",
+"type": "VirtualRide",
+"start_date": "2024-03-19 13:30:31+00:00",
+"start_date_local": "2024-03-19 21:30:31",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "nuu`Aglfs^iAgBuGgByCyEj@}AtDvAnB]p@kAw@oBeDZ}B_@uCbA}DBaHdDgDcCTiBUe@}DiCoATsBxBoBmAw@ZuBkAoGcAyEcCiCoD}EaAoEuGG{CbAgAWy@_Fk@}ErB}@tAiBUCuCqAsBfAkJIkBsEaC_BqBwGb@mFxDh@dDDpGtEdDm@vEr@|D`AfB[xBx@zAQxAz@fBrAhJEhJrCnJdEy@bJzSpCb@xBpBrD@vAzDnAlAnADxD{C`CUrA`@f@bALzChBhAT~@QdBmBlAe@xA?tB|@nAdH`C|HI|A`DlI`DxIk@dC_DdE}AdAp@R~C~@x@`AJfEyAv@Zh@`B`Bx@bEyAxIhFbC}@~A`@pBdBb@rBn@d@jKm@`JvAbKuAlEnEpEv@nAdAtCBVh@o@tBrBfAfDTPbEpAdAnALjCyAlAPnAhFvBpB\\lBQrCv@hDdAJf@aAaAoIXoFhDe@`EzC`ApD{@vCBnByBzCVrBzAOfCkGRqBf@UtBlBuApD`AtAzDTxDsArC|@dFy@nEt@n@hBwArEjDj@j@`CzF~BMnA_A~@ZfFqDjDBvBbAjAzB]tAl@pAlBWdC`FvAb@fAk@hBwBpAq@Kc@sCo@_@gAf@_Cg@yAhAm@dB~@hCdD|B_@v@wChADnBbAhA`BSrBt@~EeFxCb@jGwB~FbBb@jI}CfCO~BpGzE~CzMc@xGfCnACvBd@hA|Bh@zC[r@{A]oCcCyAiAjAz@rDa@pEh@x@|AJtCmA~Fs@rCsD|Ei@|@qDhA_BrJoJdGsCvAcFtB_@hCVpEjDx@]`@sAuAuAKeAxB_CfAGxCnDpAc@KaAkEsG{Dh@uC{EcFf@uAYAqEm@s@uBH_GlCqBy@e@yCiAyApAqC{AmCw@}HPyBsA}@KcDoB_Cp@aDoBj@iBgAmA{BXwCm@q@kA\\uAdFaA[tBsJdAuAQuFrA_Cm@qAeC^_AzAIbCqGzC{Cb@_Fg@cELaLhEuEl@qEbCiJFgCgAk@eCaDc@CaAtAeDcAcB}De@eFx@kCy@qDnAiEUaAcB|AsCeB_Co@VQpBeChGgBRa@w@@wA~BwCIiBz@mDy@iC{D{CgDb@UvFbA|Hs@nAiAM_AuDRsC]mB_C_Cw@kE_BUeCvAgB_@aAcAIwDaDO_CmAr@sBOg@{CCmAeAsE}@kEeE_HnA_DG}@{@oBeK_D}A{@yAV}GqC_ErBiCCoAaF_FwB{DkI_B_C_C_@oAPaB}@iDtAkD?eE}@_@qAp@",
+"average_heartrate": 151.2,
+"average_speed": 8.375,
+"source": "strava",
+"streak": 1
 }
 ]
