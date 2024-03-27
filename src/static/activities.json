@@ -9223,5 +9223,35 @@
 "average_speed": 8.477,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11041145629,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 11056.4,
+"moving_time": "0:35:34",
+"type": "Ride",
+"start_date": "2024-03-26 11:23:03+00:00",
+"start_date_local": "2024-03-26 19:23:03",
+"location_country": "DoubleTree by Hilton Hotel Shanghai - Pudong, \u84dd\u6751\u8def, \u9ad8\u6f6e, \u82b1\u6728\u8857\u9053, \u4e25\u6865, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200127, \u4e2d\u56fd",
+"summary_polyline": "klp}DoesdVim@n\\NnNhFdM}FzFaXdk@sZlb@IBgWrG{cArSi@Fc]nEig@t[y`@fh@yG|GkP`O{iAxl@KB",
+"average_heartrate": null,
+"average_speed": 5.181,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 11045658138,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 12797.2,
+"moving_time": "0:51:45",
+"type": "Ride",
+"start_date": "2024-03-26 23:50:26+00:00",
+"start_date_local": "2024-03-27 07:50:26",
+"location_country": "\u5e7f\u7ca4\u8def, \u51c9\u57ce\u65b0\u6751\u8857\u9053, \u8679\u53e3\u533a, \u4e0a\u6d77\u5e02, 200072, \u4e2d\u56fd",
+"summary_polyline": "wh}}DmxidVvGh@tBJCBVJvADdB@n@GnBk@|C_@j@EpBYX?nHm@n@CpH^t@AZF^VHBR@RIfAcAp@a@tAgAt@w@pBqA\\Yd@YPGjAu@TINOB?@DZYb@g@ZOpAcAdAs@XOH@XMZGZU|@c@h@_@Xa@|AkAj@k@rCcDf@m@nC{ClAkAlBwBlCiCzAkBx@{@d@o@FMZ[TMR_@Jy@j@oA~@}A^i@rE{FbDiDLU|@oANWzBsC`AsDh@eCr@gCT_@~@iBVM~Bc@RKTEvB[b@A|BHPCH@jAWNWpDgAPCj@AtA]pDm@\\C^D|Bs@lAOXAf@Ev@SrAOd@QbDYvCSbDa@d@AJEt@IjAKxB]l@EpB?pDQjASTI`@?\\E`FqAzCu@r@UTABFAD~NmFdBi@d@ShBo@TETCvCm@bCq@|Cg@~Bi@jB{@VWLEfAW\\B@BNExAoAtAm@bCi@TIrB]|AGVHFCHMf@IDOEu@DmDBm@D}BPiEN{@p@yAz@u@`CmA`@c@fB_DPQlAa@jAYtAYv@KHENEXM\\]NELSHw@CiCCUYqAQa@MiB|BeMvKmLACAB@EACiDw`@rIeEdAq@rBSpHwC|As@bCo@^Q~Bc@h@Q\\GzAa@PM?O]{BWaC_BoHCOIUSyAIwA{@{Ea@gBKk@Ek@}BeP?Uk@iCE_@@Uz@i@lCk@\\Cj@MP@jBCN?THZAlBL|D@fAFNLdFLjFF^J~@m@JiDEuABgB?eDF_C@}BNsE?k@BqDLgBAaB",
+"average_heartrate": null,
+"average_speed": 4.121,
+"source": "strava",
+"streak": 3
 }
 ]
