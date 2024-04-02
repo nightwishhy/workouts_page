@@ -9298,5 +9298,35 @@
 "average_speed": 4.873,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11082546333,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 12090.6,
+"moving_time": "0:42:40",
+"type": "Ride",
+"start_date": "2024-04-01 10:28:52+00:00",
+"start_date_local": "2024-04-01 18:28:52",
+"location_country": "DoubleTree by Hilton Hotel Shanghai - Pudong, \u84dd\u6751\u8def, \u9ad8\u6f6e, \u82b1\u6728\u8857\u9053, \u4e25\u6865, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200127, \u4e2d\u56fd",
+"summary_polyline": "wlo}DisvdVCjBBl@Gh@@f@Cr@@r@O~GAnEEbDQlH?dEQrBKHkBIk@KcHW[KmZfI|@tGd@jCCVKFzBlNe@LuCh@kDz@oCb@iJfBWACAiKfEmJlEM^h@pBbBdFxAbCRt@~@zE\\dA\\n@NL@PPTb@\\N?q@vKjChI",
+"average_heartrate": null,
+"average_speed": 4.723,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11083766329,
+"name": "Zwift - Castle to Castle in Makuri Islands",
+"distance": 25054.0,
+"moving_time": "0:51:44",
+"type": "VirtualRide",
+"start_date": "2024-04-01 13:06:11+00:00",
+"start_date_local": "2024-04-01 21:06:11",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "`ux`A}uds^@h@|@hABjAk@t@_Bf@mCfF{BtAiE|@_AtAu@zCyAjBaEfAgDFqAeAIqAaAqB[sDsDmBm@gAMeBd@yDqCaET_AvAeAHo@U{@cE{DaCiEcAg@kG}@wCcDIk@NaBm@aBMsAtA_DS_BTuAK[{@S_C|@_C]m@u@WqCc@gA}BaB{@Dm@h@b@bCqAn@g@K{@}A_CYwCoAq@w@{AqC@eAb@i@X?rCrArBUt@mAs@kBiDX{B_@oCbAwEHcCtAa@?eBcBpAeDyFaEsAx@iEmCsFfHgBy@kBg@_AREp@RZrB^vDvBvAEpB_Cp@[hADlAr@\\h@NrAM\\]@mD{BoAzA?dBhBxAdBeAjAx@pBHdCn@bBK~BiA|CHd@~@In@i@TqEVyA~@mAaA]t@g@DWw@u@UKq@m@UaAE_@f@]i@a@@Vv@xCLYZyA@K|ANj@nHn@r@b@Tr@M~@]\\mDn@q@lBeDb@q@l@Mh@D|@dAdAHd@iApDNn@|AnAd@`A`@tF_@rCoBjAe@t@?dC`A`C[lA}@fAKnALZfBz@j@rBdDx@nChBxC]hDFbBs@vAcCtD}AlAn@PzCnAhAz@D~DyA`A`@N`Ab@h@nAh@p@KvAiAv@CjFrCfBpArCy@z@NjCnBv@nCz@TrIu@tDt@|@I|Bn@jCGvDeA|AmBj@gCdAcBr@c@vDm@zAaAl@_AvA_D_AkBBeAXk@pB{@ZsB`AsBHiElAsA|BoA`HNvCzA~Dy@bNr@zC|Bl@EzD{IdDcBl@u@d@aIScAPcHp@oKzAcCjAYhCX|BnDxCzDpAbAdFb@r@Qh@iCC{@wCcEo@sBz@aDfA}Iv@}A~AaAdF?tC~@nFd@rHvNtE|BtB`Bx@tFiB~Al@dF_Av@lBlB@j@Ub@cDf@Qw@dA_A[cBgC?c@eBWE_@TX~Bs@nAl@j@?p@y@XuAq@?aDu@aGNYlAW?w@WmAUOaCl@IX`@`CSVeEt@qAdIs@\\uGWy@rCsCn@uC\\eAjKsH`JwBnAsBEqGkB}GKkGoFkOq@aDx@_EeByDOqANcC|Ay@lA@rDeArBYrBdAjBO~AsBv@kCfFiAz@aG|AgAbBq@rCcBrBeEbAsCDkAk@]wBaAuB[qDsDgBe@s@S}Bd@{DqCwDb@uAhAq@DgAq@mAcDsCqBwD",
+"average_heartrate": 147.9,
+"average_speed": 8.072,
+"source": "strava",
+"streak": 1
 }
 ]
