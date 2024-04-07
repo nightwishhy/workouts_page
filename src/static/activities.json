@@ -9358,5 +9358,20 @@
 "average_speed": 7.016,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11116892166,
+"name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+"distance": 19358.4,
+"moving_time": "0:41:49",
+"type": "VirtualRide",
+"start_date": "2024-04-06 08:27:31+00:00",
+"start_date_local": "2024-04-06 16:27:31",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "rp_fAww~y^P`B^pAn@zAv@hAfBtAbCtAdHtBpAp@`AzA`B~Ex@bB?`@GHW?aAkAa@Wi@Sq@A}@Xa@f@Ol@VrBfCfIpBhFHj@I^}@dAK|@O\\eAz@Yf@s@tBB`@x@fBr@dCh@\\r@Al@Wl@_BbAGfAi@n@Jh@r@XjBHbAMrABnAMZcAD_@d@K|ALv@pC|B|@^r@EnEcB\\DTV@\\OH_BHw@X[^FTPFz@Oh@?bCRdAGbAYjAk@lAgAVk@\\wBRm@vAeA\\g@fC{EfAaBr@sBb@mCFiCEcBg@aH@{Bh@gFv@wD~@wAdCaBjA_Bj@WfASn@CjAn@t@BXKL[EY]Yc@ICSHKh@IrAFRONa@G[SUcA?c@O_@s@e@}AAQNWvBi@LOHk@SgAoBgCMm@EgBUm@cAa@eCUwA?{B^_BIIO?_@NIlLaAr@UP]YYc@CyJnAy@?[YCULc@l@e@hAU~Gy@hAY\\WDSq@oAyFaMO{Ad@wA|@k@v@Cp@^h@j@Zr@hCfJn@fAjAL~GMhBQv^bGl@RTXHxET^^J^EXc@LoCd@}Ap@iAXOP@^d@Fh@u@`GVtA\\b@rBx@xD`A|O|Cr@IZ]hAqCr@eAh@_@lBaALU^oBp@i@nBy@f@o@d@aC|AyBf@{CB{DOuBB]Ng@b@q@VMpAKp@QvA_BNgAIw@]]gA]u@sBF_APi@NOh@WtAkAx@]T]?o@]qAC}AVuAv@aAH[Cy@e@w@Jc@b@Il@j@V@z@{@nA[X]Ds@Oa@u@q@@o@JWn@s@f@{A\\UnAMh@g@Fu@KcA\\eAPqBb@yA?y@mBiDwBuBiFkD}@c@_Cu@wCm@sFe@qFN{Eh@}FnAoCbAmAr@sC?i@\\Sr@AZHZdAxAGzANv@vAnALVD`@Mx@WL{@EgBqBw@WYNy@dAaAp@}D|Ag`@dJgOxDcHxBcAd@SXE\\XvAvA~D@NIH[LmJdCaI~@iAK_Aa@s@s@}CoEkA_A}@]oAQeA@_B\\}@b@sAnAqBbFm@x@q@^qE|@{Ht@}Ch@qEbBy@j@i@l@i@|@c@hA]hCH~Bd@fDb@rEMNo@Bo@RSb@Tv@|BxATb@@^i@z@iFjD_Az@",
+"average_heartrate": 141.9,
+"average_speed": 7.716,
+"source": "strava",
+"streak": 1
 }
 ]
