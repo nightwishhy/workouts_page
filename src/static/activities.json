@@ -9553,5 +9553,20 @@
 "average_speed": 3.093,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11312356167,
+"name": "Zwift - Petit Boucle in France",
+"distance": 37541.5,
+"moving_time": "1:17:13",
+"type": "VirtualRide",
+"start_date": "2024-05-02 01:58:16+00:00",
+"start_date_local": "2024-05-02 09:58:16",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "jptcCm~gu^xDlLxCfMiFhHKnAnGbLrAzHBxGYrB_BnEyC`DMxMh@|AbGnF`DlErCbBtBhIpJxMhDjCI~BiD`AJ`CkCnDW|AJbBj@j@hGiAdBxB@pBoBrAl@~D{AvC_Fi@sA~A{AFmBrAyA}B_Eo@wBiAGmAfB{ABqBe@m@eCM[}B{@w@aGkB{OgCgCn@{JEoLsFsBTaArAeALuGkAsHvEoNfE{M`A}Av@wBCgEoDkDmEaAkCgBqA{DW_FlAeDyA]yBhB}FB}Cw@{AgBy@iDcI_S_@C_CjB{Bf@_CVmGtF{FMoD}SYc@o@?uDeEcEeTmBgD_AaDuCuOkCs@y@IuEsEkCy@aBAsAb@kA`GcCHeFvC{@h@qBhDaAjBwB`C{@tIF|A{@FwB{CkBdCwCqCqCx@gCCaAgF_DEgA~IoNv@DzCdChAJr@s@T}Bh@i@`DhAnA]\\{F`@u@nAElDjAnAYb@_CsBqFSmBrBgBz@kFrAyAmAyD~DmMfCUbGcBrCsAf@kBt@[x@fAq@pC`B~CnJgAzBoCnBk@xDxG~@tGS~CsBvCiGlDu@dCJ`EnC|G`Ax@pBLfGgC~C@bBdApBlFIvCcArBiDl@aFO{AbCS~APvA~DdEn@fC[xBoAlCwG|EsBlDk@vGjChEfEtCrC~@`Fa@~CgArAcB~@mDq@_K|DwI~BiC~BcA|F@lB`@xCnCChE~ArBaAfB`D~@[zBuBJA~BkCES`A`CnA}@tANb@|BMQjBtBb@SdB`CVB`C~DsBjCnEtBs@d@`CtAPLvAxAyAl@z@z@eAl@x@d@Ch@mDrA?n@eAdAv@jAkBvChBj@GCeCdAe@TkBtBDh@uK`HwHoRor@?}AhAoD@aC}Ee\\_AmTq@w@wE|@aCc@kJ_KyFmLcI_HmRgFwBIeBpBhAvBiE?nHbEBn@oKx@u@b@Zb@vNtD{M~If@hA`PfCgH`DxCtEl@lDg@pCsCbD{B`AcCJkHqFuGRsAgCOcCq@i@oCmFyBp@sBfC{IlAw@o@q@uBn@kBG}@m@k@k@Fy@zBwCxAiG`BsAMu@n@yDxLhAlEuArAs@bFwBnBJzA|BjGYfBkAd@aDkAgB?g@v@a@bGcATaDmAo@f@WhCy@p@aASiEoCwI|M]`ALf@lFfDu@nEdCbBFl@oBzAQx@vCbBAdBcB`A}IE{B~@eBpBmDbAa@jB{C`AMbFqFtBq@jAAvA|@xBzErCAbEt@dAlN|B|EnDfLtB",
+"average_heartrate": 149.9,
+"average_speed": 8.103,
+"source": "strava",
+"streak": 1
 }
 ]
