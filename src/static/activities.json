@@ -9673,5 +9673,20 @@
 "average_speed": 8.311,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 11408587404,
+"name": "Zwift - Knickerbocker in New York",
+"distance": 22654.5,
+"moving_time": "0:51:36",
+"type": "VirtualRide",
+"start_date": "2024-05-14 13:22:18+00:00",
+"start_date_local": "2024-05-14 21:22:18",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10021, United States",
+"summary_polyline": "uk{wFjsmbMqAw@gQyNs@w@k@cB[qBV_EIiBU{@eAaAiW{P{DwBwHe@aATgCtAaBUuDaCsEwF{AmAqF@kD}@_BaBaAkCc@c@eAHo@jAEb@LdAlAxCGhAe@p@WHo@MgEeEgDyAmAHuA`CiAbDoAfJA`AZ|@rAdAt@Bt@UZ_@l@oDr@}@bG}@f@Fz@f@hAtAtAlF^t@dCrAj@t@tCdJfA~@lJnFd@l@~AhDrFd@dAd@`AnBjAfFvAzBv@x@`CrAhB\\|AOtDiA`A@`A\\zAnAdCvC`@p@`@`B`@^j@LvDMfBbA|JjL~DfHpBxBx@h@h@HnHYzAZZVpAtD|@`BrBpAfIbDfClCvEvGjBfBlBnAdAJjAk@h@_ADk@Im@}D{EuFiE_AgA{@aC?}@Ne@j@I`Ed@~DqCdBKp@_A~BaGZ]`Ae@n@PrAdCd@^TKpA{BbAEpA`@bDnBdAbA`@`AAxAo@tB}DpJcElOaBbFyAbCo@h@{@RuAQyCyAkA}@m@y@MoALoA`A_D`@o@tAaADaAi@iDFiArDgJLgAEc@_@u@{@u@m@EkAzAsBTeCrBs@VqEe@[NI`@@dATz@p@nAvGlFhFlFf@Cn@u@tAiE\\eCEcAg@aAqI{EcA_AqAqBUcA@_AtAgFCcB_BeC_EoCq@eAsAaDm@u@qDuA_APk@p@Ml@GxCoAzHNlDG~@i@bBuBzBaA`@iCg@sGXmAIu@a@gBoBeEkHcKwLeAu@o@QkDNu@Q]c@]yA_@o@cCuCcBwAoA]m@@uDfA_BP{AWkCwAiAmAkAoBqAqF}@cBq@_@iGk@_BoDk@o@yKqGg@}@mAsEy@wBa@c@qCcBcBkGe@y@q@k@_Bg@}F|@q@t@{@rD}@n@iAIaAu@[s@?aAjAeJ~@oCvAuC`AS`AXrCvApDtDp@Ft@s@JqAgAoCQeBd@qAn@Uh@J\\f@p@vB~AtBLx@EpALjAzBxEZjAF|@KvA_@rAuAjCIh@|BlIn@lAhL~G`@h@hAnC\\^|E^lA`@dAlBj@|Cf@vAdBjClAbA|Av@bBZdBQlDgAvAFfBdAlCvCn@~@l@rB\\\\~@PvCOrAd@lJlKzApB~C`GnCjCjATnH[rCb@dAk@|AeBn@kBFcAOkDnA{H@_BK_A]]iBMaBeA{@iA_B{Dy@m@",
+"average_heartrate": 150.0,
+"average_speed": 7.317,
+"source": "strava",
+"streak": 1
 }
 ]
