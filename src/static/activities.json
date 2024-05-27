@@ -9928,5 +9928,20 @@
 "average_speed": 8.618,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 11500377848,
+"name": "Zwift - Spiral into the Volcano in Watopia",
+"distance": 55781.0,
+"moving_time": "1:55:43",
+"type": "VirtualRide",
+"start_date": "2024-05-26 08:27:05+00:00",
+"start_date_local": "2024-05-26 16:27:05",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "xt_fAum~y^zRpJ|EbL]b@qD{BcClB|GdUwFzKrB`HnBPhAsBhCs@pAn@^nJiBp@QbChEvD~GiBl@`A_EzAbHRnFaClAuEhKeQd@iGi@iOfB_LbIgHzFZP{@cAw@hD{@{By@kAyCzCyCgCsEa@sDmO_A`OgCkO?dA}AfMaCeHuOIiC|AcBfC~@|EnN|KKx@gBHwJjDgM?wS}CSoNzDuBwHrv@sTEkLaFuFiB}Gh@{InHcEqC{@rBy@j@aCmAwEwCeFbEgD|@_E`MkHN_GeByDyFg@g@wCkCuAqAb@{EpLgEyG}O_Dw@kK`CwCPcCwAiSmBw@mLzCyFc@aG_JvA}_@~D}D_DwCUmFaCsAkC|E_B~@{HqKiDDaAbB`DtFe@zDeGfAaDhEiEq@uCx@kIhSr@dF|HlDr@fCq@`FgInSLnC}BhCfE~FDlDkGbEkAvE\\bBnFtEhBpFKlD{C`Dx@xF_CxBeINg@oA|@aDyBo@k@_DwE_BmBp@]~E{C@aAnAtB~Es@xGjB|HfFpCnAfC_EjTxEjLt@~Ge@bIqE`N\\tCxBpCa@xFnApLaC~AjDhEyInHa@lEjE`JrPjHtEpKYr@_EyBoBzAxGhVyFjLvCtG|AMz@oBjCo@jAn@^tJgBh@QbCjDhDbIsAh@x@}DbB~GLxFqC|@}DvKcRKaWlBcLhGaGvHCy@sB`Da@SmAkD_D|CuCcCeEm@iEgOy@bMcBv@gAqLfAsAw@lOgEqH_QnA}DfDjA~E|MjLi@b@cMlD{MFmRyCm@ye@`LmCi@aHgIaGc@kDhBwErI_WzDoHbGm@`FpAnMaChAjDvEyIjH_@xEvDfInQ`InEnK[l@wD{ByB|AxG`VwFxLxCpGzC_CzBk@vAj@^nJiBp@SvB`DhDtA^zFiBb@~@kDj@Gv@xGF|FqCfAqEhKoQMcVfBuLfH{G|GHw@wBhDgAuE]wFwEcDvG{EcFkMhIcEyIyCgAkD~@ThCnCxByCpCqC}A}AeDcBRi@hBxA|@@nBzBnAw@|BgFbAaFgCqBlBzGvUwFrKtBzGbBRvAyBfEYp@dKiBp@I|CbFdD~FqBl@~@}DbBlGPfGkChAwEzGsKaEgJkB}@eFfH_Da@cBtA}As@o@_DpAyC|G{@bBgBkByDwFjBiHo@}Dp@mDzByD|HnCxHfBQx@kBtEA^pJeBj@QhCvE|DbKy@hDkApHoKKoE_DyH{EcCuP`@qFjG~AnJhBxBbBKnJcEdEtCbCoA?wDcCyEaEeBiE@qExCm@pCtAtFrDxBbF[nBuF}CcFyFlA",
+"average_heartrate": 151.0,
+"average_speed": 8.034,
+"source": "strava",
+"streak": 1
 }
 ]
