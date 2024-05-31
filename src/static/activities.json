@@ -9988,5 +9988,20 @@
 "average_speed": 4.623,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11532829813,
+"name": "Zwift - 6x2 VO2 Max in Watopia",
+"distance": 10705.5,
+"moving_time": "0:24:17",
+"type": "VirtualRide",
+"start_date": "2024-05-30 13:11:20+00:00",
+"start_date_local": "2024-05-30 21:11:20",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pp_fAcz~y^Af@Bx@Jv@Nr@Vt@`@bA^n@\\b@t@r@b@ZdCxA|@^`@Nb@Hx@Xx@PfA\\b@Rr@j@Zb@b@x@^dAj@pB`@bA^j@D`@CLIDM@SMo@w@m@e@k@M_@Aa@Dm@X_@l@I`@Dt@ZtAbBtFrAtDt@bBLp@?NELa@b@KHSZELGp@EL_@b@c@\\UXk@dAM\\I`@?`@DPl@dAv@nCFLVV^JNEN?^KVS`@kAFONEn@?NEZQLKLENCNBZPVVL\\\\tC@`@Kl@C`@B|@?PGL[Fe@?]PCJGRGb@Ad@Bh@LVdDlCb@LP@RAPEn@[~@]^S|@UP?LDJHHNBNENQDy@BSBoA^MR?TNLV?f@OT?rAHRDf@Df@?d@Et@SrAm@hA}@T]FQJa@XkBL]TYZQh@_@^g@bCwErAyBZ{@T_ATuAHgADgAAeACs@[}DKiB?gADwATyBZyBXsARo@N_@R_@XWj@c@vAy@TUj@_A`@Sn@Wd@KXC`@BPFb@ZZJN@ZARGJOBK?OCKMSECi@KGEAI@GNINAHEZAn@HPANIJQFQ?IGUUUUCUBW?KAUM[q@Qk@Yi@CQ@MHMv@YXCVEZML[Ba@Im@Qa@OUy@}@U[KUKi@E{AEWIUWSWMQE_BQ[?OC}@?iALe@JU@SDk@?SEUAMKCU@QPIf@Ez@Cf@KzDYfBQh@QPKFUKSSGi@?}@FoARS@eC`@}ANc@AOKKMCQBSFOXYNIp@SPAdASdFk@fAY\\WDUEOw@uAoAsCqC_GOg@Ii@?SFk@Rg@JQ`@[PKRGj@@d@RPN^`@JRRf@rA|EbAbDV^LLPDd@Dv@?PCbCAPCd@?d@CxAQfAJdARr@HbDj@\\H\\BXJnBXtAXH?f@JZBZJR@d@JR@rB\\XHXFd@Bt@TNPBPBZ?fCBb@BLFLDBBDTHH@H?TENODMFc@BgAFs@H_@\\y@n@eANKHAL@D@LLLXFTEh@QdAWpBC\\@f@FZJd@LRZT~@b@RBPHLB`@LF?RHTDTHj@HVJj@HVHlARfAXf@F^Lf@Fv@R~AVVJXDL@ZAJCTQNS\\y@j@yAj@y@TU",
+"average_heartrate": 138.9,
+"average_speed": 7.348,
+"source": "strava",
+"streak": 3
 }
 ]
