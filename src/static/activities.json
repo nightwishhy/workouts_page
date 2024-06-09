@@ -10123,5 +10123,20 @@
 "average_speed": 7.348,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 11604168201,
+"name": "Zwift - Dust In The Wind in Watopia",
+"distance": 52786.7,
+"moving_time": "1:51:14",
+"type": "VirtualRide",
+"start_date": "2024-06-08 12:49:20+00:00",
+"start_date_local": "2024-06-08 20:49:20",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "hp_fA_}bz^hFdDrAxBmArKj@tAvG\\xDkD`@bD`DwAiAxCzAzB~C_GwBqF|@gDdENGtEpArBrAmD~E}C[sAsCiALkEoDuAfE}C{DL?aAxHFt@hDtDrAh@u@aCgE`H\\`AuBtBbEdCi@pArDrDdDpIgBjDkIoCgGqBkAwJVqFuBvFIzFkAj@gBqCm@mDtAmHwBdIyCrBqC~Hx@bK}ExAn@EzG`IyAhAzC{@zAoFLh@bHiApDfC~Ev@w@l@yDjEbARbAmAdA\\jBiAlBp@lAnEaEj@gClGm@EsFtDbBvFiC?zCaC~@nCzAeHfDq@hIjBbI`FpFG|Lev@zSfCfIlN}DtC^CjQuD`OC|Lh`@hHtAdHvAcFpBmCl@hAq@tGt@lBdYhHo@dF@tEwA~DXnEzEhHdGbC|FlHfPzApR}EnO~At@dDnH`@[bAiDZOhA~EvDfFjKnCl@hAoErCEhCbBj@rC|TtHhIP~BlCJlD{D\\]nCsB^kEBeJmC}@lAZvIrCbC[rEdHrDrHeBfA{Fs@yBr@{@lCDlChCrBmBpClBpDw@pFpBGjEcIzBcChEDlEhFdEkAvEqDdAgD{DmBu@aCpBgEJcDkEgFl@qAcEsBu@iInAwF}@sFmDiBsEqCuBo@eHuD}C|AaBc@oChCGqDoHhBiBvFp@z@gFcDoFLsJgHeH\\iA~CORuAcDaA}Bj@m@eDiOiBsRzEcQwAuFkHgGcC{EgHYcEvAgEn@aMwYqHW{LyB|AqAbGuBgH__@mGK}LzDsP_@qQei@zKwCc@_IyI_E]cFbCaFnIaVnDaHtEsCsBOwEzDeJv@aI{@eJgEoI?eD`AwBzIZnDmDf@dD`DuAkA~CdBrBtCwFyBqG`CkD|Bd@A`Fz@dB|@Gb@uChFaEqD{BPoEsDwAfE}CsDNK_AjIHn@rDpDbAf@u@cCgElHZt@sBtBfElCe@lFfIfHi@bFoJgCqGgCuAkJZkFsBjFGxFmA`A}AcDy@}CtAqHiC`IgCnBqCxHz@dJaFbCt@UpG`HgB~AjBVhAcA~AcFAb@nHgApDdCtElAaFfB[tBhA\\hAoA`A\\nBiAxBhAfAnFsI~Fe@MqFzD`BhE{CPeC}BmBScDvDiCv@yDzM{IAgEsAqDoG_A_@mCmBuA{B^yElLmAu@uCwFgNsBoA{KbCaDN}CwAqRiBs@gLzCgGc@{EaHv@wa@`EiEcDwCq@iG{Cc@wAtE_Bx@wHoKeD?gArBbDlFc@xDoGlA}CbEiDq@iDn@aIhR[rBp@hCtIlEf@`Cg@`EqIhTJpC{BhCrDpEb@bCi@pC_FtBsAbEBpBtDtC",
+"average_heartrate": 151.5,
+"average_speed": 7.909,
+"source": "strava",
+"streak": 1
 }
 ]
