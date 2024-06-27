@@ -10408,5 +10408,20 @@
 "average_speed": 7.033,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 11744635666,
+"name": "Zwift - Road to Ruins in Watopia",
+"distance": 30165.7,
+"moving_time": "1:02:56",
+"type": "VirtualRide",
+"start_date": "2024-06-26 13:35:45+00:00",
+"start_date_local": "2024-06-26 21:35:45",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "~x_fAqj~y^gDoDcAwCSsC|@cCdGgEx@oAQ}@iCmBQi@`CaAmAoOf@{C|BeD~HqCfRkCnAgAdCaGrB{AtA]rBErAXzAbA|EnGhCp@~Gs@b]kJbBKh@\\Lp@InO{@vF}BtHBnL|_@bHb@n@DhEt@j@p@YTgDd@uA~@uA`@?b@fAs@nGt@pBjYjHTj@iAvDBbEsAtDG`C`ArDvD`FtFrBhDhFtAjArD|@~Eb@pEE~LyDzC[nGbBjFAd@t@GzAb@ZxBi@zCz@Db@W`@iDVUhAfEbDxA`Cb@dCk@vFrBdBn@xBg@`BJ|AY`@eAPqDaAoBnBXzAvBdB^rByAOo@RI`@p@fBoAt@Ox@h@zAjCfA?`Cf@nCnCzBzB~EdCx@~AjB`FfAtCw@xC[xBTt@f@^hCp@p@b@H|As@jB?bBfDfA`@lDEnBqBz@BnAn@CdA\\h@nElAfBw@`ByE}@qBmD}BOeB\\cC`C_DtEo@tA_AXo@?aD}C}@qA_Ao@G}Cv@oCoBo@`@[`Ai@PaCgCcCMkAz@n@`Cy@`BPtAk@tA_CB{ClA_CaBsBg@eAwAr@eDiBeAe@y@VyCm@oElAw@rDx@hCzA|A[|AX|BU\\_@CwARc@v@OpA\\fAsA[{CyAo@a@uAcCk@qD^gUyHi@c@IkBgDsBeCJ[f@BfBu@~@sBc@_B}AsCqH_FoDZsAbDQXc@Go@}C}@oC^Wc@L}Ac@a@iFBiEsAeCS}MbEcCXyHYmFkAgA}@sDqFaEiAyAmAuDcGWqA@aCpAsDAiEdAcD?aAeAs@oSkEsCkAe@uBp@aGm@gA[?}@`Aq@hBYnDu@Ja@s@GgEo@i@q_@kGcMXu@}@yCiKm@_A{Aw@gBv@i@xAPnBdHjOgAl@uJpAs@\\[bATd@dAHzJqAx@V}An@qK|@Ul@tAf@fG]jDp@j@fE`BnB^nAUx@{Bn@Ij@bAvCnBVN^Yh@gCN?^bAp@]f@eCu@kBRy@\\mAbBsDtCq@`CaAtHAhDl@zHo@bIsGhMiBzAoAxEcF~BiEYyAB|@m@~BWF]_@q@w@?eFfBkEyC@wCtAYTm@FyDa@yCe@q@w@SsCv@qArBw@Di@c@iBeGx@}BxAwAZ{AdAiBaGyQW}B^w@`Ac@bBZ`B`Bf@Q?k@uEsKkNwF{DuD",
+"average_heartrate": 147.4,
+"average_speed": 7.989,
+"source": "strava",
+"streak": 1
 }
 ]
