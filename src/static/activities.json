@@ -10498,5 +10498,20 @@
 "average_speed": 8.262,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11767519525,
+"name": "Zwift - Shorelines and Summits in Watopia",
+"distance": 50909.7,
+"moving_time": "2:08:01",
+"type": "VirtualRide",
+"start_date": "2024-06-29 11:48:01+00:00",
+"start_date_local": "2024-06-29 19:48:01",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "xmffAs||y^lQyEzP~Av@jDdCg@xCbA]|@gDXOpA|ErD`GxKdCZz@gEfBUvDpBn@pChU|HtHJ|B~BZtC}@fAoCGg@tCkHXiIsC_BpAr@tDSrDnC~Bk@tDpHlE`IiBdAcGo@_Cx@k@bCLbC`CtBoBpCnBvDu@lFnBl@|BnHTtE_@dIkGxGBxB_AnJ|BtIk@dBdDxBn@`IOtB}@xAyDxDsBrAmHtNcSfEwA`DiMa@eD~ImAl@aAk@cB{AJ{AuAqAsCkDnB}@o@n@uBo@sBhAoMmAoBW{HuAmBoGaAU{ArIwAfDiEpFxGbHcA`FwET}DfCaHy@aBqGcBnAeFe@cFpGsBdD{IRgGlByC`@mExFgDnGs@RkMwHeDjH{Bd@iAoIwI}@~EyGAQ{J{DoAQmN`Dc@tB_CsByEf@}Eq@mEwK{JeI~@mGsBuLm@o@sJkM_PfBuJQ_BwC[wD`CHzAjBz@KbBrAnCgBpAuIgVuE}A{@sE{EiAwDdBuAyBuDMs@kDsIq@_AiHlDoDC}@_IgDgD_FyAN_GvFgAWOgDgASiDbBuCUkCnDmFgA_EpCqD^eCgAEqBkAM_CzEkFkAaBzCwIVgDrB_D`E_CtHeGmCiFlAsBfCaA~JmB`C{C?gIqD}I~@wCnCmG`AmD|GgGiFeFd@wIiD_Dd@gEdE}E\\gBlD~AvFW~D}LfH}@dEcEzCVnCtB~ApA`Fa@nByBbApCx@kHzDo@dJhBbH`FrFQvH~@xBtHsBtD}CtClCzAEPqBoBoB?cCkAoBl@iBnCDtOwE`Ni@xL~B~JzGxErH|BhAH`JdAfBvFwBh@iIhCe@pAlOjAbBhCVtB{EcAqFPyGgAyO^oBdSSz@lGhEvAdHaCnCuLnIuD~QhLb@jDtDx@|CdEClFdEdIa@vDcCvEz@tI{G~E_E_CqBlAe@pCwB|BtDrGg@pE}AfC{DxAsP_@cDeFqFF_EwA{AeDkAuGyNcAmGzGaE`Lp@|AcAvGn@vGrGzJsA|GsJtFwIY}B`BK|BbDlAzEaGbMcFjBcIuGkKm@{FbAgHu@c@cCdKNbEeDbCkFvPgC`Bo@c@r@gHg@sA}AD}BjCoCjYqBR}@sB[uKdAsJ_C{CcCrE?hPqBhFk@T}DaFVsDrC_HU_BaBGgEtGiCtOoBoCxBoKoAg@oAp@gCnHA~EyAlELfDlB`EzCdDzE~A|GdIrOjAbR}E`PbBt@dD~Bg@dD`AUfAcDRYjAhFfElCrHdB|A~B\\~@iEzCKfCbBn@tChTlHfIJnCrCXfCgAvAqCA]jCiHZqIuCuAjA\\lJlCxBa@hEvGxDrCw@",
+"average_heartrate": 39.2,
+"average_speed": 6.628,
+"source": "strava",
+"streak": 2
 }
 ]
