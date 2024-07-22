@@ -10708,5 +10708,35 @@
 "average_speed": 7.809,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 11940125086,
+"name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+"distance": 5719.8,
+"moving_time": "0:18:59",
+"type": "VirtualRide",
+"start_date": "2024-07-21 02:42:13+00:00",
+"start_date_local": "2024-07-21 10:42:13",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "f{rcCa|bu^y@?c@Co@MaAi@]Kc@?OB_A^cAt@e@Xy@t@UNc@Vu@Zu@X}@VyBXq@PMHOD[Pe@ToA`@M@]LO@ODaANa@G]I_@?}AHmBT]DaAl@m@Lo@Bm@Gm@BWTc@v@aDxEsArBCPC^DLFNd@p@FL@RQb@AJ@JFHRJt@?b@GNJBFGPGDS?uAKKCe@]_@?SLGFGVKlAEpBFv@EPIDI?CCI?KC_@?UBeAZ]?SOMSEUCc@KWEEQGIAU@SH]RYXG@UXURc@h@M`@@d@CPKHg@Jc@BEBW@EDO@U?GBc@?KEEML{M@qEK_BYwB]mAS_@[c@]Ya@UkA]GAW@OFIPBNBFJJNF\\L^B`@X|@t@F^Fh@EHIDECGm@EEOEQHEFAPFf@CvAEfAMx@c@dBO`@SZM@MGO]?o@T}AF{@Eo@O{@Yu@KGMDIFCL@XNt@?RAb@Gh@Md@IHODMNQb@YzAK`BKj@ONGDG?MMAo@HuAE{BCSGQMKQ?ODCFCRB^MhA}BbHMl@G|@Qp@EFEACE?OL}@JcB\\kBFs@CMGGGAO@SXy@~CiBrD",
+"average_heartrate": 149.7,
+"average_speed": 5.022,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11941243966,
+"name": "Zwift - Climb Portal: La Turbie + Col d'Eze at 100% Elevation in France",
+"distance": 19719.4,
+"moving_time": "1:04:57",
+"type": "VirtualRide",
+"start_date": "2024-07-21 07:15:54+00:00",
+"start_date_local": "2024-07-21 15:15:54",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "d{rcC}{bu^eBGcC}@o@?gAb@kAr@yBhBwAn@kA^_Er@uB|@qBj@wAR]?u@QmBLkCZ{@h@g@Lw@FsAGYHuGbKUf@?`@x@zAQ~@FTZJpAGRPGVsBIu@a@e@FUd@Ip@GfCD`AORgAG_Bb@YEQOO]I}@k@[{@ZiBdB[t@Cx@WNeCZs@?MQPmTMsB[mBc@wAUa@k@i@gBs@k@AWVBXXRpAXnAhAPdAALQDKk@IKQ?MJD`AKxCa@vBc@pAOPQ@W]Cg@Z}B@aAc@}BQUM?KFEVTrAMzAMd@g@ZQb@UpA[xCQNYACIJkCGsBQi@]AQV@d@MhA_CjHg@zCMC@[r@_GDs@AQMIO@ORk@xBa@jAoDvGyB|E{AhC{A|AeAh@aDz@_@PMRGh@DxGEZWR{ANyAUHYJE|@Pr@MXw@Cs@iAuAmDiAq@c@y@oAm@aCQaBD{DMo@~@iEFeAXi@Lg@Bw@MQKAUL[x@S`BeDhDMh@?vAITWIKs@AeCDk@j@_B@g@GUOMS?[TeAxB]pBcC~CaAzBGjD]@o@u@Qw@NoAUGMH]v@gBjCgBjFy@dBaArAcCrBgAr@}@\\aCAm@HsCfAgA|@eCFe@N]h@m@tBYrAEt@d@|AdBhEn@fCVzBAvBh@tBHjD`@xAHhAi@hAcClD_Aj@sC~@{@r@oA|AaAlBoArDMnBe@nACPd@j@AnCM|AsApIUfCtCxJt@pDZnDHdCw@dB_FfHW|Cq@xNy@fDmAdDqAzBm@vASfASbFYrBkChJ{AzDeAtBsAbBs@tAiA`H}A~BC|ARdAb@d@pBn@RLJXDbEIt@Un@aAtAmAfAaBlAuDdCe@bAm@pCYh@iANm@Ow@o@_BMsAdAkAReDQg@Py@l@k@zA]vBUfG[hA[Z}@FuDgAmCYyAEwClBeAb@gBTyETsA^eAdA_@pBQZkFrAsDfCqClA{AZs@?e@McAsAg@?U\\MhBwB|Ha@|CWp@e@r@wAlAiD`AsA?Ko@S]i@Sm@?_@LMTUv@Dp@Tb@ZN^J`@GZMV[Hm@lA?pBa@xAo@|@u@`AcBh@sDhBwGPu@HsAJUVGnAtAXJxA?|Aa@fCmA|BcB`Ac@fEcAZUZiBN]fAaAxA[xEWxASx@[tCkB\\EdE\\dEhA~@O\\]Vu@LmAFoDh@gDRm@Zc@|@k@TA",
+"average_heartrate": 158.5,
+"average_speed": 5.06,
+"source": "strava",
+"streak": 1
 }
 ]
