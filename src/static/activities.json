@@ -10798,5 +10798,20 @@
 "average_speed": 4.317,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11960542924,
+"name": "Zwift - Climb Portal: Col du Tourmalet at 75% Elevation in France",
+"distance": 15571.7,
+"moving_time": "1:04:22",
+"type": "VirtualRide",
+"start_date": "2024-07-23 13:02:24+00:00",
+"start_date_local": "2024-07-23 21:02:24",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "~yrcC}{bu^uAMmAk@o@Qc@Bo@Vw@b@aAp@yAlAo@\\yBx@uC`@o@PmClAmAZgBVgAUM?yD\\w@L{@j@u@P]@uAIK@WNIF{@xAoEzGoA~Bw@fAu@r@w@`@g@TOBe@Zs@r@{@tA[v@a@nCUx@o@nA{AhCeAxBkChGo@jB]r@Yh@yAvBkAtBo@r@]Tg@RqBl@aAb@kBl@KHk@XWXw@|AqBbBqCnBm@n@U^}@rCk@tA_ApAq@v@gCzB}AdA{CdAcEjByA~@s@n@{AfAg@Ny@Eq@@g@TgCbBgBt@yAVoC?sAO_Bg@sA?e@Lq@x@YJ{D@q@LwB|@k@NyC\\uBPk@DcBRe@J_Hd@qARqAGiCWaA?EBm@@yAT}A\\OH{Ah@{@TsANcDHy@HeCJEB}BHmBPo@Bu@JmC|@a@DSI]a@[ISFCFCX@l@EPu@n@s@^c@NqANkC?EBY?YDc@Nq@JkD?_BLs@Nc@NYBuAb@w@`@_@HqBx@wAt@k@Rm@No@DeCCi@FaAT}DdAwAh@eAVu@J}BH_BN_C^eABeAWgAAgBJo@Hq@Bw@AKDKPGTIrAWtB@p@HZNXf@b@x@\\dAVb@N|BlAtCpBr@l@fBbBvBbCnAbBz@zAtAjDVl@Zd@P`@Lr@Fr@AZMp@Ad@F|@X|C@t@GxB?v@`@xIMpJFp@AFMH_@?IEOMIYOoAQeDk@aEi@eCaAmCYcAw@aFi@iCc@wAUi@_@q@_CcDuAeCg@s@k@g@aAe@u@SgB]{B[kAEECoBAGCeAAGC{ECECoBIEC_ACECm@EqBKECyAIuBc@yAk@MI[Ki@Yy@UkCgAsA[sAAmAPq@PcANa@Nc@?WH}@HiE|@s@Jg@PuAZ_@Ta@NeA?yAOm@@SFOJINSlAKVa@ZiBt@a@ZMXGpAMXq@FYAkDs@i@Ec@IcAAyAPg@Ri@|@ML[R{@VgA?CCgACECg@Eq@EqG?_BSg@QWCsAc@y@a@Y]Qq@Aa@Fs@?WIi@Oi@]c@g@c@oAq@w@UeAMmBI_@Gm@Ma@OsBiAw@]kC_AQEkAe@u@S}Bw@_CoAi@[IIyAy@MEiBw@WQqAc@SEe@Oc@CECgBIEC{AIoCk@e@QSCgAk@[UyBcBc@_@",
+"average_heartrate": 157.2,
+"average_speed": 4.032,
+"source": "strava",
+"streak": 3
 }
 ]
