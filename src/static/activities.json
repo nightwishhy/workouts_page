@@ -10828,5 +10828,20 @@
 "average_speed": 6.878,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12108857463,
+"name": "Zwift - Climb Portal: Puy de Dome at 100% Elevation in Watopia",
+"distance": 21557.7,
+"moving_time": "1:24:20",
+"type": "VirtualRide",
+"start_date": "2024-08-10 07:25:33+00:00",
+"start_date_local": "2024-08-10 15:25:33",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "rk`fAec}y^x@rBLj@?\\GL{@~@QhAMZcAz@[b@k@tAUxAiDjGcCvD_@x@k@hCiAfJS|C[rAqAdCoAvD_AtB{@v@_EhB_AdA{@dBCf@L\\d@Lf@BTRH\\Bh@Cj@s@fCStAFd@j@`AHj@EXYLS?y@GyBg@[Cm@Jo@ZyAjAeCpAURiDlAi@Je@?[Ka@a@OWKg@Bi@n@uB?o@EUKGU?YNYZUb@WfAe@bKUrBMj@SZw@h@sB|@gAnAOj@AVFVXXRF\\?PM\\mALKPA`@RNVD^Cf@U~@sA~CiC~Im@fAyA`BgAbB]dAw@rDU^MHs@N}CNsB\\e@Zq@p@kDdEoAbBaAbCo@fCUdBKpDSfCc@pCg@rA_BvBw@tAm@dB_@|AM|ALxDKfAIRUVgBbA]X]d@e@lA{@`EqA`EmDxIwAhE_A~AoBlBm@v@oDhG{BhDqA`Cw@nBoAbCeMnRy@|AkB|EiBbDoAdBkDzCw@tAQ|@EpANzEC~MRrGIbDGnJMvEYxB{@|De@`AK`@]|DSdAi@hA_BtB]x@YfA}AnIi@jBaA|AqGpHe@Z{@\\aEfASAw@g@c@OkJk@gFy@cAe@y@i@q@q@g@y@{AkDw@iAy@}AM}@DuAlA}HhAcErAqCdCyCjC}Dt@y@hAy@xBiAr@Od@@`@XNBl@CpBa@`@A\\Ht@p@bArBTdABxAGbAYhA_@~@sAfCqAdB}AvAaBn@[DSKw@uAw@{BKw@@i@Pa@\\UxAJz@AdAmAN@j@R^ATI^]Le@Ai@Qc@YUe@I[?c@N]b@I^Dh@RZ}@dAYNe@?cAKYBWHSTKZAZNtAbAnCd@p@VP^?dBq@jAcA~AmBfAgBh@iAb@uAN_BGaBSaAa@_A_AwA_@Uc@GkAFkBXaA[c@?cAZ{Ax@uA~@s@r@qChE}AfB_ArAs@~Ai@~Ac@bBqArIEdABd@X`AfBtCfAfC`A|AXXx@l@~@d@lCn@`Fd@jFVd@L`Ah@f@@~EsA~@i@pCiDxBaCh@y@b@_AZeA`BwIb@aBb@{@vAmBb@_ARaA^_EH_@^s@XaAd@gCTiBLeBHkDLoMQaJ@eMM{EFeAH_@La@f@y@jAmAnAcAhBcCtB}DnAcDz@gBrE}GjG{JtD}HjI}MbCiCr@aAp@cBp@{BbC_G",
+"average_heartrate": 155.6,
+"average_speed": 4.26,
+"source": "strava",
+"streak": 1
 }
 ]
