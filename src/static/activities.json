@@ -10843,5 +10843,20 @@
 "average_speed": 4.26,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12116901730,
+"name": "Zwift - Climb Portal: Bealach na Ba at 100% Elevation in Watopia",
+"distance": 9832.6,
+"moving_time": "0:48:25",
+"type": "VirtualRide",
+"start_date": "2024-08-11 06:39:43+00:00",
+"start_date_local": "2024-08-11 14:39:43",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "vj`fAyd}y^r@lBh@pAF^?NELu@t@IJIZGl@OZa@`@WN]d@QZMZSj@Ip@I\\k@`AaAnBsA|B}@pBSZSVk@b@qAv@QFEDwAr@OLUHIHYPa@^C@iBpBeAt@[FO?GBmA?ECwBCGCc@AECe@CEC{AC_AJSHSBUH}@NK?UCWKo@g@GAQKOCECqAAqAHGBeA?GCYC{@SOKMCe@[KM[w@YuAWy@y@uAi@s@KIY_@iAiAWOUScAa@m@CECY?EBM@]VmA`Ba@\\{An@gA\\K@UJI@a@RI@k@Xm@Te@FW@q@Iw@Ys@]IAi@YIAuB}@[K[OYKq@[yB{@aBs@UIe@?GDENAfAVjDZlB?h@Kv@k@~By@`FYnAa@fAa@|@ORSNSDO?KAECQACCU?QDKFc@b@o@jAU\\a@b@mAfAm@b@UL_@JMHI@g@\\SZSf@Ox@OhAOp@GLINo@Zc@@WGIGCMMcBIoDIeAGa@MOy@c@MAIEq@Ac@BsBd@q@Hs@NUHm@JWBk@?e@O_@[e@i@OYQS{AcCECKQi@o@Ya@k@o@c@]SMYIMKYCc@OQCa@SOOOSIU[mAM]MS_@]m@c@KCWOME]Qi@QOIIAo@[GAYSIAKIICQQKC_@YGAYScBq@y@WMKs@QOK[GSKcAYiDw@YMs@OOKcAWOKSGgCw@MAIEe@KSIMA[Ms@MIEk@KECMACCKAECYCCCKACEo@ICCQACCOCEC_@CECOACC]CAC_@ICCYCCCOACCy@KCC[ACCo@CCCg@CCCo@ACCu@A[Ei@AQCuAAo@FmAb@aARsBRg@BCBsBBCBg@?CC{AAMACCUCECKACCOCMIICy@k@GIi@e@s@c@[GCCSCCEe@Gi@Wk@i@MSEAcAyAGCW_@GCcBuBUSGIa@_@GKGCMQICg@e@IC[YQIQQGAYUIAIIGAEEQIMKi@W_@YOCCCGAIKKCMIKCCCQCCCMAACWCCCIACCOAAEi@CAC{@AQ@CBO?OBADG@KHMBKHQJSRG@]ZYb@SPIBABG?KGKWEa@?m@HW@SISi@o@CMBYFIJ?D@PPTNJB\\CPGXS@YEQUa@i@i@_@U[KCCw@Ai@NKLCHIf@IDK?KIICUYEA[Y_@QKKEAKOGYFSh@e@RIZ_@BAPWFYAUCS_@q@q@aAkB{BKSKI}@{AKIm@gA]y@GSUqB",
+"average_heartrate": 154.3,
+"average_speed": 3.385,
+"source": "strava",
+"streak": 2
 }
 ]
