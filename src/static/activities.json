@@ -10903,5 +10903,20 @@
 "average_speed": 4.361,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12167600075,
+"name": "Zwift - Climb Portal: Col de la Madone at 100% Elevation in Watopia",
+"distance": 12759.9,
+"moving_time": "0:57:50",
+"type": "VirtualRide",
+"start_date": "2024-08-17 06:01:45+00:00",
+"start_date_local": "2024-08-17 14:01:45",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "tk`fAwb}y^z@tBHf@CV_AfAIVQfAi@f@KBk@v@i@nAOfAM\\sGtLcAnA}CrCmCxCuBlBY^@`@IRaFvFSJg@BcBtASJ]@QLAj@Pb@Fj@Ov@cA~CQtABf@`@lBAx@a@rBaCpG}@lBm@`A_@`@cBjA}@|@_BrB_ApBe@VST[v@i@jBw@vAC\\D|@GVc@\\iAb@u@x@yAxBWv@HnAO`CMl@YHSQFk@Zi@D]GSYCULUf@MvDKd@[LOMDWXc@BQAMUOIEIDSNOrAy@t@OTAP@\\VbBG|A_@`C]^SdCETWf@EXFh@h@xABj@K^Y^Sh@mAnHC\\@ZJ`@P\\`@NZIXeAHmAZc@LE`@?`@J~@tAPJL@RG\\[Vk@XcB?[ScBB{@La@JATF\\\\bA~ANN`@FPGJO\\w@j@[Ly@~@_AlBmAV?LVCVw@Ti@VOLOXMd@?`@H\\h@bAB^CZKNgAH]`@GzA_@XQZChBOb@_@d@Yj@ET@X\\`AIlB[hBe@HKRG|AGVo@ROR?b@`@bCCTSd@SR}BGYLUb@UdA]z@YAiA}@k@MY?]LMNgAnBWNu@AgAg@e@A_AHyA^aAFQV?b@JX\\Nt@IbB_@h@Jb@?r@Ml@AxAXd@TZZJV@VC\\Wh@e@b@YHMGc@s@UQmAI[Oe@Cg@FYNw@r@y@d@i@FiAWaA_@k@Gy@RQ?SOW_AWqBd@qCCo@UoBGaBb@aA@OGQMOk@MQ?g@LYb@Gb@@Tb@tA?ZMTQL{@ZKLENP~@~@jBd@xAIfAaA~@WpADf@\\x@zAx@tBt@bAp@TXt@^r@Bj@M^?THxAv@l@n@~@j@\\Ft@G^[t@mA`@[`@Cn@BRZC`@ILgA@_@N]p@s@rBUR{@IaCi@e@Yq@_AUIo@?o@Ri@B]Iw@i@g@Me@FoB|@i@L]?w@Uk@Yc@Gy@@cBX}@@u@Qi@Yg@Mi@?]F_A^kA@}COyEc@mDi@u@@SJMN?NLX`@ZdA\\jBHnBhAd@JxB?XDdCx@l@ZVTPDbAC|@TfBlAHLFZPRv@TdA@~BK|@L~At@j@NX?ROVi@FiAFIT?PDrA~@d@RjDXZJZVVl@Lj@GpA",
+"average_heartrate": 150.4,
+"average_speed": 3.677,
+"source": "strava",
+"streak": 1
 }
 ]
