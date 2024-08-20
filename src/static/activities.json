@@ -10918,5 +10918,20 @@
 "average_speed": 3.677,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12187167996,
+"name": "Zwift - New Workout in Innsbruck",
+"distance": 4584.7,
+"moving_time": "0:15:40",
+"type": "VirtualRide",
+"start_date": "2024-08-19 13:07:47+00:00",
+"start_date_local": "2024-08-19 21:07:47",
+"location_country": "Hotel Congress Innsbruck, 12a, Rennweg, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "oap_HmwpdAlAl@^HxBDrTfBLALEHMDO@g@Ce@eAwLi@{D?WBWHONIrA_@tBa@TBRDfAn@h@VVBVEPQN]RgAPwBRkDNwADcAJi@HMLKl@S\\Wb@o@`@s@lAgCt@cB`BkGHEJ@l@P`B\\X@VCJIHMFc@@}@SkFQyA?q@HULOLK\\OpE}Al@WvAu@|CiB`BmAt@w@nBaC`@m@HQJk@JOLENA`@B\\GtEqChAg@|FaB|FsAx@_@HAJDFJTr@PNl@PN\\x@|I\\dB^|A^vBz@hIfAbIb@`CL^Tf@NX`@d@z@n@b@T^J^BZC^I^S|@w@d@m@L]ZcAZa@",
+"average_heartrate": 124.5,
+"average_speed": 4.877,
+"source": "strava",
+"streak": 1
 }
 ]
