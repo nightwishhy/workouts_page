@@ -10933,5 +10933,20 @@
 "average_speed": 4.877,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12222216172,
+"name": "Zwift - Zone 2 #1 in London",
+"distance": 14956.6,
+"moving_time": "0:29:37",
+"type": "VirtualRide",
+"start_date": "2024-08-23 13:51:14+00:00",
+"start_date_local": "2024-08-23 21:51:14",
+"location_country": "Constitution Hill, St. James's, Victoria, London, Greater London, England, SW1A 1BD, United Kingdom",
+"summary_polyline": "gcjyHx_ZmH_VkIaXwBkHYw@[oA[i@_@_@UMe@CKGIMOc@K_AGQKOKG]@gAZOBMAMKEUEm@DmDCq@gB{EwAmDoC_IY_Am@eCAWDULCLN|@rDxBnGpB`FbBpEtBdFb@z@HTBt@PlADVXd@FV?ZAv@q@dL@rA\\`B`@`BvDpN~BdJnBpGB^E\\OTu@l@_F|EgErDIV@\\Pn@xBdGxDpJ~@zBlAlChB`F|AhDx@rAZn@xA`En@vB^~ATdCLdD@nEBv@JhAb@lDbA~LJtBFdDHlBVbCj@|Dp@~CPj@Rf@n@bAjC|CnAbBn@jAzAbDLLNDNANGLOXg@HWr@aDr@sGD_@CaABa@F]NUPM|@]POH_@?a@MgCBa@LYPKlC_@jCe@nJmBt@KfCY`AQLKFSBWEeBDULMNGN?NDLJHTLhAJPNDN?NCpAe@fBQxBi@NKLUxFeKxC{FjBiDhFsK`BuCPe@DUTqB@cDEmF@eAHcDXyGh@kHnAgMPqB@o@?uBIsBSqB[oBM{AgBuPg@qFS_B]qBWaA]y@Wa@g@g@w@i@wBeAk@]qAkAg@i@cAiB[{@gAiD[{@i@kAWa@Y]i@c@{CaCeDqCk@]k@Sk@Om@Gi@CoB?mEF[DMGGS@WLyAxA}WC[OMkB[OIEW?[f@mILaCJa@VEXDVALa@LsBNuDL_AJYNSr@m@\\g@Xm@FYFw@Cy@EYWg@o@a@}A{@}As@KMCWBWd@qDEUMIME{BYc@Ka@?cAPOCMOCW@WZ}@BWCUU]KGWEyA@_@DQFkE|BaA^k@NYBeAEi@@oEv@w@Be@Ce@OQKSSmBoDk@uAK_@UaAOcAOcCIgFAsFKmPAqGByCHiEHcBPoCRaBZ_Cn@{CtBmI`@eBb@qB`@aC^gDt@yKRuBHe@Ps@R[b@]HMJe@JwATcNLiDRoBx@mERqARqBPyD^aG^yCd@}BLeAAiAg@_FAe@?iAIeAI]K[k@kA",
+"average_heartrate": 151.8,
+"average_speed": 8.417,
+"source": "strava",
+"streak": 1
 }
 ]
