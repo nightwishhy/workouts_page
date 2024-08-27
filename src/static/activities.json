@@ -10963,5 +10963,20 @@
 "average_speed": 8.588,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12246766755,
+"name": "Zwift - Z2 Cadence Changes in Innsbruck",
+"distance": 23130.8,
+"moving_time": "0:50:04",
+"type": "VirtualRide",
+"start_date": "2024-08-26 13:10:33+00:00",
+"start_date_local": "2024-08-26 21:10:33",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "uvo_H_updAxPvAd@KL_@?y@gAcMi@{D@o@JOZOzD{@h@FxBfAb@@ROZ{@R}Av@iLRa@|@]XWxAeClBgE`BkGTGfDr@VAVSHe@@oASuEQsBDo@h@g@bGwBxC}AvHaF|AiB\\CHNBVXnGZdEz@nFVlCbCna@LvA^~Bp@dDt@pCB\\G\\a@j@i@\\{DzA}Cp@sBGe@L{@z@aCrDgAl@cC`@iFhAuFI_BJoGzBaD`AgK`CQXCP@~@RvCLd@R\\CRaBfCc@bACv@BfAGj@e@x@wBbCgGpKU\\QJKOAOLaBC_Ba@_Fe@oBS]YSoBi@s@a@oAqBsBuEk@q@aAe@mBDOCGS@u@Ly@\\}AN[n@e@~@qAPc@Bi@Ek@Mc@u@wAoAqAkHcEiDyBmAcAaAsAiBsEqCwEsAiDgD{KgAkESmAQsBB]NSf@LdBdA~ArAbPd[xB|DnEbG|BvB~CjCpDlB`CDdUfBNGJQ?kAcAyLi@aEA]DY`@YtAc@jB[h@FnAv@h@P\\?ZUNe@VyAx@mLDWZ_@dAe@xAeC~BoFvAmFZA|Cp@\\EV[FcACo@MiDUyCHs@n@g@zFqBnCwAtH_FfBmB^GHNBXZ|G`@bFv@rEVxC`Ct`@p@~Ep@hDl@zBD\\C^_@l@g@\\eDvAsDv@sBEe@Hq@h@mCbEcAn@gJpBaABmEMmAJaLrD_LlCQZ@nARvC`@bAO`@kAfBo@rACd@BfBGZa@t@_CjCaGhKi@n@OYLyC]wEYsB_@eAs@g@oBg@q@i@y@uAuB{Ew@_Au@]mBD[O?s@Jy@f@{Bl@c@tAqBJg@Ai@[kAc@y@mAuAoI{EiCcB{AoAi@u@uBcFmDeGwAcEaDoKe@qBk@yDC}@FYRGTHvBpAnAdAlPt[|B~DjDvEfCfCjDvCbCtAz@\\~BD`UdBNIHSBo@kA_Ni@aEB]HUzAi@bCe@j@JnBdA^BZOPe@VyA|@gMXc@r@Y`@[xAgCjBcE|AgGXG~Cp@\\AVYFcAOqFS_CFs@n@i@nFoBrCsAtCgB|DoC|AgBP?LLv@zMVtBb@`Cb@dExAdXd@|Gj@~Dz@`Ed@`BDz@IZa@h@i@ZyDzA{Cn@oBIc@H}@v@yBnDc@`@g@TyGxAyAT{FOaBLcGzB_Cr@mFvAcEv@IHIZ@r@ThDH`@PV@PcCfEIf@DfBOv@qB~B",
+"average_heartrate": 138.1,
+"average_speed": 7.7,
+"source": "strava",
+"streak": 1
 }
 ]
