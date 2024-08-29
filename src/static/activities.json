@@ -10978,5 +10978,20 @@
 "average_speed": 7.7,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12264402100,
+"name": "Zwift - Rainbow in London",
+"distance": 21433.4,
+"moving_time": "0:40:28",
+"type": "VirtualRide",
+"start_date": "2024-08-28 13:13:35+00:00",
+"start_date_local": "2024-08-28 21:13:35",
+"location_country": "Admiralty Arch, Whitehall, Covent Garden, Waterloo, London, Greater London, England, SW1A 2DY, United Kingdom",
+"summary_polyline": "_sjyHpyXtJj[rEhORr@DX@\\Mt@Gv@?hDCbDe@rYSrPBdADTHLNEFUBq@?sF@sBh@e]FoGAqC?]D[JWLQPKP?x@DPENKvCaDXg@FY?]KyAy@aPYuGu@yNUoG@kBf@kN@eAAoBOc@KIKEYEU?c@B}F?gABkAJ_C\\kCl@w@VuBx@eDtAk@NMBOAMIk@g@s@WMQ}BmF}BcGiBoEeCmHy@eDISO@EVBXn@jCd@xA~BxGvAfDfBzEBt@CbDBr@DVLJN?rA]NAN@NJJRFVFp@Rj@LJ`@@\\PZZXb@HTlCdJlMxa@lHlVF\\?\\Ox@Ez@?rCEfFe@lYOfO@x@BRFNH?HMBSDaACiCBkDj@{_@D}EAoCBm@Re@JMNENAz@DNCLIzCeDT]DSBUm@aLy@aQk@qKYkHAq@BkAh@wO?mBE[GSOM_@IgIBmCPoBV{Bd@cBh@iGfCo@PO?OEk@g@OKc@KQMKUwDiJuAsDmAwCaCcH[gA_@cBKUOCCXLr@h@rBZ`AzApE~BzFfBxEDn@C`EDl@FPLD\\EhA[L?LDJJHPTtARb@LFZ@LBXRVX^r@`DzKlJlZ~I`ZZjADX?ZSpAAZ?nDArBg@x[QnO@jAFVN@FUBmAA}EDsCj@_`@BuCAwB@y@D[JWNOPIRAv@FPGNMvCaDLQJUB[i@}Jy@qQw@iOQeE?uAh@aP@yBCo@IQKKKEYEiI?_ABaAJwAPyAZaCr@qCfA{B`AqAXO?MGk@k@QIe@MOQaDqH}AeEuAiDoCyHgAeEOA?\\Pv@rAvEdBdFbB`E~AhEFZ@^AzD@^DXPHRAjA[RAPDNRHXJx@FXJTNH^B^PZZ`@x@lCfJbKf\\hJvZNp@BZAZQlAAZ?~CEjFi@x\\@tDGbD?~ABXHPJQBs@?cHLsK^mTDkECcCB}@DYHYNSNKRAt@DPA\\W`BcBp@w@Ta@DWAq@Io@g@iKy@yQu@mNGmB?{Aj@uP@cBCo@ISIKOGYCoADkE?{AD_@AwDl@iCh@cBl@cFvBs@N[?KGu@o@o@UMOs@aBoBuEkBaFaBaEyBuGe@aBO}@ISKGIJ?THh@h@tB^jA`BvEd@nAlArCl@fB",
+"average_heartrate": 144.0,
+"average_speed": 8.828,
+"source": "strava",
+"streak": 1
 }
 ]
