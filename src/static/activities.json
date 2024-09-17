@@ -11083,5 +11083,20 @@
 "average_speed": 8.523,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12424369647,
+"name": "Zwift - Libby Hill After Party in Richmond",
+"distance": 13689.8,
+"moving_time": "0:25:13",
+"type": "VirtualRide",
+"start_date": "2024-09-16 13:27:15+00:00",
+"start_date_local": "2024-09-16 21:27:15",
+"location_country": "University of Richmond Downtown, 626, East Broad Street, Jackson Ward, Richmond, Virginia, 23219, United States",
+"summary_polyline": "iucdFprswMmEzIkGxLcPx[u@bBGd@@RLb@JLfAx@tEzCJLFPAPyMxWaCrEsBdEiAhCmBjDkBpDUVe@NKFIJe@|AkAzBmAbCSZKHw@\\KJO`@APAx@Mb@uArCgEbI{GdNeCzEQ`@{AjCGPARDPJJN?LKR_@v@cBnBuDpCyFhD}G|BuEhAsBdBeDR]XW\\ENGV[Jc@?_ATw@vC}FXc@NKPER?PBNH^Tf@f@d@h@v@l@xCvApF~BfClAtC~At@VP?NGJQFUJcAHm@|F_UBUBq@BoEAoFD}E?oOFmFCYOQUCUBeBGg@EQIQAOJMNoD`HoH|NaEzHsBnE{@xA_DjGS\\KHKH[FWVGNY~@oCxF[h@KJw@XUVGPCRAz@CPQb@uGhMoIvPcE|HEP?TFNLFNCLKHO~@sBpAcChMcWjEiIVYLG\\GXSNc@BoANc@`DqGVa@LIPEP@`@Jh@b@jAlAh@`@jBz@xHfD`Bx@pDpBr@PPCNMHQHk@Dm@Jk@zCsLtAkFLk@Bo@@yDA}IDiFAiLDkGMQUCkCGQCc@QQFMNaFnJuHjOyCvFaCdFoEtIUVk@NIJQ\\Sp@Wn@wC~FKHs@TWRK^CfAKb@O^eH`NuHjO_BvC",
+"average_heartrate": 151.8,
+"average_speed": 9.048,
+"source": "strava",
+"streak": 1
 }
 ]
