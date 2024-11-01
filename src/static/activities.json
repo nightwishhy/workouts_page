@@ -11203,5 +11203,20 @@
 "average_speed": 4.119,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12789783403,
+"name": "Zwift - Climb Portal: Col du Galibier (Lautaret) at 100% Elevation in Watopia",
+"distance": 22001.7,
+"moving_time": "1:00:37",
+"type": "VirtualRide",
+"start_date": "2024-10-31 13:36:30+00:00",
+"start_date_local": "2024-10-31 21:36:30",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "|l`fAg`}y^Zv@?l@aAfA_@bBcBjBg@jAUxAiDpGgBhCu@xAYzASxEa@`@w@Bk@b@AjA`@fGCh@Sf@w@\\iC?sAKoBi@]RCXHVz@`@jL~DtDzA~@?zAi@b@Fj@`@n@~An@lCJpAB`FVhCl@jCz@hADZEX[Pa@Kg@uAwAaFiBsBgCgBsCuAuC_AyGcBoDYgFiC_F}DWIg@H]n@wAnFm@rAmAlBcAfDs@xDw@`Hm@fDG~Ar@tD?nCa@rBmAxAUp@Jv@x@dBHfA_ArEy@jJU\\aAG]SSe@A}JGi@Wm@i@_@aBYcCcDoAMa@Qy@y@eBuC}AkEwAcFu@{HW}Ac@aAqAeBiAuC_@UW?o@b@u@Ck@kAQqBQm@qAsBsCwCiDuBiFqFa@OcAHcDfAO`@OlBy@lAcDbDoDpCaAZuADm@KaAs@sAwF}AkCKe@Ay@l@cDF{@Sg@c@GOJOj@EtAg@vFFx@v@fCJfAW`Ay@nAGfAFXb@b@hE|@b@TVb@@^Y\\]Hq@Q}AcAcC}@m@i@e@wAQuA@y@ZqCAyAMiA_AqCWaB]COP@f@XjAGRM@UQ]wBSMWFGP@Z\\~BA|CJbDM~AX~Ea@Ra@\\IZ?l@h@v@t@Jr@UVa@D[Ei@MW][i@AIYU{DJuBMqDDsC]eCJ_@R?NPRbBLTXBPO]mBLYZFT|A|@pCNzC]rC?~@Jx@h@hB|@t@rExBr@Rp@SNW?[[k@m@YoDs@WK_@m@FmA~@wANw@Eu@w@oCKmAh@cIRk@VETJHVCr@q@nDBlAfBbDlAjFl@p@pA\\jBMd@OtCsBrDuDdAqARs@FoAHWbC_AtAUZHdA|@zChDrD~BnCnC|AbCf@bDl@bAXJXCl@_@XAf@f@n@hBbC|DfAdKlAtE|AtElA|BzAdB`Cp@nBjCfCr@RVVpAAdIDr@Zh@RLVJt@?Zi@z@qJz@_E?y@cA_CK{@JW~AqBXwA@}Co@qCGwAr@gEj@aGn@sDdAuDXw@vAcCt@sBz@oDJ[TQ\\AZJnFjEzDjBtAZxABtIxBfC~@bClAtBxAhBhBt@lBr@vC\\z@\\NZKNW?_@eAgBe@uBY{CCyEM{A}A{Eo@a@[G]@qAf@w@G_DqAoKoDuAk@UYB]ZIpCn@vCHz@Mj@i@J]@_A]wE?yAPWtAW`@m@XwF",
+"average_heartrate": 147.2,
+"average_speed": 6.049,
+"source": "strava",
+"streak": 1
 }
 ]
