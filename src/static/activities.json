@@ -11218,5 +11218,20 @@
 "average_speed": 6.049,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12802175592,
+"name": "Zwift - Itza Party in Watopia",
+"distance": 30598.9,
+"moving_time": "1:01:13",
+"type": "VirtualRide",
+"start_date": "2024-11-02 07:56:36+00:00",
+"start_date_local": "2024-11-02 15:56:36",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fb`fA{n_z^f@\\KdA_@l@q@GIaIt@}Ah@n@pBhIz@r@n@ML{A{BsIIwArGeAtJqHfHKbGx@vAjBZhC_ElGMfLcFy@oE~D_NlBqFvA}@lAK|E`@bAt@JpLsCvIi@tXfGpA}A`BgItOcBv@k@M_@uAAwInAsAg@z@sAzJuAxAw@oHePEgBjAcBlAKpA~@nDlLv@dA~ICjA[Vk@N{KtCoJ`@qD@eP{@{@}BNa\\~IsGr@{Ck@yGaIyBm@cCHmDhB{CxGgBlAaU`DsD|AsCdCmAy@w@cBAyD|DkJr@sH}@iJoBkCGeAmAuBOiBZeBhAwArCd@`Ac@fB\\lAmBpB_ADnCXRnB}Ap@FiAbD~ArBv@}C`BiB{@oAFmA_A_A?}@z@yBrA]z@Dz@t@PpB_@vAv@hB|@Kf@sCbBa@tBcBNq@w@oAuBk@^iC_@{AgDiA`EmBDq@WSeDb@Ey@rDe@|Cj@Vb@QtA|@nAxCl@h@u@kC{D~@SfAr@bAi@jBZTaB^Sd@\\dA~Cv@NlAu@zAxD`Bt@bBpBpG_Ax@cAz@sChAiAL_CyBqEkAgAeAU_Cj@wBa@sBPcAoAcDa@Bc@d@OdEd@pFiAdAk@E}@{Cm@cBlA{@FsCmAsCU?s@bD{AtCc@nBiCbE~@pBE`D{@xC_DxCNTx@YrFlB?~AiAvAYp@\\~@zBAl@eApAuEKMfBn@rEiAnDfAbD`Ap@n@a@OoCt@y@vAUzBhAZlAmAx@\\rBkAxBTv@~@Fj@_@b@gBzAu@t@mC~DA~@a@VkCm@eALa@|AD`BzAdEaDHeCoBqAk@qBH_AnA{AjBu@ZiCh@}@vL_H`@eBEsCzCw@hAaAZ}AMmD`EoE~@[nDVfGrChF_@zDlE`ANx@u@dAqDz@gAlFg@hDyCfCPjEmApHjDbE?bA_Ab@uAv@cJlBgCtEoAvEjChAA|@gA~@gF`BuA|@qBvDsBvHIzBiDbDjAfA?t@iDf@k@lAANxBnCjAxDe@|DmCfFjAf@c@V{AtAu@jC\\lCaB|ARD~ClA^|Ay@rDgEn@OfA\\~BpEfC\\jDxBEx@kB`Ay@dB~@zHjBh@tFHd@bDzDN|A`C`EmBrDz@l@x@b@jDpCZt@j@bH|SdAbB|Aa@PkAoAeCHaBuBoAAy@fAmAjBs@`CPTvAwAdEOpD~LhO^tAAfF\\lA~B`AbIE`GlB",
+"average_heartrate": 147.7,
+"average_speed": 8.331,
+"source": "strava",
+"streak": 1
 }
 ]
