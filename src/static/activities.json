@@ -11278,5 +11278,20 @@
 "average_speed": 7.716,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12856158917,
+"name": "Zwift - Triple Loops in London",
+"distance": 16957.3,
+"moving_time": "0:33:42",
+"type": "VirtualRide",
+"start_date": "2024-11-09 02:14:18+00:00",
+"start_date_local": "2024-11-09 10:14:18",
+"location_country": "KFC, 2, Tower Hill Terrace, Tower Liberty, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4EE, United Kingdom",
+"summary_polyline": "}kkyHbvNJ^TlAPbBDhBE~AYxD}@|Nc@hFQrCUtBo@`Dc@zCcBxOg@nGShDIbBG|EGbLIbEFrCl@vGF`CG`O@~BFxC?`CGnIA`L?tFBlARzE`@zFPjBfAxG~@tEZzA|@nCn@bBv@|AfAnBX`@|@v@xBzApCtA^XLPJTFr@Ep@QbAUtBa@bD}@`J_@bC?XBJVh@FXD\\Ep@YhAI~@o@pL?dAN|@p@lCtDhNzB|IhBbGHVDZAZGXMPmAdA{DzDoEzDGHCN?NTt@|BnGjFpMlAlC`BnEhBbEx@rAZn@fB|En@xBX~ARbCFdBFhHJhAh@pEbAlMFhAFrDLzBb@vD\\zBr@~C`@dAh@|@xBfC|ArBt@nAbBpDLFL?LELKJMRe@t@gDJs@l@wF@[Cy@Jw@JUNM^Ub@MNKJW?]MsC@[HYLOb@MfBUlDo@~IiBj@IpC[`ASJGFQ?i@E_A@WFSJMLGLCN@LDJJHPDRL`AJLLBZGfAa@hBS|Bi@NKz@_BtEmInCiFhAsBrAmCvCiG|BcERg@NeAFiA@mDEmGJeDTcGh@kHjAiLV}CBcA?{AIiCGm@i@cEUgCcBwOa@yEYuBYyAW}@]y@W_@YWw@k@aCkA[SmBaBe@m@w@yASg@gAiDy@wBUe@c@o@i@g@mGcFy@s@k@_@_A[]I]Em@CsBAqEFgAF]FgABsCb@cGt@sCDq@FqDbAi@FeLKiFAsABw@D_BP}@NmCl@{@X_Bl@uD~As@RK@M?MEs@o@m@QMMKQiJuU_CcHq@sCIQKEGNFj@v@|C~B~GrBbFbBrEDn@C|DDl@FPLD\\EjA[N?LFJNFPNbANf@JLj@DZRLHX^Rb@tAxEdJzY~GzTdDvKPt@DZAZMr@Gt@?|DEnFk@x]IdH?rA@TFPJABUBk@A}DBuCp@cf@CoDBWFUHSJONKLCNAn@FNALGzCaDT]FQDW?YQwBu@mN",
+"average_heartrate": 133.2,
+"average_speed": 8.386,
+"source": "strava",
+"streak": 1
 }
 ]
