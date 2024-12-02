@@ -11383,5 +11383,20 @@
 "average_speed": 5.009,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13027378500,
+"name": "Morning Ride",
+"distance": 39588.4,
+"moving_time": "1:44:06",
+"type": "Ride",
+"start_date": "2024-11-30 21:13:59+00:00",
+"start_date_local": "2024-12-01 05:13:59",
+"location_country": "Cove Way, Sentosa Cove, Southern Islands, Southwest, Singapore, 098203, Singapore",
+"summary_polyline": "{wqFi_xxR_Ad@_@f@_@HOKQ{@gBiCUUaAOi@@q@N{FjBiCLeAx@[~A?h@Nh@RVdEbDj@~@Vt@Hv@AfA_@`CQx@Wd@aDnCa@f@a@|@SlAw@xROhA_AtAoA`Aa@f@YlAL`BIR}DpF_FhFi@`Aa@JSGa@s@eAy@sCyCe@Qi@A{@\\}IdGaDdCaA`@qXUeCXoMMwCJaDOkA`@W|@Av@J`CVxAPlC@|BMbCc@nAyAzCSv@e@d@aA|AsCjFOd@UTeEnKy@|@{EjHcB`D_@pAQxABzFgAzKo@~CkCvH{@tDUvL[~C{B`GmD~NyA|DiBhGyAjG_A`FyAnEu@xCuCpMiD|OS|Bm@rAkBpCu@r@iBjAwHjDiFhDaTfOmCbCkB`Cs@nAaCnFiC|HgF|SyClOmB`FkC~C}@r@kDfB}Aj@oE~@_Bd@il@`TgANmBv@yKtGgOtJuA`A{AzAiE|CK\\?`@Rp@fD|EnZn]xAvBpAnCvAlEh@xF@|CQxBq@~C}AlDkCtDcAbA{CdCmVjR_BfBeAlB}A`Fa@hDEhALv@q@dCyDhVoHfo@}@jGk@pC@nBNd@U@WlA[jBYbDD~EXhEz@pVGzCDrBL`@h@n@t@Nk@VFp@Kd@UVqAHk@e@Ec@Bg@^y@?oAS}Mw@uSHoIGUTmCpBiPt@sFz@yExAuOhDeYXcEpAgLrAuK^oBvAoD`CgDrAqAjUcQ|EcEfCkDhAsBb@uA^gBPaC?yEg@aEe@uB_B{DiAcBmEiFwLiMyFsGqFcHa@YBM[s@HW~a@oXzEiCbk@{SnTuH`Bu@nA_AfBgBrAyB~FkSjG}VnB_GfDiHvCoDtCcChUaPnOuJnByBn@sAv@{Cf@mAbByH|@{C`@sB\\}@j@gD|BaIjC}Kx@eCT}AvAyFp@wDv@mB^gBlAiEb@}C\\{@l@u@fA}FRiFv@uJpEoNPcAv@qKEkENgBTeAtEeJ`@a@hC}EhBcGfBoDzD_GbDiG^cA^sCJiESaGFgBOcANMjA[pBUjGF|AXvHDdBCnEc@bVLjAe@~K}HbAcBbAQtAhAnDfE`@TnAK|FoG|ByCHUAeAj@{BXo@~BwBXc@RuA^wL^kE@o@~@kBbEsDRg@\\qBNuAC_AOi@_CwCkCwAc@q@I_@Aw@Hm@`@iA@k@NYXMZBz@b@zBCvCiApCs@f@Cp@Nf@^tApB",
+"average_heartrate": 149.9,
+"average_speed": 6.338,
+"source": "strava",
+"streak": 1
 }
 ]
